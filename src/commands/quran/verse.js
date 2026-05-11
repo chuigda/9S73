@@ -8,6 +8,7 @@ import OpenAI from 'openai'
 import config from '../../util/config.js'
 import { buildRangeSelectPrompt } from '../../util/prompt.js'
 import { getVerses, executeGetVerses } from '../../tool/select-verse-range.js'
+import { parseVerseNumber } from '../../util/verse-num.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const dataDir = path.resolve(__dirname, '..', '..', '..', 'data')
@@ -132,11 +133,56 @@ export const data = new SlashCommandBuilder()
     .setDescription('查询随机或指定的古兰经文')
     .addStringOption(option => option.setName('verse').setDescription('经文编号，如 2:32，13:11，96:6-7 等；留空则输出随机经文'))
 
+const specificVerse = async (interaction, verseInput) => {
+    await interaction.deferReply()
+
+    try {
+        const parsed = parseVerseNumber(verseInput)
+        if (typeof parsed === 'string') {
+            await interaction.editReply(`输入格式错误: ${parsed}`)
+            return
+        }
+
+        const [chapter, start, end] = parsed
+
+        // 根据章节号找到对应文件
+        const surahDir = path.join(dataDir, 'surah')
+        const files = (await readdir(surahDir)).filter(f => f.endsWith('.json'))
+        const targetFile = files.find(f => {
+            const num = parseInt(f.split('-')[0], 10)
+            return num === chapter
+        })
+
+        if (!targetFile) {
+            await interaction.editReply(`未找到第 ${chapter} 章`)
+            return
+        }
+
+        const surah = JSON.parse(await readFile(path.join(surahDir, targetFile), 'utf-8'))
+
+        // 筛选经文 (inclusive end)
+        const selectedVerses = surah.verses.filter(
+            v => v.verseNumber >= start && v.verseNumber <= end
+        )
+
+        if (selectedVerses.length === 0) {
+            await interaction.editReply(`第 ${chapter} 章中未找到经文 ${start}-${end}`)
+            return
+        }
+
+        const output = formatVerseOutput(surah, selectedVerses)
+        await interaction.editReply(output)
+    } catch (error) {
+        console.error('specificVerse error:', error)
+        await interaction.editReply('获取指定经文时出错，请稍后再试。')
+    }
+}
+
 export const execute = async interaction => {
     const verse = interaction.options.getString('verse')
     if (!verse) {
         await randomVerse(interaction)
     } else {
-        interaction.reply(`将输出指定经文: ${verse}`)
+        await specificVerse(interaction, verse)
     }
 }

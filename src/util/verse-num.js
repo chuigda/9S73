@@ -11,7 +11,7 @@ export const parseVerseNumber = verseNumber => {
             return '经节号无效'
         }
 
-        return [chapter, verse, verse + 1]
+        return [chapter, verse, verse]
     }
 
     const [part21, part22] = part2.split('-')
@@ -25,8 +25,8 @@ export const parseVerseNumber = verseNumber => {
     }
 
     if (endVerse < startVerse) {
-        return [chapter, endVerse, startVerse + 1]
+        return [chapter, endVerse, startVerse]
     } else {
-        return [chapter, startVerse, endVerse + 1]
+        return [chapter, startVerse, endVerse]
     }
 }
