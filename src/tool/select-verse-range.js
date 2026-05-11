@@ -30,7 +30,7 @@ export const getVerses = {
 export const executeGetVerses = (surahVerses, { start, end }) => {
     const selected = surahVerses.slice(Math.max(0, start - 1), end)
     return selected.map(v => {
-        const cn = v.translations.find(t => t.languageName === 'chinese')?.text || v.translations[0]?.text || ''
+        const cn = v.translations.find(t => t.languageName === 'chinese')?.text ?? v.translations[0]?.text ?? ''
         return `[${v.verseNumber}] ${v.textUthmani}\n    ${cn}`
     }).join('\n\n')
 }
