@@ -1,0 +1,154 @@
+{
+  "id": 105,
+  "nameSimple": "Al-Fil",
+  "nameArabic": "الفيل",
+  "versesCount": 5,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6189,
+      "verseNumber": 1,
+      "verseKey": "105:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 549,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+      "pageNumber": 601,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96263,
+          "resourceId": 20,
+          "text": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant?<sup foot_note=230495>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752902,
+          "resourceId": 109,
+          "text": "难道你不知道你的主怎样处治象的主人吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6190,
+      "verseNumber": 2,
+      "verseKey": "105:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 549,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+      "pageNumber": 601,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96265,
+          "resourceId": 20,
+          "text": "Did He not make their plan into misguidance?<sup foot_note=230496>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752903,
+          "resourceId": 109,
+          "text": "难道他没有使他们的计谋，变成无益的吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6191,
+      "verseNumber": 3,
+      "verseKey": "105:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 549,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "pageNumber": 601,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96267,
+          "resourceId": 20,
+          "text": "And He sent against them birds in flocks,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752904,
+          "resourceId": 109,
+          "text": "他曾派遣成群的鸟去伤他们，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6192,
+      "verseNumber": 4,
+      "verseKey": "105:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 549,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "pageNumber": 601,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96269,
+          "resourceId": 20,
+          "text": "Striking them with stones of hard clay,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752905,
+          "resourceId": 109,
+          "text": "以粘土石射击他们，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6193,
+      "verseNumber": 5,
+      "verseKey": "105:5",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 549,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+      "pageNumber": 601,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96271,
+          "resourceId": 20,
+          "text": "And He made them like eaten straw.<sup foot_note=230499>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752906,
+          "resourceId": 109,
+          "text": "使他们变成吃剩的干草一样。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

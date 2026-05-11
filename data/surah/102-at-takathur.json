@@ -1,0 +1,241 @@
+{
+  "id": 102,
+  "nameSimple": "At-Takathur",
+  "nameArabic": "التكاثر",
+  "versesCount": 8,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6169,
+      "verseNumber": 1,
+      "verseKey": "102:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 546,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96211,
+          "resourceId": 20,
+          "text": "Competition in [worldly] increase diverts you",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752882,
+          "resourceId": 109,
+          "text": "竞赛富庶, 已使你们疏忽，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6170,
+      "verseNumber": 2,
+      "verseKey": "102:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 546,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96213,
+          "resourceId": 20,
+          "text": "Until you visit the graveyards.<sup foot_note=230484>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752883,
+          "resourceId": 109,
+          "text": "直到你们去游坟地。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6171,
+      "verseNumber": 3,
+      "verseKey": "102:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 546,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96215,
+          "resourceId": 20,
+          "text": "No! You are going to know.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752884,
+          "resourceId": 109,
+          "text": "真的, 你们将来就知道了。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6172,
+      "verseNumber": 4,
+      "verseKey": "102:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 546,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96217,
+          "resourceId": 20,
+          "text": "Then, no! You are going to know.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752885,
+          "resourceId": 109,
+          "text": "真的, 你们将来就知道了。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6173,
+      "verseNumber": 5,
+      "verseKey": "102:5",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 546,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96219,
+          "resourceId": 20,
+          "text": "No! If you only knew with knowledge of certainty...<sup foot_note=230485>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752886,
+          "resourceId": 109,
+          "text": "真的, 假若你们有真知灼见, (你们必不疏忽)，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6174,
+      "verseNumber": 6,
+      "verseKey": "102:6",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 546,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96221,
+          "resourceId": 20,
+          "text": "You will surely see the Hellfire.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752887,
+          "resourceId": 109,
+          "text": "你们必定看见火狱，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6175,
+      "verseNumber": 7,
+      "verseKey": "102:7",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 546,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96223,
+          "resourceId": 20,
+          "text": "Then you will surely see it with the eye of certainty.<sup foot_note=230486>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752888,
+          "resourceId": 109,
+          "text": "然后，你们必亲眼看见它。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6176,
+      "verseNumber": 8,
+      "verseKey": "102:8",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 546,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96225,
+          "resourceId": 20,
+          "text": "Then you will surely be asked that Day about pleasure.<sup foot_note=230489>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752889,
+          "resourceId": 109,
+          "text": "在那日，你们必为恩泽而被审问。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

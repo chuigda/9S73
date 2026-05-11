@@ -1,0 +1,270 @@
+{
+  "id": 104,
+  "nameSimple": "Al-Humazah",
+  "nameArabic": "الهمزة",
+  "versesCount": 9,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6180,
+      "verseNumber": 1,
+      "verseKey": "104:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 548,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+      "pageNumber": 601,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96243,
+          "resourceId": 20,
+          "text": "Woe to every scorner and mocker",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752893,
+          "resourceId": 109,
+          "text": "伤哉！每个诽谤者，诋毁者，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6181,
+      "verseNumber": 2,
+      "verseKey": "104:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 548,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+      "pageNumber": 601,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96245,
+          "resourceId": 20,
+          "text": "Who collects wealth and [continuously] counts it.<sup foot_note=230491>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752894,
+          "resourceId": 109,
+          "text": "他聚积财产, 而当作武器，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6182,
+      "verseNumber": 3,
+      "verseKey": "104:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 548,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "pageNumber": 601,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96247,
+          "resourceId": 20,
+          "text": "He thinks that his wealth will make him immortal.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752895,
+          "resourceId": 109,
+          "text": "他以为他的财产，能使他不灭。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6183,
+      "verseNumber": 4,
+      "verseKey": "104:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 548,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+      "pageNumber": 601,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96249,
+          "resourceId": 20,
+          "text": "No! He will surely be thrown into the Crusher.<sup foot_note=230492>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752896,
+          "resourceId": 109,
+          "text": "绝不然，他必定要被投在毁灭坑中。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6184,
+      "verseNumber": 5,
+      "verseKey": "104:5",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 548,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+      "pageNumber": 601,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96251,
+          "resourceId": 20,
+          "text": "And what can make you know what is the Crusher?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752897,
+          "resourceId": 109,
+          "text": "你怎能知道毁灭坑是什么？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6185,
+      "verseNumber": 6,
+      "verseKey": "104:6",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 548,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+      "pageNumber": 601,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96253,
+          "resourceId": 20,
+          "text": "It is the fire of Allāh, [eternally] fueled,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752898,
+          "resourceId": 109,
+          "text": "是安拉的燃着的烈火。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6186,
+      "verseNumber": 7,
+      "verseKey": "104:7",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 548,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+      "pageNumber": 601,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96255,
+          "resourceId": 20,
+          "text": "Which mounts directed at the hearts.<sup foot_note=230493>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752899,
+          "resourceId": 109,
+          "text": "能升到人的心上。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6187,
+      "verseNumber": 8,
+      "verseKey": "104:8",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 548,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+      "pageNumber": 601,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96257,
+          "resourceId": 20,
+          "text": "Indeed, it [i.e., Hellfire] will be closed down upon them",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752900,
+          "resourceId": 109,
+          "text": "他们必定要被关在烈火中，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6188,
+      "verseNumber": 9,
+      "verseKey": "104:9",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 548,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+      "pageNumber": 601,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96259,
+          "resourceId": 20,
+          "text": "In extended columns.<sup foot_note=230494>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752901,
+          "resourceId": 109,
+          "text": "吊在许多高柱子上。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

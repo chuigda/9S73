@@ -1,0 +1,415 @@
+{
+  "id": 61,
+  "nameSimple": "As-Saf",
+  "nameArabic": "الصف",
+  "versesCount": 14,
+  "revelationPlace": "madinah",
+  "verses": [
+    {
+      "id": 5164,
+      "verseNumber": 1,
+      "verseKey": "61:1",
+      "hizbNumber": 55,
+      "rubElHizbNumber": 220,
+      "rukuNumber": 486,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "pageNumber": 551,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100858,
+          "resourceId": 20,
+          "text": "Whatever is in the heavens and whatever is on the earth exalts Allāh,<sup foot_note=230032>1</sup> and He is the Exalted in Might, the Wise.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751877,
+          "resourceId": 109,
+          "text": "凡在天地间的，都赞颂安拉超绝万物，他是万能的，是至睿的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5165,
+      "verseNumber": 2,
+      "verseKey": "61:2",
+      "hizbNumber": 55,
+      "rubElHizbNumber": 220,
+      "rukuNumber": 486,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
+      "pageNumber": 551,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100877,
+          "resourceId": 20,
+          "text": "O you who have believed, why do you say what you do not do?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751878,
+          "resourceId": 109,
+          "text": "信道的人们啊！你们为什么说你们所不做的事呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5166,
+      "verseNumber": 3,
+      "verseKey": "61:3",
+      "hizbNumber": 55,
+      "rubElHizbNumber": 220,
+      "rukuNumber": 486,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ",
+      "pageNumber": 551,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100889,
+          "resourceId": 20,
+          "text": "Greatly hateful in the sight of Allāh is that you say what you do not do.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751879,
+          "resourceId": 109,
+          "text": "你们说你们所不做的，这在安拉看来，是很可恨的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5167,
+      "verseNumber": 4,
+      "verseKey": "61:4",
+      "hizbNumber": 55,
+      "rubElHizbNumber": 220,
+      "rukuNumber": 486,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَـٰتِلُونَ فِى سَبِيلِهِۦ صَفًّا كَأَنَّهُم بُنْيَـٰنٌ مَّرْصُوصٌ",
+      "pageNumber": 551,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100741,
+          "resourceId": 20,
+          "text": "Indeed, Allāh loves those who fight in His cause in a row as though they are a [single] structure joined firmly.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751880,
+          "resourceId": 109,
+          "text": "安拉的确喜爱那等人；他们为他而列阵作战，好像坚实的墙壁一样。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5168,
+      "verseNumber": 5,
+      "verseKey": "61:5",
+      "hizbNumber": 55,
+      "rubElHizbNumber": 220,
+      "rukuNumber": 486,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ",
+      "pageNumber": 551,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100911,
+          "resourceId": 20,
+          "text": "And [mention, O Muḥammad], when Moses said to his people, \"O my people, why do you harm me while you certainly know that I am the messenger of Allāh to you?\" And when they deviated, Allāh caused their hearts to deviate. And Allāh does not guide the defiantly disobedient people.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751881,
+          "resourceId": 109,
+          "text": "当时，穆萨曾对他的宗族说：\"我的宗族啊！你们既知道我是安拉派来教化你们的使者，你们为什么诽谤我呢？\"当他们背离正道的时候，安拉使他们的心背离真理；安拉是不引导悖逆的民众的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5169,
+      "verseNumber": 6,
+      "verseKey": "61:6",
+      "hizbNumber": 55,
+      "rubElHizbNumber": 220,
+      "rukuNumber": 486,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌ مُّبِينٌ",
+      "pageNumber": 552,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100923,
+          "resourceId": 20,
+          "text": "And [mention] when Jesus, the son of Mary, said, \"O Children of Israel, indeed I am the messenger of Allāh to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Aḥmad.\"<sup foot_note=230033>1</sup> But when he came to them with clear evidences, they said, \"This is obvious magic.\"<sup foot_note=230034>2</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751882,
+          "resourceId": 109,
+          "text": "当时，麦尔彦之子尔撒曾说：“以色列的後裔啊！我确是安拉派来教化你们的使者，他派我来证实在我之前的《讨拉特》，并且以在我之后诞生的使者，名叫艾哈默德的，向你们报喜。”当他已昭示他们许多明证的时候，他们说：“这是明显的魔术。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5170,
+      "verseNumber": 7,
+      "verseKey": "61:7",
+      "hizbNumber": 55,
+      "rubElHizbNumber": 220,
+      "rukuNumber": 486,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُوَ يُدْعَىٰٓ إِلَى ٱلْإِسْلَـٰمِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+      "pageNumber": 552,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100932,
+          "resourceId": 20,
+          "text": "And who is more unjust than one who invents about Allāh untruth while he is being invited to Islām. And Allāh does not guide the wrongdoing people.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751883,
+          "resourceId": 109,
+          "text": "别人劝他入伊斯兰，他却假借安拉的名义而造谣；这样的人，谁比他还不义呢？安拉不引导不义的民众的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5171,
+      "verseNumber": 8,
+      "verseKey": "61:8",
+      "hizbNumber": 55,
+      "rubElHizbNumber": 220,
+      "rukuNumber": 486,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يُرِيدُونَ لِيُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوْ كَرِهَ ٱلْكَـٰفِرُونَ",
+      "pageNumber": 552,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100934,
+          "resourceId": 20,
+          "text": "They want to extinguish the light of Allāh with their mouths, but Allāh will perfect His light, although the disbelievers dislike it.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751884,
+          "resourceId": 109,
+          "text": "他们想吹灭安拉的光明，但安拉要完成他的光明，即使不信道的人不愿意。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5172,
+      "verseNumber": 9,
+      "verseKey": "61:9",
+      "hizbNumber": 55,
+      "rubElHizbNumber": 220,
+      "rukuNumber": 486,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ",
+      "pageNumber": 552,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100936,
+          "resourceId": 20,
+          "text": "It is He who sent His Messenger with guidance and the religion of truth to manifest it over all religion, although those who associate others with Allāh dislike it.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751885,
+          "resourceId": 109,
+          "text": "他曾以正道和真教的使命委托他的使者，以便他使真教胜过一切宗教，即使以物配主的人不愿意。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5173,
+      "verseNumber": 10,
+      "verseKey": "61:10",
+      "hizbNumber": 55,
+      "rubElHizbNumber": 220,
+      "rukuNumber": 487,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ هَلْ أَدُلُّكُمْ عَلَىٰ تِجَـٰرَةٍ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍ",
+      "pageNumber": 552,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100860,
+          "resourceId": 20,
+          "text": "O you who have believed, shall I guide you to a transaction that will save you from a painful punishment?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751886,
+          "resourceId": 109,
+          "text": "信道的人们啊！我将指示你们一种生意，它能拯救你们脱离痛苦的刑罚，好吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5174,
+      "verseNumber": 11,
+      "verseKey": "61:11",
+      "hizbNumber": 55,
+      "rubElHizbNumber": 220,
+      "rukuNumber": 487,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "تُؤْمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "pageNumber": 552,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100862,
+          "resourceId": 20,
+          "text": "[It is that] you believe in Allāh and His Messenger and strive in the cause of Allāh with your wealth and your lives. That is best for you, if you only knew.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751887,
+          "resourceId": 109,
+          "text": "你们信仰安拉和使者，你们以自己的财产和生命，为主道而奋斗，那对于你们是更好的，如果你们知道。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5175,
+      "verseNumber": 12,
+      "verseKey": "61:12",
+      "hizbNumber": 55,
+      "rubElHizbNumber": 220,
+      "rukuNumber": 487,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ وَمَسَـٰكِنَ طَيِّبَةً فِى جَنَّـٰتِ عَدْنٍ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "pageNumber": 552,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100864,
+          "resourceId": 20,
+          "text": "He will forgive for you your sins and admit you to gardens beneath which rivers flow and pleasant dwellings in gardens of perpetual residence. That is the great attainment.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751888,
+          "resourceId": 109,
+          "text": "他将赦宥你们的罪过，并且使你们入下临诸河的乐园和常住的乐园中的许多优美的住宅，那确是伟大的成功。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5176,
+      "verseNumber": 13,
+      "verseKey": "61:13",
+      "hizbNumber": 55,
+      "rubElHizbNumber": 220,
+      "rukuNumber": 487,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَأُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌ مِّنَ ٱللَّهِ وَفَتْحٌ قَرِيبٌ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+      "pageNumber": 552,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100866,
+          "resourceId": 20,
+          "text": "And [you will obtain] another [favor] that you love - victory from Allāh and an imminent conquest; and give good tidings to the believers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751889,
+          "resourceId": 109,
+          "text": "他将赏赐你们另一种为你们所爱好的恩典--从安拉降下的援助，和临近的胜利。你向信士们报喜吧。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5177,
+      "verseNumber": 14,
+      "verseKey": "61:14",
+      "hizbNumber": 55,
+      "rubElHizbNumber": 220,
+      "rukuNumber": 487,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّـۧنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَـٰهِرِينَ",
+      "pageNumber": 552,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100870,
+          "resourceId": 20,
+          "text": "O you who have believed, be supporters of Allāh, as when Jesus, the son of Mary, said to the disciples, \"Who are my supporters for Allāh?\" The disciples said, \"We are supporters of Allāh.\" And a faction of the Children of Israel believed and a faction disbelieved. So We supported those who believed against their enemy, and they became dominant.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751890,
+          "resourceId": 109,
+          "text": "信道的人们啊！你们应当做协助安拉的人，犹如麦尔彦之子尔撒对他的门徒所说的：“谁是与我共同协助安拉的？那些门徒说：我们是协助安拉的。以色列的後裔中，有一派人已经信道，有一派人并不信道。我扶助信道的人们对抗他们的敌人，故他们变成优胜的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

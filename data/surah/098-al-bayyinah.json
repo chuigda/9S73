@@ -1,0 +1,241 @@
+{
+  "id": 98,
+  "nameSimple": "Al-Bayyinah",
+  "nameArabic": "البينة",
+  "versesCount": 8,
+  "revelationPlace": "madinah",
+  "verses": [
+    {
+      "id": 6131,
+      "verseNumber": 1,
+      "verseKey": "98:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 542,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ",
+      "pageNumber": 598,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102361,
+          "resourceId": 20,
+          "text": "Those who disbelieved among the People of the Scripture and the polytheists were not to be parted [from misbelief]<sup foot_note=230456>1</sup> until there came to them clear evidence –",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752844,
+          "resourceId": 109,
+          "text": "信奉天经者和以物配主者中的不信道者没有离开自己原有的信仰，直到明证来临他们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6132,
+      "verseNumber": 2,
+      "verseKey": "98:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 542,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً",
+      "pageNumber": 598,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102363,
+          "resourceId": 20,
+          "text": "A Messenger from Allāh, reciting purified<sup foot_note=230458>1</sup> scriptures",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752845,
+          "resourceId": 109,
+          "text": "那个明证是安拉所派遣的一个使者，他诵读纯洁的册页，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6133,
+      "verseNumber": 3,
+      "verseKey": "98:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 542,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فِيهَا كُتُبٌ قَيِّمَةٌ",
+      "pageNumber": 598,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102365,
+          "resourceId": 20,
+          "text": "Within which are correct writings [i.e., rulings and laws].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752846,
+          "resourceId": 109,
+          "text": "其中有许多正确的经文。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6134,
+      "verseNumber": 4,
+      "verseKey": "98:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 542,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ",
+      "pageNumber": 598,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102367,
+          "resourceId": 20,
+          "text": "Nor did those who were given the Scripture become divided<sup foot_note=230462>1</sup> until after there had come to them clear evidence.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752847,
+          "resourceId": 109,
+          "text": "信奉天经者，没有分离，直到明证来临他们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6135,
+      "verseNumber": 5,
+      "verseKey": "98:5",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 542,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ",
+      "pageNumber": 598,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102369,
+          "resourceId": 20,
+          "text": "And they were not commanded except to worship Allāh, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakāh. And that is the correct religion.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752848,
+          "resourceId": 109,
+          "text": "他们只奉命崇拜安拉，虔诚敬意，恪守正教，谨守拜功，完纳天课，这是正教。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6136,
+      "verseNumber": 6,
+      "verseKey": "98:6",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 542,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ ۚ أُو۟لَـٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ",
+      "pageNumber": 598,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102371,
+          "resourceId": 20,
+          "text": "Indeed, they who disbelieved among the People of the Scripture and the polytheists will be in the fire of Hell, abiding eternally therein. Those are the worst of creatures.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752849,
+          "resourceId": 109,
+          "text": "信奉天经者和以物配主者，他们中的不信道者，必入火狱，而永居其中；这等人是最恶的人。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6137,
+      "verseNumber": 7,
+      "verseKey": "98:7",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 542,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰٓئِكَ هُمْ خَيْرُ ٱلْبَرِيَّةِ",
+      "pageNumber": 598,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102373,
+          "resourceId": 20,
+          "text": "Indeed, they who have believed and done righteous deeds - those are the best of creatures.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752850,
+          "resourceId": 109,
+          "text": "信道而且行善的人，是最善的人，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6138,
+      "verseNumber": 8,
+      "verseKey": "98:8",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 542,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّـٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102375,
+          "resourceId": 20,
+          "text": "Their reward with their Lord will be gardens of perpetual residence beneath which rivers flow, wherein they will abide forever, Allāh being pleased with them and they with Him. That is for whoever has feared his Lord.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752851,
+          "resourceId": 109,
+          "text": "他们在他们的主那里的报酬是下临诸河的常住的乐园，他们将永居其中，安拉喜悦他们，他们喜悦安拉；这是畏惧安拉者所有的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

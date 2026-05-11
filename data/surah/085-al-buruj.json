@@ -1,0 +1,647 @@
+{
+  "id": 85,
+  "nameSimple": "Al-Buruj",
+  "nameArabic": "البروج",
+  "versesCount": 22,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 5910,
+      "verseNumber": 1,
+      "verseKey": "85:1",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102003,
+          "resourceId": 20,
+          "text": "By the sky containing great stars",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752623,
+          "resourceId": 109,
+          "text": "誓以有宫分的苍穹，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5911,
+      "verseNumber": 2,
+      "verseKey": "85:2",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلْيَوْمِ ٱلْمَوْعُودِ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102015,
+          "resourceId": 20,
+          "text": "And [by] the promised Day",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752624,
+          "resourceId": 109,
+          "text": "和所警告的日子，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5912,
+      "verseNumber": 3,
+      "verseKey": "85:3",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَشَاهِدٍ وَمَشْهُودٍ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102020,
+          "resourceId": 20,
+          "text": "And [by] the witness and what is witnessed,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752625,
+          "resourceId": 109,
+          "text": "以及能证的和所证的日子，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5913,
+      "verseNumber": 4,
+      "verseKey": "85:4",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "قُتِلَ أَصْحَـٰبُ ٱلْأُخْدُودِ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102022,
+          "resourceId": 20,
+          "text": "Destroyed [i.e., cursed] were the companions of the trench<sup foot_note=230376>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752626,
+          "resourceId": 109,
+          "text": "愿掘坑的人们，被弃绝，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5914,
+      "verseNumber": 5,
+      "verseKey": "85:5",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱلنَّارِ ذَاتِ ٱلْوَقُودِ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102024,
+          "resourceId": 20,
+          "text": "[Containing] the fire full of fuel,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752627,
+          "resourceId": 109,
+          "text": "那坑里有燃料点着的火，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5915,
+      "verseNumber": 6,
+      "verseKey": "85:6",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102026,
+          "resourceId": 20,
+          "text": "When they were sitting near it.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752628,
+          "resourceId": 109,
+          "text": "当时，他们坐在坑边，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5916,
+      "verseNumber": 7,
+      "verseKey": "85:7",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102028,
+          "resourceId": 20,
+          "text": "And they, to what they were doing against the believers, were witnesses. <sup foot_note=230377>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752629,
+          "resourceId": 109,
+          "text": "他们见证自己对信士们的罪行，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5917,
+      "verseNumber": 8,
+      "verseKey": "85:8",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102030,
+          "resourceId": 20,
+          "text": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752630,
+          "resourceId": 109,
+          "text": "他们对于信士们，只责备他们信仰安拉——万能的，可颂的主，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5918,
+      "verseNumber": 9,
+      "verseKey": "85:9",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102032,
+          "resourceId": 20,
+          "text": "To whom belongs the dominion of the heavens and the earth. And Allāh, over all things, is Witness.<sup foot_note=230378>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752631,
+          "resourceId": 109,
+          "text": "天地的主权只是他的，安拉是见证万物的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5919,
+      "verseNumber": 10,
+      "verseKey": "85:10",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102004,
+          "resourceId": 20,
+          "text": "Indeed, those who have tortured<sup foot_note=230379>1</sup> the believing men and believing women and then have not repented will have the punishment of Hell, and they will have the punishment of the Burning Fire.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752632,
+          "resourceId": 109,
+          "text": "迫害信士和信女而不悔过的人们，必受火狱的刑罚，并受火灾的惩治。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5920,
+      "verseNumber": 11,
+      "verseKey": "85:11",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102005,
+          "resourceId": 20,
+          "text": "Indeed, those who have believed and done righteous deeds will have gardens beneath which rivers flow. That is the great attainment.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752633,
+          "resourceId": 109,
+          "text": "信道而且行善的人们，必入下临诸河的乐园，那确是伟大的成功。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5921,
+      "verseNumber": 12,
+      "verseKey": "85:12",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102006,
+          "resourceId": 20,
+          "text": "Indeed, the assault [i.e., vengeance] of your Lord is severe.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752634,
+          "resourceId": 109,
+          "text": "你的主的惩治，确是严厉的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5922,
+      "verseNumber": 13,
+      "verseKey": "85:13",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102007,
+          "resourceId": 20,
+          "text": "Indeed, it is He who originates [creation] and repeats.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752635,
+          "resourceId": 109,
+          "text": "他确能创造，且能再造，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5923,
+      "verseNumber": 14,
+      "verseKey": "85:14",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102008,
+          "resourceId": 20,
+          "text": "And He is the Forgiving, the Affectionate,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752636,
+          "resourceId": 109,
+          "text": "他是至赦的，是至爱的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5924,
+      "verseNumber": 15,
+      "verseKey": "85:15",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ذُو ٱلْعَرْشِ ٱلْمَجِيدُ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102009,
+          "resourceId": 20,
+          "text": "Honorable Owner of the Throne,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752637,
+          "resourceId": 109,
+          "text": "是宝座的主，是尊严的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5925,
+      "verseNumber": 16,
+      "verseKey": "85:16",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَعَّالٌ لِّمَا يُرِيدُ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102010,
+          "resourceId": 20,
+          "text": "Effecter of what He intends.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752638,
+          "resourceId": 109,
+          "text": "是为所欲为的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5926,
+      "verseNumber": 17,
+      "verseKey": "85:17",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102011,
+          "resourceId": 20,
+          "text": "Has there reached you the story of the soldiers -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752639,
+          "resourceId": 109,
+          "text": "你曾听见军队的故事了吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5927,
+      "verseNumber": 18,
+      "verseKey": "85:18",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فِرْعَوْنَ وَثَمُودَ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102012,
+          "resourceId": 20,
+          "text": "[Those of] Pharaoh and Thamūd?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752640,
+          "resourceId": 109,
+          "text": "法老和赛莫德人的故事。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5928,
+      "verseNumber": 19,
+      "verseKey": "85:19",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102013,
+          "resourceId": 20,
+          "text": "But they who disbelieve are in [persistent] denial,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752641,
+          "resourceId": 109,
+          "text": "不然，不信道的人们陷于否认之中，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5929,
+      "verseNumber": 20,
+      "verseKey": "85:20",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102016,
+          "resourceId": 20,
+          "text": "While Allāh encompasses them from behind.<sup foot_note=230380>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752642,
+          "resourceId": 109,
+          "text": "安拉是从各方面包罗他们的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5930,
+      "verseNumber": 21,
+      "verseKey": "85:21",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102017,
+          "resourceId": 20,
+          "text": "But this is an honored Qur’ān",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752643,
+          "resourceId": 109,
+          "text": "不然，这是尊严的《古兰经》，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5931,
+      "verseNumber": 22,
+      "verseKey": "85:22",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 236,
+      "rukuNumber": 529,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فِى لَوْحٍ مَّحْفُوظٍۭ",
+      "pageNumber": 590,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102018,
+          "resourceId": 20,
+          "text": "[Inscribed] in a Preserved Slate.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752644,
+          "resourceId": 109,
+          "text": "记录在一块受保护的天牌上。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

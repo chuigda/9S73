@@ -1,0 +1,821 @@
+{
+  "id": 71,
+  "nameSimple": "Nuh",
+  "nameArabic": "نوح",
+  "versesCount": 28,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 5420,
+      "verseNumber": 1,
+      "verseKey": "71:1",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
+      "pageNumber": 570,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101276,
+          "resourceId": 20,
+          "text": "Indeed, We sent Noah to his people, [saying], \"Warn your people before there comes to them a painful punishment.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752133,
+          "resourceId": 109,
+          "text": "我确已派谴努哈去教化他的宗族，我说：“在痛苦的刑罚降临你的宗族之前，你当警告他们。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5421,
+      "verseNumber": 2,
+      "verseKey": "71:2",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ",
+      "pageNumber": 570,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101298,
+          "resourceId": 20,
+          "text": "He said, \"O my people, indeed I am to you a clear warner -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752134,
+          "resourceId": 109,
+          "text": "他说：我的宗族啊！我确是你们的坦率的警告者，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5422,
+      "verseNumber": 3,
+      "verseKey": "71:3",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ",
+      "pageNumber": 570,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101321,
+          "resourceId": 20,
+          "text": "To worship Allāh, fear Him and obey me.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752135,
+          "resourceId": 109,
+          "text": "你们应当崇拜安拉，应当敬畏他，应当服从我，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5423,
+      "verseNumber": 4,
+      "verseKey": "71:4",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ",
+      "pageNumber": 570,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101333,
+          "resourceId": 20,
+          "text": "He [i.e., Allāh] will forgive you of your sins and delay you for a specified term. Indeed, the time [set by] Allāh, when it comes, will not be delayed, if you only knew.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752136,
+          "resourceId": 109,
+          "text": "他就赦宥你们的罪过，并且让你们延迟到一个定期。安拉的定期一旦来临的时候，是绝不延迟的，假若你们知道。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5424,
+      "verseNumber": 5,
+      "verseKey": "71:5",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًا وَنَهَارًا",
+      "pageNumber": 570,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101345,
+          "resourceId": 20,
+          "text": "He said, \"My Lord, indeed I invited my people [to truth] night and day.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752137,
+          "resourceId": 109,
+          "text": "他说：“我的主啊！我确已日夜召唤我的宗族，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5425,
+      "verseNumber": 6,
+      "verseKey": "71:6",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَلَمْ يَزِدْهُمْ دُعَآءِىٓ إِلَّا فِرَارًا",
+      "pageNumber": 570,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101356,
+          "resourceId": 20,
+          "text": "But my invitation increased them not except in flight [i.e., aversion].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752138,
+          "resourceId": 109,
+          "text": "但我的召唤使他们愈加逃避。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5426,
+      "verseNumber": 7,
+      "verseKey": "71:7",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِنِّى كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوٓا۟ أَصَـٰبِعَهُمْ فِىٓ ءَاذَانِهِمْ وَٱسْتَغْشَوْا۟ ثِيَابَهُمْ وَأَصَرُّوا۟ وَٱسْتَكْبَرُوا۟ ٱسْتِكْبَارًا",
+      "pageNumber": 570,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101368,
+          "resourceId": 20,
+          "text": "And indeed, every time I invited them that You may forgive them, they put their fingers in their ears, covered themselves with their garments,<sup foot_note=230164>1</sup> persisted, and were arrogant with [great] arrogance.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752139,
+          "resourceId": 109,
+          "text": "我每次召唤他们来受你的赦宥的时候，他们总是以指头塞住他们的耳朵，以衣服蒙住他们的头，他们固执而自大。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5427,
+      "verseNumber": 8,
+      "verseKey": "71:8",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ثُمَّ إِنِّى دَعَوْتُهُمْ جِهَارًا",
+      "pageNumber": 570,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101383,
+          "resourceId": 20,
+          "text": "Then I invited them publicly.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752140,
+          "resourceId": 109,
+          "text": "然后我大声召唤他们，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5428,
+      "verseNumber": 9,
+      "verseKey": "71:9",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ثُمَّ إِنِّىٓ أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا",
+      "pageNumber": 570,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101395,
+          "resourceId": 20,
+          "text": "Then I announced to them and [also] confided to them secretly",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752141,
+          "resourceId": 109,
+          "text": "然后我公开地训导他们，秘密地劝谏他们，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5429,
+      "verseNumber": 10,
+      "verseKey": "71:10",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًا",
+      "pageNumber": 570,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101278,
+          "resourceId": 20,
+          "text": "And said, 'Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752142,
+          "resourceId": 109,
+          "text": "我说，你们应当向你们的主求饶--他确是至赦的--",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5430,
+      "verseNumber": 11,
+      "verseKey": "71:11",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101280,
+          "resourceId": 20,
+          "text": "He will send [rain from] the sky upon you in [continuing] showers",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752143,
+          "resourceId": 109,
+          "text": "他就使丰足的雨水降临你们，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5431,
+      "verseNumber": 12,
+      "verseKey": "71:12",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَيُمْدِدْكُم بِأَمْوَٰلٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّـٰتٍ وَيَجْعَل لَّكُمْ أَنْهَـٰرًا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101282,
+          "resourceId": 20,
+          "text": "And give you increase in wealth and children and provide for you gardens and provide for you rivers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752144,
+          "resourceId": 109,
+          "text": "并且以财产和子嗣援助你们，为你们创造园圃和河流。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5432,
+      "verseNumber": 13,
+      "verseKey": "71:13",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "مَّا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101284,
+          "resourceId": 20,
+          "text": "What is [the matter] with you that you do not attribute to Allāh [due] grandeur",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752145,
+          "resourceId": 109,
+          "text": "你们怎么不希望安拉的尊重呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5433,
+      "verseNumber": 14,
+      "verseKey": "71:14",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَقَدْ خَلَقَكُمْ أَطْوَارًا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101286,
+          "resourceId": 20,
+          "text": "While He has created you in stages?<sup foot_note=230167>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752146,
+          "resourceId": 109,
+          "text": "他确已经过几个阶段创造了你们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5434,
+      "verseNumber": 15,
+      "verseKey": "71:15",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَلَمْ تَرَوْا۟ كَيْفَ خَلَقَ ٱللَّهُ سَبْعَ سَمَـٰوَٰتٍ طِبَاقًا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101288,
+          "resourceId": 20,
+          "text": "Do you not consider how Allāh has created seven heavens in layers<sup foot_note=230168>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752147,
+          "resourceId": 109,
+          "text": "难道你们没有看到安拉怎样创造七层天，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5435,
+      "verseNumber": 16,
+      "verseKey": "71:16",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَجَعَلَ ٱلْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ ٱلشَّمْسَ سِرَاجًا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101290,
+          "resourceId": 20,
+          "text": "And made the moon therein a [reflected] light and made the sun a burning lamp?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752148,
+          "resourceId": 109,
+          "text": "并以月亮为光明，以太阳为明灯吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5436,
+      "verseNumber": 17,
+      "verseKey": "71:17",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلْأَرْضِ نَبَاتًا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101292,
+          "resourceId": 20,
+          "text": "And Allāh has caused you to grow from the earth a [progressive] growth.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752149,
+          "resourceId": 109,
+          "text": "安拉使你们从大地生长出来，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5437,
+      "verseNumber": 18,
+      "verseKey": "71:18",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101294,
+          "resourceId": 20,
+          "text": "Then He will return you into it and extract you [another] extraction.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752150,
+          "resourceId": 109,
+          "text": "然后使你们再返于大地，然后，又把你们从大地取出来。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5438,
+      "verseNumber": 19,
+      "verseKey": "71:19",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱللَّهُ جَعَلَ لَكُمُ ٱلْأَرْضَ بِسَاطًا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101296,
+          "resourceId": 20,
+          "text": "And Allāh has made for you the earth an expanse",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752151,
+          "resourceId": 109,
+          "text": "安拉为你们而平展大地，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5439,
+      "verseNumber": 20,
+      "verseKey": "71:20",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 506,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "لِّتَسْلُكُوا۟ مِنْهَا سُبُلًا فِجَاجًا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101300,
+          "resourceId": 20,
+          "text": "That you may follow therein roads of passage.'\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752152,
+          "resourceId": 109,
+          "text": "以便你们在大地上走着宽阔的道路。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5440,
+      "verseNumber": 21,
+      "verseKey": "71:21",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 507,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101302,
+          "resourceId": 20,
+          "text": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752153,
+          "resourceId": 109,
+          "text": "努哈说：“我的主啊！他们确已违抗我，他们顺从那因财产和子嗣而更加亏折的人们，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5441,
+      "verseNumber": 22,
+      "verseKey": "71:22",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 507,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَكَرُوا۟ مَكْرًا كُبَّارًا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101304,
+          "resourceId": 20,
+          "text": "And they conspired an immense conspiracy",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752154,
+          "resourceId": 109,
+          "text": "那等人曾定了一个重大的计谋，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5442,
+      "verseNumber": 23,
+      "verseKey": "71:23",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 507,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَقَالُوا۟ لَا تَذَرُنَّ ءَالِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101306,
+          "resourceId": 20,
+          "text": "And said, 'Never leave your gods and never leave Wadd or Suwāʿ or Yaghūth and Yaʿūq and Nasr.'<sup foot_note=230173>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752155,
+          "resourceId": 109,
+          "text": "他们说：“你们绝不要放弃你们的众神明，你们绝不要放弃旺德、素佤尔、叶巫斯、叶欧格、奈斯尔。'",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5443,
+      "verseNumber": 24,
+      "verseKey": "71:24",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 507,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَقَدْ أَضَلُّوا۟ كَثِيرًا ۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا ضَلَـٰلًا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101308,
+          "resourceId": 20,
+          "text": "And already they have misled many. And, [my Lord], do not increase the wrongdoers except in error.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752156,
+          "resourceId": 109,
+          "text": "他们确已使许多人迷误，求你使不义的人们更加迷误。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5444,
+      "verseNumber": 25,
+      "verseKey": "71:25",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 507,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101310,
+          "resourceId": 20,
+          "text": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752157,
+          "resourceId": 109,
+          "text": "他们因为自己的罪恶而被淹死，遂堕入火狱，故他们没有获得援助的人们来抵御安拉。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5445,
+      "verseNumber": 26,
+      "verseKey": "71:26",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 507,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَـٰفِرِينَ دَيَّارًا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101313,
+          "resourceId": 20,
+          "text": "And Noah said, \"My Lord, do not leave upon the earth from among the disbelievers an inhabitant.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752158,
+          "resourceId": 109,
+          "text": "努哈说：“我的主啊！求你不要留一个不信道者在大地上，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5446,
+      "verseNumber": 27,
+      "verseKey": "71:27",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 507,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا۟ عِبَادَكَ وَلَا يَلِدُوٓا۟ إِلَّا فَاجِرًا كَفَّارًا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101316,
+          "resourceId": 20,
+          "text": "Indeed, if You leave them, they will mislead Your servants and not beget except [every] wicked one and [confirmed] disbeliever.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752159,
+          "resourceId": 109,
+          "text": "如果你留他们，他们将使你的众仆迷误，他们只生育不道德的、不感恩的子女。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5447,
+      "verseNumber": 28,
+      "verseKey": "71:28",
+      "hizbNumber": 57,
+      "rubElHizbNumber": 228,
+      "rukuNumber": 507,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا تَبَارًۢا",
+      "pageNumber": 571,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101318,
+          "resourceId": 20,
+          "text": "My Lord, forgive me and my parents and whoever enters my house a believer and the believing men and believing women. And do not increase the wrongdoers except in destruction.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752160,
+          "resourceId": 109,
+          "text": "我的主啊！求你赦宥我和我的父母，赦宥信道而入我的房屋的人，以及信士们和信女们。求你使不义的人们更加毁灭。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

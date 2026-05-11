@@ -1,0 +1,2271 @@
+{
+  "id": 55,
+  "nameSimple": "Ar-Rahman",
+  "nameArabic": "الرحمن",
+  "versesCount": 78,
+  "revelationPlace": "madinah",
+  "verses": [
+    {
+      "id": 4902,
+      "verseNumber": 1,
+      "verseKey": "55:1",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " ٱلرَّحْمَـٰنُ",
+      "pageNumber": 531,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100531,
+          "resourceId": 20,
+          "text": "The Most Merciful",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751615,
+          "resourceId": 109,
+          "text": "至仁主，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4903,
+      "verseNumber": 2,
+      "verseKey": "55:2",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "عَلَّمَ ٱلْقُرْءَانَ",
+      "pageNumber": 531,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100543,
+          "resourceId": 20,
+          "text": "Taught the Qur’ān,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751616,
+          "resourceId": 109,
+          "text": "曾教授《古兰经》，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4904,
+      "verseNumber": 3,
+      "verseKey": "55:3",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "خَلَقَ ٱلْإِنسَـٰنَ",
+      "pageNumber": 531,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100555,
+          "resourceId": 20,
+          "text": "Created man,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751617,
+          "resourceId": 109,
+          "text": "他创造了人，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4905,
+      "verseNumber": 4,
+      "verseKey": "55:4",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "عَلَّمَهُ ٱلْبَيَانَ",
+      "pageNumber": 531,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100568,
+          "resourceId": 20,
+          "text": "[And] taught him eloquence.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751618,
+          "resourceId": 109,
+          "text": "并教人修辞。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4906,
+      "verseNumber": 5,
+      "verseKey": "55:5",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ",
+      "pageNumber": 531,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100580,
+          "resourceId": 20,
+          "text": "The sun and the moon [move] by precise calculation,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751619,
+          "resourceId": 109,
+          "text": "日月是依定数而运行的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4907,
+      "verseNumber": 6,
+      "verseKey": "55:6",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+      "pageNumber": 531,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100592,
+          "resourceId": 20,
+          "text": "And the stars and trees prostrate.<sup foot_note=229888>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751620,
+          "resourceId": 109,
+          "text": "草木是顺从他的意旨的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4908,
+      "verseNumber": 7,
+      "verseKey": "55:7",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+      "pageNumber": 531,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100604,
+          "resourceId": 20,
+          "text": "And the heaven He raised and imposed the balance",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751621,
+          "resourceId": 109,
+          "text": "他曾将天升起。他曾规定公平，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4909,
+      "verseNumber": 8,
+      "verseKey": "55:8",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
+      "pageNumber": 531,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100615,
+          "resourceId": 20,
+          "text": "That you not transgress within the balance.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751622,
+          "resourceId": 109,
+          "text": "以免你们用秤不公。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4910,
+      "verseNumber": 9,
+      "verseKey": "55:9",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+      "pageNumber": 531,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100617,
+          "resourceId": 20,
+          "text": "And establish weight in justice and do not make deficient the balance.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751623,
+          "resourceId": 109,
+          "text": "你们应当秉公地谨守衡度，你们不要使所称之物分量不足。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4911,
+      "verseNumber": 10,
+      "verseKey": "55:10",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+      "pageNumber": 531,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100532,
+          "resourceId": 20,
+          "text": "And the earth He laid [out] for the creatures.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751624,
+          "resourceId": 109,
+          "text": "他为众生而将大地放下。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4912,
+      "verseNumber": 11,
+      "verseKey": "55:11",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فِيهَا فَـٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ",
+      "pageNumber": 531,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100533,
+          "resourceId": 20,
+          "text": "Therein is fruit and palm trees having sheaths [of dates]",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751625,
+          "resourceId": 109,
+          "text": "大地上有水果，和有花篦的海枣，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4913,
+      "verseNumber": 12,
+      "verseKey": "55:12",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ",
+      "pageNumber": 531,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100534,
+          "resourceId": 20,
+          "text": "And grain having husks and scented plants.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751626,
+          "resourceId": 109,
+          "text": "与有秆的五谷和香草。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4914,
+      "verseNumber": 13,
+      "verseKey": "55:13",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 531,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100535,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?<sup foot_note=229895>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751627,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4915,
+      "verseNumber": 14,
+      "verseKey": "55:14",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "خَلَقَ ٱلْإِنسَـٰنَ مِن صَلْصَـٰلٍ كَٱلْفَخَّارِ",
+      "pageNumber": 531,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100536,
+          "resourceId": 20,
+          "text": "He created man from clay like [that of] pottery.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751628,
+          "resourceId": 109,
+          "text": "他曾用陶器般的干土创造人，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4916,
+      "verseNumber": 15,
+      "verseKey": "55:15",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ",
+      "pageNumber": 531,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100537,
+          "resourceId": 20,
+          "text": "And He created the jinn from a smokeless flame of fire.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751629,
+          "resourceId": 109,
+          "text": "他用火焰创造精灵。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4917,
+      "verseNumber": 16,
+      "verseKey": "55:16",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 531,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100538,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751630,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4918,
+      "verseNumber": 17,
+      "verseKey": "55:17",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100539,
+          "resourceId": 20,
+          "text": "[He is] Lord of the two sunrises and Lord of the two sunsets.<sup foot_note=229896>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751631,
+          "resourceId": 109,
+          "text": "他是两个东方的主，也是两个西方的主。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4919,
+      "verseNumber": 18,
+      "verseKey": "55:18",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100540,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751632,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4920,
+      "verseNumber": 19,
+      "verseKey": "55:19",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100541,
+          "resourceId": 20,
+          "text": "He released the two seas,<sup foot_note=229897>1</sup> meeting [one another];",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751633,
+          "resourceId": 109,
+          "text": "他曾任两海相交而会合，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4921,
+      "verseNumber": 20,
+      "verseKey": "55:20",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100544,
+          "resourceId": 20,
+          "text": "Between them is a barrier so neither of them transgresses.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751634,
+          "resourceId": 109,
+          "text": "两海之间，有一个堤坊，两海互不侵犯。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4922,
+      "verseNumber": 21,
+      "verseKey": "55:21",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100545,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751635,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4923,
+      "verseNumber": 22,
+      "verseKey": "55:22",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100546,
+          "resourceId": 20,
+          "text": "From both of them emerge pearl and coral.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751636,
+          "resourceId": 109,
+          "text": "他从两海中取出珍珠和珊瑚。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4924,
+      "verseNumber": 23,
+      "verseKey": "55:23",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100547,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751637,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4925,
+      "verseNumber": 24,
+      "verseKey": "55:24",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَـٰمِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100548,
+          "resourceId": 20,
+          "text": "And to Him belong the ships [with sails] elevated in the sea like mountains.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751638,
+          "resourceId": 109,
+          "text": "在海中桅帆高举，状如山峦的船舶，只是他的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4926,
+      "verseNumber": 25,
+      "verseKey": "55:25",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 468,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100549,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751639,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4927,
+      "verseNumber": 26,
+      "verseKey": "55:26",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100550,
+          "resourceId": 20,
+          "text": "Everyone upon it [i.e., the earth] will perish,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751640,
+          "resourceId": 109,
+          "text": "凡在大地上的，都要毁灭；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4928,
+      "verseNumber": 27,
+      "verseKey": "55:27",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100551,
+          "resourceId": 20,
+          "text": "And there will remain the Face<sup foot_note=229900>1</sup> of your Lord, Owner of Majesty and Honor.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751641,
+          "resourceId": 109,
+          "text": "惟有你的永活的，具有尊严与大德的主的尊容，将永恒存在。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4929,
+      "verseNumber": 28,
+      "verseKey": "55:28",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100552,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751642,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4930,
+      "verseNumber": 29,
+      "verseKey": "55:29",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100553,
+          "resourceId": 20,
+          "text": "Whoever is within the heavens and earth asks Him; every day He is in [i.e., bringing about] a matter.<sup foot_note=229901>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751643,
+          "resourceId": 109,
+          "text": "凡在天地间的都仰求他；他时时都有事物。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4931,
+      "verseNumber": 30,
+      "verseKey": "55:30",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100556,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751644,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4932,
+      "verseNumber": 31,
+      "verseKey": "55:31",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100557,
+          "resourceId": 20,
+          "text": "We will attend to you, O prominent beings.<sup foot_note=229904>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751645,
+          "resourceId": 109,
+          "text": "精灵和人类啊！我将专心应付你们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4933,
+      "verseNumber": 32,
+      "verseKey": "55:32",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100558,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751646,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4934,
+      "verseNumber": 33,
+      "verseKey": "55:33",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَـٰنٍ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100560,
+          "resourceId": 20,
+          "text": "O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allāh].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751647,
+          "resourceId": 109,
+          "text": "精灵和人类的群众啊！如果你们能通过天地的境界，你们就通过吧！你们必须凭据一种权柄，才能通过。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4935,
+      "verseNumber": 34,
+      "verseKey": "55:34",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100561,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751648,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4936,
+      "verseNumber": 35,
+      "verseKey": "55:35",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100562,
+          "resourceId": 20,
+          "text": "There will be sent upon you a flame of fire and smoke,<sup foot_note=229905>1</sup> and you will not defend yourselves.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751649,
+          "resourceId": 109,
+          "text": "火焰和火烟将被降于你们，而你们不能自卫。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4937,
+      "verseNumber": 36,
+      "verseKey": "55:36",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100563,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751650,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4938,
+      "verseNumber": 37,
+      "verseKey": "55:37",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100564,
+          "resourceId": 20,
+          "text": "And when the heaven is split open and becomes rose-colored like oil<sup foot_note=229906>1</sup> -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751651,
+          "resourceId": 109,
+          "text": "当天破离的时候，天将变成玫瑰色，好像红皮一样。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4939,
+      "verseNumber": 38,
+      "verseKey": "55:38",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100565,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny? -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751652,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4940,
+      "verseNumber": 39,
+      "verseKey": "55:39",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌ وَلَا جَآنٌّ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100566,
+          "resourceId": 20,
+          "text": "Then on that Day none will be asked about his sin among men or jinn.<sup foot_note=229907>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751653,
+          "resourceId": 109,
+          "text": "在那日，任何人和精灵都不因罪过而受审问。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4941,
+      "verseNumber": 40,
+      "verseKey": "55:40",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 532,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100569,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751654,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4942,
+      "verseNumber": 41,
+      "verseKey": "55:41",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100570,
+          "resourceId": 20,
+          "text": "The criminals will be known by their marks, and they will be seized by the forelocks and the feet.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751655,
+          "resourceId": 109,
+          "text": "犯罪者将因他们的形迹而被认识，他们的额发将被系在脚掌上。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4943,
+      "verseNumber": 42,
+      "verseKey": "55:42",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100571,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751656,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4944,
+      "verseNumber": 43,
+      "verseKey": "55:43",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100572,
+          "resourceId": 20,
+          "text": "This is Hell, which the criminals deny.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751657,
+          "resourceId": 109,
+          "text": "这是犯罪者所否认的火狱。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4945,
+      "verseNumber": 44,
+      "verseKey": "55:44",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100573,
+          "resourceId": 20,
+          "text": "They will circulate between it and scalding water, heated [to the utmost degree].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751658,
+          "resourceId": 109,
+          "text": "他们将往来于火狱和沸水之间。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4946,
+      "verseNumber": 45,
+      "verseKey": "55:45",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 469,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100574,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751659,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4947,
+      "verseNumber": 46,
+      "verseKey": "55:46",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100575,
+          "resourceId": 20,
+          "text": "But for he who has feared the position of his Lord<sup foot_note=229908>1</sup> are two gardens -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751660,
+          "resourceId": 109,
+          "text": "凡怕站在主的御前受审问者，都得享受两座乐园。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4948,
+      "verseNumber": 47,
+      "verseKey": "55:47",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100576,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny? -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751661,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4949,
+      "verseNumber": 48,
+      "verseKey": "55:48",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ذَوَاتَآ أَفْنَانٍ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100577,
+          "resourceId": 20,
+          "text": "Having [spreading] branches.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751662,
+          "resourceId": 109,
+          "text": "那两座乐园，是有各种果树的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4950,
+      "verseNumber": 49,
+      "verseKey": "55:49",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100578,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751663,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4951,
+      "verseNumber": 50,
+      "verseKey": "55:50",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100581,
+          "resourceId": 20,
+          "text": "In both of them are two springs, flowing.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751664,
+          "resourceId": 109,
+          "text": "在那两座乐园里，有两洞流行的泉源。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4952,
+      "verseNumber": 51,
+      "verseKey": "55:51",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100582,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751665,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4953,
+      "verseNumber": 52,
+      "verseKey": "55:52",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فِيهِمَا مِن كُلِّ فَـٰكِهَةٍ زَوْجَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100583,
+          "resourceId": 20,
+          "text": "In both of them are of every fruit, two kinds.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751666,
+          "resourceId": 109,
+          "text": "在那两座乐园里，每种水果，都有两样。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4954,
+      "verseNumber": 53,
+      "verseKey": "55:53",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100584,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751667,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4955,
+      "verseNumber": 54,
+      "verseKey": "55:54",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100585,
+          "resourceId": 20,
+          "text": "[They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751668,
+          "resourceId": 109,
+          "text": "他们靠在用锦缎做里子的坐褥上，那两座乐园的水果，都是手所能及的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4956,
+      "verseNumber": 55,
+      "verseKey": "55:55",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100586,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751669,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4957,
+      "verseNumber": 56,
+      "verseKey": "55:56",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فِيهِنَّ قَـٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100587,
+          "resourceId": 20,
+          "text": "In them are women limiting [their] glances,<sup foot_note=229912>1</sup> untouched<sup foot_note=229911>2</sup> before them by man or jinnī -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751670,
+          "resourceId": 109,
+          "text": "在那些乐园中，有不视非礼的妻子，在他们的妻子之前，任何人和任何精灵都未与她们交接过。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4958,
+      "verseNumber": 57,
+      "verseKey": "55:57",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100588,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny? -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751671,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4959,
+      "verseNumber": 58,
+      "verseKey": "55:58",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100589,
+          "resourceId": 20,
+          "text": "As if they were rubies and coral.<sup foot_note=229913>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751672,
+          "resourceId": 109,
+          "text": "她们好象红宝石和珊瑚一样。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4960,
+      "verseNumber": 59,
+      "verseKey": "55:59",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100590,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751673,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4961,
+      "verseNumber": 60,
+      "verseKey": "55:60",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100593,
+          "resourceId": 20,
+          "text": "Is the reward for good [anything] but good?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751674,
+          "resourceId": 109,
+          "text": "行善者，只受善报。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4962,
+      "verseNumber": 61,
+      "verseKey": "55:61",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100594,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751675,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4963,
+      "verseNumber": 62,
+      "verseKey": "55:62",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمِن دُونِهِمَا جَنَّتَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100595,
+          "resourceId": 20,
+          "text": "And below them both [in excellence] are two [other] gardens -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751676,
+          "resourceId": 109,
+          "text": "次于那两座乐园的，还有两座乐园。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4964,
+      "verseNumber": 63,
+      "verseKey": "55:63",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100596,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny? -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751677,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4965,
+      "verseNumber": 64,
+      "verseKey": "55:64",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "مُدْهَآمَّتَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100597,
+          "resourceId": 20,
+          "text": "Dark green [in color].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751678,
+          "resourceId": 109,
+          "text": "那两座乐园都是苍翠的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4966,
+      "verseNumber": 65,
+      "verseKey": "55:65",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100598,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751679,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4967,
+      "verseNumber": 66,
+      "verseKey": "55:66",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100599,
+          "resourceId": 20,
+          "text": "In both of them are two springs, spouting.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751680,
+          "resourceId": 109,
+          "text": "在那两座乐园里，有两洞涌出的泉源。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4968,
+      "verseNumber": 67,
+      "verseKey": "55:67",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 533,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100600,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751681,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4969,
+      "verseNumber": 68,
+      "verseKey": "55:68",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فِيهِمَا فَـٰكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+      "pageNumber": 534,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100601,
+          "resourceId": 20,
+          "text": "In both of them are fruit and palm trees and pomegranates.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751682,
+          "resourceId": 109,
+          "text": "在那两座乐园里，有水果，有海枣，有石榴。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4970,
+      "verseNumber": 69,
+      "verseKey": "55:69",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 534,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100602,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751683,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4971,
+      "verseNumber": 70,
+      "verseKey": "55:70",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌ",
+      "pageNumber": 534,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100605,
+          "resourceId": 20,
+          "text": "In them are good and beautiful women -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751684,
+          "resourceId": 109,
+          "text": "在那些乐园里，有许多贤淑佳丽的女子。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4972,
+      "verseNumber": 71,
+      "verseKey": "55:71",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 534,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100606,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny? -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751685,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4973,
+      "verseNumber": 72,
+      "verseKey": "55:72",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "حُورٌ مَّقْصُورَٰتٌ فِى ٱلْخِيَامِ",
+      "pageNumber": 534,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100607,
+          "resourceId": 20,
+          "text": "Fair ones reserved in pavilions -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751686,
+          "resourceId": 109,
+          "text": "他们是白皙的，是蛰居于帐幕中的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4974,
+      "verseNumber": 73,
+      "verseKey": "55:73",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 534,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100608,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny? -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751687,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4975,
+      "verseNumber": 74,
+      "verseKey": "55:74",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+      "pageNumber": 534,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100609,
+          "resourceId": 20,
+          "text": "Untouched before them by man or jinnī -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751688,
+          "resourceId": 109,
+          "text": "在他们的妻子之前，任何人或精灵，都未曾与她们交接过。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4976,
+      "verseNumber": 75,
+      "verseKey": "55:75",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 534,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100610,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny? -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751689,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4977,
+      "verseNumber": 76,
+      "verseKey": "55:76",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِىٍّ حِسَانٍ",
+      "pageNumber": 534,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100611,
+          "resourceId": 20,
+          "text": "Reclining on green cushions and beautiful fine carpets.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751690,
+          "resourceId": 109,
+          "text": "他们靠在翠绿的坐褥和美丽的花毯上。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4978,
+      "verseNumber": 77,
+      "verseKey": "55:77",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "pageNumber": 534,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100612,
+          "resourceId": 20,
+          "text": "So which of the favors of your Lord would you deny?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751691,
+          "resourceId": 109,
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4979,
+      "verseNumber": 78,
+      "verseKey": "55:78",
+      "hizbNumber": 54,
+      "rubElHizbNumber": 213,
+      "rukuNumber": 470,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+      "pageNumber": 534,
+      "juzNumber": 27,
+      "translations": [
+        {
+          "id": 100613,
+          "resourceId": 20,
+          "text": "Blessed is the name of your Lord, Owner of Majesty and Honor.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751692,
+          "resourceId": 109,
+          "text": "多福哉，你具尊严和大德的主的名号！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

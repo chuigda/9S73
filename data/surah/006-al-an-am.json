@@ -1,0 +1,4794 @@
+{
+  "id": 6,
+  "nameSimple": "Al-An'am",
+  "nameArabic": "الأنعام",
+  "versesCount": 165,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 790,
+      "verseNumber": 1,
+      "verseKey": "6:1",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 51,
+      "rukuNumber": 102,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": " ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَجَعَلَ ٱلظُّلُمَـٰتِ وَٱلنُّورَ ۖ ثُمَّ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ",
+      "pageNumber": 128,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100845,
+          "resourceId": 20,
+          "text": "[All] praise is [due] to Allāh, who created the heavens and the earth and made the darkness and the light. Then those who disbelieve equate [others] with their Lord.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747503,
+          "resourceId": 109,
+          "text": "一切赞颂，全归安拉！他创造天和地，造化了重重黑暗和光明；不信道的人，却以物配主。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 791,
+      "verseNumber": 2,
+      "verseKey": "6:2",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 51,
+      "rukuNumber": 102,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "هُوَ ٱلَّذِى خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَىٰٓ أَجَلًا ۖ وَأَجَلٌ مُّسَمًّى عِندَهُۥ ۖ ثُمَّ أَنتُمْ تَمْتَرُونَ",
+      "pageNumber": 128,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100937,
+          "resourceId": 20,
+          "text": "It is He who created you from clay and then decreed a term<sup foot_note=227518>1</sup> and a specified time [known] to Him;<sup foot_note=227520>2</sup> then [still] you are in dispute.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747504,
+          "resourceId": 109,
+          "text": "他用泥创造你们，然后判定一个期限，还有一个预定的期限；你们对于这点却是怀疑的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 792,
+      "verseNumber": 3,
+      "verseKey": "6:3",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 51,
+      "rukuNumber": 102,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَهُوَ ٱللَّهُ فِى ٱلسَّمَـٰوَٰتِ وَفِى ٱلْأَرْضِ ۖ يَعْلَمُ سِرَّكُمْ وَجَهْرَكُمْ وَيَعْلَمُ مَا تَكْسِبُونَ",
+      "pageNumber": 128,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100959,
+          "resourceId": 20,
+          "text": "And He is Allāh, [the only deity] in the heavens and the earth. He knows your secret and what you make public, and He knows that which you earn.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747505,
+          "resourceId": 109,
+          "text": "在天上地下，唯有安拉应受崇拜，他知道你们所隐讳的，和你们所表白的，也知道你们所做的善恶。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 793,
+      "verseNumber": 4,
+      "verseKey": "6:4",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 51,
+      "rukuNumber": 102,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَا تَأْتِيهِم مِّنْ ءَايَةٍ مِّنْ ءَايَـٰتِ رَبِّهِمْ إِلَّا كَانُوا۟ عَنْهَا مُعْرِضِينَ",
+      "pageNumber": 128,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100979,
+          "resourceId": 20,
+          "text": "And no sign comes to them from the signs of their Lord except that they turn away therefrom.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747506,
+          "resourceId": 109,
+          "text": "他们的主的迹象不降临他们则已；每次降临总是遭到他们的拒绝。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 794,
+      "verseNumber": 5,
+      "verseKey": "6:5",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 51,
+      "rukuNumber": 102,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "فَقَدْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ ۖ فَسَوْفَ يَأْتِيهِمْ أَنۢبَـٰٓؤُا۟ مَا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "pageNumber": 128,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101010,
+          "resourceId": 20,
+          "text": "For they had denied the truth when it came to them, but there is going to reach them the news of what they used to ridicule.<sup foot_note=227525>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747507,
+          "resourceId": 109,
+          "text": "当真理已降临他们的时候，他们则加以否认。他们嘲笑的事物的消息，将降临他们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 795,
+      "verseNumber": 6,
+      "verseKey": "6:6",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 51,
+      "rukuNumber": 102,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ مَّكَّنَّـٰهُمْ فِى ٱلْأَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ وَأَرْسَلْنَا ٱلسَّمَآءَ عَلَيْهِم مِّدْرَارًا وَجَعَلْنَا ٱلْأَنْهَـٰرَ تَجْرِى مِن تَحْتِهِمْ فَأَهْلَكْنَـٰهُم بِذُنُوبِهِمْ وَأَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ",
+      "pageNumber": 128,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101033,
+          "resourceId": 20,
+          "text": "Have they not seen how many generations We destroyed before them which We had established upon the earth as We have not established you? And We sent [rain from] the sky upon them in showers and made rivers flow beneath them; then We destroyed them for their sins and brought forth after them a generation of others.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747508,
+          "resourceId": 109,
+          "text": "难道他们不知道吗？在他们之前，我曾毁灭了许多世代，并且把没有赏赐你们的地位赏赐了他们，给他们以充足的雨水，使诸河流行在他们的下面。嗣后，我因他们的罪过而毁灭他们。在他们（灭亡）之后，我创造了别的时代。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 796,
+      "verseNumber": 7,
+      "verseKey": "6:7",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 51,
+      "rukuNumber": 102,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَوْ نَزَّلْنَا عَلَيْكَ كِتَـٰبًا فِى قِرْطَاسٍ فَلَمَسُوهُ بِأَيْدِيهِمْ لَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَـٰذَآ إِلَّا سِحْرٌ مُّبِينٌ",
+      "pageNumber": 128,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101057,
+          "resourceId": 20,
+          "text": "And even if We had sent down to you, [O Muḥammad], a written scripture on a page and they touched it with their hands, the disbelievers would say, \"This is not but obvious magic.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747509,
+          "resourceId": 109,
+          "text": "假若我把一部写在纸上的经典降示给你，而他们用手抚摩它，那么，不信道的人必定说：“这只是明显的魔术。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 797,
+      "verseNumber": 8,
+      "verseKey": "6:8",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 51,
+      "rukuNumber": 102,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ مَلَكٌ ۖ وَلَوْ أَنزَلْنَا مَلَكًا لَّقُضِىَ ٱلْأَمْرُ ثُمَّ لَا يُنظَرُونَ",
+      "pageNumber": 128,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101096,
+          "resourceId": 20,
+          "text": "And they say, \"Why was there not sent down to him an angel?\"<sup foot_note=227528>1</sup> But if We had sent down an angel, the matter would have been decided;<sup foot_note=227529>2</sup> then they would not be reprieved.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747510,
+          "resourceId": 109,
+          "text": "他们说：“为什么没有一个天使降临他呢？”假若我降一个天使，那么，他们的毁灭，必成定案，而他们不蒙宽待了。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 798,
+      "verseNumber": 9,
+      "verseKey": "6:9",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 51,
+      "rukuNumber": 102,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَوْ جَعَلْنَـٰهُ مَلَكًا لَّجَعَلْنَـٰهُ رَجُلًا وَلَلَبَسْنَا عَلَيْهِم مَّا يَلْبِسُونَ",
+      "pageNumber": 129,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101159,
+          "resourceId": 20,
+          "text": "And if We had made him [i.e., the messenger] an angel, We would have made him [appear as] a man, and We would have covered them with that in which they cover themselves [i.e., confusion and doubt].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747511,
+          "resourceId": 109,
+          "text": "假若我降下一个天使，我必使他变成一个人样，我必使他们陷于自己所作的蒙蔽之中。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 799,
+      "verseNumber": 10,
+      "verseKey": "6:10",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 51,
+      "rukuNumber": 102,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "pageNumber": 129,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100846,
+          "resourceId": 20,
+          "text": "And already were messengers ridiculed before you, but those who mocked them were enveloped by that which they used to ridicule.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747512,
+          "resourceId": 109,
+          "text": "在你之前，有许多使者，确已被人嘲笑，但嘲笑者所嘲笑的（刑罚），已降临他们了。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 800,
+      "verseNumber": 11,
+      "verseKey": "6:11",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 51,
+      "rukuNumber": 103,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ ثُمَّ ٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ",
+      "pageNumber": 129,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100857,
+          "resourceId": 20,
+          "text": "Say, \"Travel through the land; then observe how was the end of the deniers.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747513,
+          "resourceId": 109,
+          "text": "你说：“你们当在大地上旅行，然后观察否认使者的结局是怎样的。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 801,
+      "verseNumber": 12,
+      "verseKey": "6:12",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 51,
+      "rukuNumber": 103,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُل لِّمَن مَّا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ قُل لِّلَّهِ ۚ كَتَبَ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۚ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ",
+      "pageNumber": 129,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100876,
+          "resourceId": 20,
+          "text": "Say, \"To whom belongs whatever is in the heavens and earth?\" Say, \"To Allāh.\" He has decreed upon Himself mercy. He will surely assemble you for the Day of Resurrection, about which there is no doubt. Those who will lose themselves [that Day] do not believe.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747514,
+          "resourceId": 109,
+          "text": "你说：“天地万物是谁的？”你说：“是安拉的。”他曾以慈悯为自己的责任。他必在无疑的复活日集合你们。亏折自身的人，是不信道的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 802,
+      "verseNumber": 13,
+      "verseKey": "6:13",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 103,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "۞ وَلَهُۥ مَا سَكَنَ فِى ٱلَّيْلِ وَٱلنَّهَارِ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "pageNumber": 129,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100888,
+          "resourceId": 20,
+          "text": "And to Him belongs that which reposes by night and by day, and He is the Hearing, the Knowing.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747515,
+          "resourceId": 109,
+          "text": "凡居住在昼夜里的事物，都为安拉所有。他是全聪的，是全知的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 803,
+      "verseNumber": 14,
+      "verseKey": "6:14",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 103,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ أَغَيْرَ ٱللَّهِ أَتَّخِذُ وَلِيًّا فَاطِرِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ ۗ قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ ۖ وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ",
+      "pageNumber": 129,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100900,
+          "resourceId": 20,
+          "text": "Say, \"Is it other than Allāh I should take as a protector, Creator of the heavens and earth, while it is He who feeds and is not fed?\" Say, [O Muḥammad], \"Indeed, I have been commanded to be the first [among you] who submit [to Allāh] and [was commanded], 'Do not ever be of the polytheists.'\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747516,
+          "resourceId": 109,
+          "text": "你说：“难道我舍安拉而以他物为保佑者吗？他是天地的创造者，他能供养，而不受供养。”你说：“我已奉命做首先归顺的人，而绝不做以物配主的人。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 804,
+      "verseNumber": 15,
+      "verseKey": "6:15",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 103,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+      "pageNumber": 129,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100910,
+          "resourceId": 20,
+          "text": "Say, \"Indeed I fear, if I should disobey my Lord, the punishment of a tremendous Day.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747517,
+          "resourceId": 109,
+          "text": "你说：“如果我违抗我的主，我的确畏惧重大日的刑罚。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 805,
+      "verseNumber": 16,
+      "verseKey": "6:16",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 103,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "مَّن يُصْرَفْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَحِمَهُۥ ۚ وَذَٰلِكَ ٱلْفَوْزُ ٱلْمُبِينُ",
+      "pageNumber": 129,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100922,
+          "resourceId": 20,
+          "text": "He from whom it is averted that Day - [Allāh] has granted him mercy. And that is the clear attainment.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747518,
+          "resourceId": 109,
+          "text": "在那日，谁得避免刑罚，谁确已蒙主的慈恩了。那是明显的成功。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 806,
+      "verseNumber": 17,
+      "verseKey": "6:17",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 103,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ ۖ وَإِن يَمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "pageNumber": 129,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100931,
+          "resourceId": 20,
+          "text": "And if Allāh should touch you with adversity, there is no remover of it except Him. And if He touches you with good - then He is over all things competent.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747519,
+          "resourceId": 109,
+          "text": "如果安拉使你遭受灾难，那么，除他外绝无能解除的。如果他使你享受福利，（那么，任何人不能干涉他），因为他对于万事是全能的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 807,
+      "verseNumber": 18,
+      "verseKey": "6:18",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 103,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَهُوَ ٱلْقَاهِرُ فَوْقَ عِبَادِهِۦ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ",
+      "pageNumber": 129,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100933,
+          "resourceId": 20,
+          "text": "And He is the subjugator over His servants. And He is the Wise,<sup foot_note=227542>1</sup> the Aware.<sup foot_note=227543>2</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747520,
+          "resourceId": 109,
+          "text": "他是在众仆之上宰制万物的。他是至睿的，是彻知的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 808,
+      "verseNumber": 19,
+      "verseKey": "6:19",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 103,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ أَىُّ شَىْءٍ أَكْبَرُ شَهَـٰدَةً ۖ قُلِ ٱللَّهُ ۖ شَهِيدٌۢ بَيْنِى وَبَيْنَكُمْ ۚ وَأُوحِىَ إِلَىَّ هَـٰذَا ٱلْقُرْءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَ ۚ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخْرَىٰ ۚ قُل لَّآ أَشْهَدُ ۚ قُلْ إِنَّمَا هُوَ إِلَـٰهٌ وَٰحِدٌ وَإِنَّنِى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ",
+      "pageNumber": 130,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100935,
+          "resourceId": 20,
+          "text": "Say, \"What thing is greatest in testimony?\" Say, \"Allāh is witness between me and you. And this Qur’ān was revealed to me that I may warn you thereby and whomever it reaches.<sup foot_note=227545>1</sup> Do you [truly] testify that with Allāh there are other deities?\" Say, \"I will not testify [with you].\" Say, \"Indeed, He is but one God, and indeed, I am free of what you associate [with Him].\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747521,
+          "resourceId": 109,
+          "text": "你说：“什么事物是最大的见证？”你说：“安拉是我与你们之间的见证。这部《古兰经》被启示给我，以便我用它来警告你们，和它所到达的各民族。难道你们务必要作证还有别的许多主宰与安拉同等吗？”你说：“我不这样作证。”你说：“安拉是独一的主宰。你们用来配主的（那些偶像），我与他们确是无关系的。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 809,
+      "verseNumber": 20,
+      "verseKey": "6:20",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 103,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَعْرِفُونَهُۥ كَمَا يَعْرِفُونَ أَبْنَآءَهُمُ ۘ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ",
+      "pageNumber": 130,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100938,
+          "resourceId": 20,
+          "text": "Those to whom We have given the Scripture recognize it<sup foot_note=227547>1</sup> as they recognize their [own] sons. Those who will lose themselves [in the Hereafter] do not believe.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747522,
+          "resourceId": 109,
+          "text": "蒙我赏赐经典的人，认识他，犹如认识自己的儿女一样。亏折自身的人，是不信他的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 810,
+      "verseNumber": 21,
+      "verseKey": "6:21",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 104,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَـٰتِهِۦٓ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ",
+      "pageNumber": 130,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100939,
+          "resourceId": 20,
+          "text": "And who is more unjust than one who invents about Allāh a lie or denies His verses? Indeed, the wrongdoers will not succeed.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747523,
+          "resourceId": 109,
+          "text": "假借安拉的名义而造谣，或否认其迹象的人，有谁比他还不义呢？不义的人，必定不会成功。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 811,
+      "verseNumber": 22,
+      "verseKey": "6:22",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 104,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَيَوْمَ نَحْشُرُهُمْ جَمِيعًا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوٓا۟ أَيْنَ شُرَكَآؤُكُمُ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ",
+      "pageNumber": 130,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100943,
+          "resourceId": 20,
+          "text": "And [mention, O Muḥammad], the Day We will gather them all together; then We will say to those who associated others with Allāh, \"Where are your 'partners' that you used to claim [with Him]?\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747524,
+          "resourceId": 109,
+          "text": "在那日，我把他们全体集合起来，然后，我对以物配主的人说：“以前你们所妄称为我的伙伴的，如今在哪里呢？”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 812,
+      "verseNumber": 23,
+      "verseKey": "6:23",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 104,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "ثُمَّ لَمْ تَكُن فِتْنَتُهُمْ إِلَّآ أَن قَالُوا۟ وَٱللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ",
+      "pageNumber": 130,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100945,
+          "resourceId": 20,
+          "text": "Then there will be no [excuse upon] examination except they will say, \"By Allāh, our Lord, we were not those who associated.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747525,
+          "resourceId": 109,
+          "text": "然后，他们唯一的托辞是：“指安拉——我们的主发誓，我们没有以物配主。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 813,
+      "verseNumber": 24,
+      "verseKey": "6:24",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 104,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "ٱنظُرْ كَيْفَ كَذَبُوا۟ عَلَىٰٓ أَنفُسِهِمْ ۚ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ",
+      "pageNumber": 130,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100947,
+          "resourceId": 20,
+          "text": "See how they will lie about themselves. And lost from them will be what they used to invent.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747526,
+          "resourceId": 109,
+          "text": "你看看他们怎样抵赖。他们以前伪造的（伙伴）已回避他们了。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 814,
+      "verseNumber": 25,
+      "verseKey": "6:25",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 104,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ ۖ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًا ۚ وَإِن يَرَوْا۟ كُلَّ ءَايَةٍ لَّا يُؤْمِنُوا۟ بِهَا ۚ حَتَّىٰٓ إِذَا جَآءُوكَ يُجَـٰدِلُونَكَ يَقُولُ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+      "pageNumber": 130,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100949,
+          "resourceId": 20,
+          "text": "And among them are those who listen to you,<sup foot_note=227550>1</sup> but We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And if they should see every sign, they will not believe in it. Even when they come to you arguing with you, those who disbelieve say, \"This is not but legends of the former peoples.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747527,
+          "resourceId": 109,
+          "text": "他们中有倾听你的，我在他们的心上加蒙蔽，以免他们了解《古兰经》。又在他们的耳中造重听。他们即使看见一切迹象，他们也不会确信。等到他们来和你辩论的时候，不信道的人说：“这只是古人的神话。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 815,
+      "verseNumber": 26,
+      "verseKey": "6:26",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 104,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْـَٔوْنَ عَنْهُ ۖ وَإِن يُهْلِكُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+      "pageNumber": 130,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100951,
+          "resourceId": 20,
+          "text": "And they prevent [others] from him and are [themselves] remote from him. And they do not destroy except themselves, but they perceive [it] not.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747528,
+          "resourceId": 109,
+          "text": "他们禁止别人信仰他，而自己也远离他；他们只是在毁灭自己，却不自觉。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 816,
+      "verseNumber": 27,
+      "verseKey": "6:27",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 104,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَى ٱلنَّارِ فَقَالُوا۟ يَـٰلَيْتَنَا نُرَدُّ وَلَا نُكَذِّبَ بِـَٔايَـٰتِ رَبِّنَا وَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ",
+      "pageNumber": 130,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100953,
+          "resourceId": 20,
+          "text": "If you could but see when they are made to stand before the Fire and will say, \"Oh, would that we could be returned [to life on earth] and not deny the signs of our Lord and be among the believers.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747529,
+          "resourceId": 109,
+          "text": "当他们奉命站在火狱边上的时候，假若你看到他们的情状……。于是，他们说：“啊！但愿我们得复返人世，我们不再否认我们的主的迹象，而我们要做信士了。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 817,
+      "verseNumber": 28,
+      "verseKey": "6:28",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 104,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "بَلْ بَدَا لَهُم مَّا كَانُوا۟ يُخْفُونَ مِن قَبْلُ ۖ وَلَوْ رُدُّوا۟ لَعَادُوا۟ لِمَا نُهُوا۟ عَنْهُ وَإِنَّهُمْ لَكَـٰذِبُونَ",
+      "pageNumber": 131,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100955,
+          "resourceId": 20,
+          "text": "But what they concealed before has [now] appeared to them. And even if they were returned, they would return to that which they were forbidden; and indeed, they are liars.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747530,
+          "resourceId": 109,
+          "text": "不然，他们以前所隐讳的，已经为他们而暴露出来。即使他们得复返人世，他们仍必再犯他们以前所被禁戒的事。他们确是说谎的人。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 818,
+      "verseNumber": 29,
+      "verseKey": "6:29",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 104,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَقَالُوٓا۟ إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ",
+      "pageNumber": 131,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100957,
+          "resourceId": 20,
+          "text": "And they say, \"There is none but our worldly life, and we will not be resurrected.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747531,
+          "resourceId": 109,
+          "text": "他们说：“只有我们今世的生活，我们绝不复活。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 819,
+      "verseNumber": 30,
+      "verseKey": "6:30",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 104,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَىٰ رَبِّهِمْ ۚ قَالَ أَلَيْسَ هَـٰذَا بِٱلْحَقِّ ۚ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ",
+      "pageNumber": 131,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100960,
+          "resourceId": 20,
+          "text": "If you could but see when they will be made to stand before their Lord. He will say, \"Is this not the truth?\" They will say, \"Yes, by our Lord.\" He will [then] say, \"So taste the punishment for what you used to deny.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747532,
+          "resourceId": 109,
+          "text": "当他们奉命站在他们的主那里的时候，假若你看见他们的情状……。安拉将说：“难道这不是真实的吗？”他们将说：“不然，以我们的主发誓！”他将说：“你们尝试刑罚吧，因为你们从前不信它。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 820,
+      "verseNumber": 31,
+      "verseKey": "6:31",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 105,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ ۖ حَتَّىٰٓ إِذَا جَآءَتْهُمُ ٱلسَّاعَةُ بَغْتَةً قَالُوا۟ يَـٰحَسْرَتَنَا عَلَىٰ مَا فَرَّطْنَا فِيهَا وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَىٰ ظُهُورِهِمْ ۚ أَلَا سَآءَ مَا يَزِرُونَ",
+      "pageNumber": 131,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100961,
+          "resourceId": 20,
+          "text": "Those will have lost who deny the meeting with Allāh, until when the Hour [of resurrection] comes upon them unexpectedly, they will say, \"Oh, [how great is] our regret over what we neglected concerning it [i.e., the Hour],\" while they bear their burdens [i.e., sins] on their backs. Unquestionably, evil is that which they bear.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747533,
+          "resourceId": 109,
+          "text": "否认与安拉相会的人，确已亏折了。等到复活时刻忽然降临的时候，他们才说：“呜呼痛哉！我们在尘世时疏忽了。”他们的背上，担负着自己的罪恶。他们所担负的，真恶劣！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 821,
+      "verseNumber": 32,
+      "verseKey": "6:32",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 105,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا لَعِبٌ وَلَهْوٌ ۖ وَلَلدَّارُ ٱلْـَٔاخِرَةُ خَيْرٌ لِّلَّذِينَ يَتَّقُونَ ۗ أَفَلَا تَعْقِلُونَ",
+      "pageNumber": 131,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100928,
+          "resourceId": 20,
+          "text": "And the worldly life is not but amusement and diversion; but the home of the Hereafter is best for those who fear Allāh, so will you not reason?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747534,
+          "resourceId": 109,
+          "text": "今世的生活，只是嬉戏和娱乐；后世，对于敬畏的人，是更优美的。难道你们不了解吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 822,
+      "verseNumber": 33,
+      "verseKey": "6:33",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 105,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قَدْ نَعْلَمُ إِنَّهُۥ لَيَحْزُنُكَ ٱلَّذِى يَقُولُونَ ۖ فَإِنَّهُمْ لَا يُكَذِّبُونَكَ وَلَـٰكِنَّ ٱلظَّـٰلِمِينَ بِـَٔايَـٰتِ ٱللَّهِ يَجْحَدُونَ",
+      "pageNumber": 131,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100868,
+          "resourceId": 20,
+          "text": "We know that you, [O Muḥammad], are saddened by what they say. And indeed, they do not call you untruthful, but it is the verses of Allāh that the wrongdoers reject.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747535,
+          "resourceId": 109,
+          "text": "我确已知道，他们所说的话必使你悲伤。他们不是在否认你，那些不义的人，是在否认安拉的迹象。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 823,
+      "verseNumber": 34,
+      "verseKey": "6:34",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 105,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ فَصَبَرُوا۟ عَلَىٰ مَا كُذِّبُوا۟ وَأُوذُوا۟ حَتَّىٰٓ أَتَىٰهُمْ نَصْرُنَا ۚ وَلَا مُبَدِّلَ لِكَلِمَـٰتِ ٱللَّهِ ۚ وَلَقَدْ جَآءَكَ مِن نَّبَإِى۟ ٱلْمُرْسَلِينَ",
+      "pageNumber": 131,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100967,
+          "resourceId": 20,
+          "text": "And certainly were messengers denied before you, but they were patient over the denial, and they were harmed until Our victory came to them. And none can alter the words [i.e., decrees] of Allāh. And there has certainly come to you some information about the [previous] messengers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747536,
+          "resourceId": 109,
+          "text": "在你之前，有许多使者，确已被人否认，但他们忍受他人的否认和迫害，直到我的援助降临他们。安拉的约言，不是任何人所能变更的。众使者的消息，有一部分确已降临你们了。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 824,
+      "verseNumber": 35,
+      "verseKey": "6:35",
+      "hizbNumber": 13,
+      "rubElHizbNumber": 52,
+      "rukuNumber": 105,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِن كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ ٱسْتَطَعْتَ أَن تَبْتَغِىَ نَفَقًا فِى ٱلْأَرْضِ أَوْ سُلَّمًا فِى ٱلسَّمَآءِ فَتَأْتِيَهُم بِـَٔايَةٍ ۚ وَلَوْ شَآءَ ٱللَّهُ لَجَمَعَهُمْ عَلَى ٱلْهُدَىٰ ۚ فَلَا تَكُونَنَّ مِنَ ٱلْجَـٰهِلِينَ",
+      "pageNumber": 131,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100969,
+          "resourceId": 20,
+          "text": "And if their evasion is difficult for you, then if you are able to seek a tunnel into the earth or a stairway into the sky to bring them a sign, [then do so]. But if Allāh had willed, He would have united them upon guidance. So never be of the ignorant.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747537,
+          "resourceId": 109,
+          "text": "如果他们的拒绝使你难堪，那么，如果你能找到一条入地的隧道，或一架登天的梯子，从而昭示他们一种迹象，（你就这样做吧。）假若安拉意欲，他必将他们集合在正道上，故你绝不要做无知的人。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 825,
+      "verseNumber": 36,
+      "verseKey": "6:36",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 105,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "۞ إِنَّمَا يَسْتَجِيبُ ٱلَّذِينَ يَسْمَعُونَ ۘ وَٱلْمَوْتَىٰ يَبْعَثُهُمُ ٱللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ",
+      "pageNumber": 132,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100971,
+          "resourceId": 20,
+          "text": "Only those who hear will respond. But the dead<sup foot_note=227557>1</sup> - Allāh will resurrect them; then to Him they will be returned.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747538,
+          "resourceId": 109,
+          "text": "只有会听话的人，响应你的号召。至于那些死人，安拉将来要使他们复活，然后，把他们集合在他那里。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 826,
+      "verseNumber": 37,
+      "verseKey": "6:37",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 105,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَقَالُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ءَايَةٌ مِّن رَّبِّهِۦ ۚ قُلْ إِنَّ ٱللَّهَ قَادِرٌ عَلَىٰٓ أَن يُنَزِّلَ ءَايَةً وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "pageNumber": 132,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100973,
+          "resourceId": 20,
+          "text": "And they say, \"Why has a sign not been sent down to him from his Lord?\" Say, \"Indeed, Allāh is Able to send down a sign, but most of them do not know.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747539,
+          "resourceId": 109,
+          "text": "他们说：“为什么没有一种迹象从他的主降临他呢？”你说：“安拉确是能降示一种迹象的。”但他们大半不知道。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 827,
+      "verseNumber": 38,
+      "verseKey": "6:38",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 105,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَا مِن دَآبَّةٍ فِى ٱلْأَرْضِ وَلَا طَـٰٓئِرٍ يَطِيرُ بِجَنَاحَيْهِ إِلَّآ أُمَمٌ أَمْثَالُكُم ۚ مَّا فَرَّطْنَا فِى ٱلْكِتَـٰبِ مِن شَىْءٍ ۚ ثُمَّ إِلَىٰ رَبِّهِمْ يُحْشَرُونَ",
+      "pageNumber": 132,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100975,
+          "resourceId": 20,
+          "text": "And there is no creature on [or within] the earth or bird that flies with its wings except [that they are] communities like you. We have not neglected in the Register<sup foot_note=227562>1</sup> a thing. Then unto their Lord they will be gathered.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747540,
+          "resourceId": 109,
+          "text": "在大地上行走的兽类和用两翼飞翔的鸟类，都跟你们一样，各有种族——我在天经里没有遗漏任何事物；一切鸟兽，都要被集合在他们的主那里。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 828,
+      "verseNumber": 39,
+      "verseKey": "6:39",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 105,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا صُمٌّ وَبُكْمٌ فِى ٱلظُّلُمَـٰتِ ۗ مَن يَشَإِ ٱللَّهُ يُضْلِلْهُ وَمَن يَشَأْ يَجْعَلْهُ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "pageNumber": 132,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100977,
+          "resourceId": 20,
+          "text": "But those who deny Our verses are deaf and dumb within darknesses. Whomever Allāh wills - He sends astray; and whomever He wills - He puts him on a straight path.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747541,
+          "resourceId": 109,
+          "text": "否认我的迹象的人，是又聋又哑的人，是在重重黑暗中的。安拉欲使谁误入迷途，就使谁误入迷途；欲使谁遵循正道，就使谁遵循正道。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 829,
+      "verseNumber": 40,
+      "verseKey": "6:40",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 105,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ أَوْ أَتَتْكُمُ ٱلسَّاعَةُ أَغَيْرَ ٱللَّهِ تَدْعُونَ إِن كُنتُمْ صَـٰدِقِينَ",
+      "pageNumber": 132,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100980,
+          "resourceId": 20,
+          "text": "Say, \"Have you considered:<sup foot_note=227565>1</sup> if there came to you the punishment of Allāh or there came to you the Hour - is it other than Allāh you would invoke, if you should be truthful?\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747542,
+          "resourceId": 109,
+          "text": "你说：“如果你们是诚实的人，那么，你们告诉我吧：如果安拉的刑罚或复活的时刻降临你们，那么，你们要舍安拉而祈祷他物吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 830,
+      "verseNumber": 41,
+      "verseKey": "6:41",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 105,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "بَلْ إِيَّاهُ تَدْعُونَ فَيَكْشِفُ مَا تَدْعُونَ إِلَيْهِ إِن شَآءَ وَتَنسَوْنَ مَا تُشْرِكُونَ",
+      "pageNumber": 132,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100981,
+          "resourceId": 20,
+          "text": "No, it is Him [alone] you would invoke, and He would remove that for which you invoked Him if He willed, and you would forget what you associate [with Him].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747543,
+          "resourceId": 109,
+          "text": "不然，你们只祈祷安拉；如果他意欲，他就解除你们祈求他解除的灾难，你们将忘却你们所用来配他的（一切偶像）。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 831,
+      "verseNumber": 42,
+      "verseKey": "6:42",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 106,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰٓ أُمَمٍ مِّن قَبْلِكَ فَأَخَذْنَـٰهُم بِٱلْبَأْسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمْ يَتَضَرَّعُونَ",
+      "pageNumber": 132,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100992,
+          "resourceId": 20,
+          "text": "And We have already sent [messengers] to nations before you, [O Muḥammad]; then We seized them with poverty and hardship that perhaps they might humble themselves [to Us].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747544,
+          "resourceId": 109,
+          "text": "在你之前，我确已派遣（许多使者）去教化各民族，（他们否认使者的使命），故，我以穷困和患难惩治他们，以便他们谦逊。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 832,
+      "verseNumber": 43,
+      "verseKey": "6:43",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 106,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "فَلَوْلَآ إِذْ جَآءَهُم بَأْسُنَا تَضَرَّعُوا۟ وَلَـٰكِن قَسَتْ قُلُوبُهُمْ وَزَيَّنَ لَهُمُ ٱلشَّيْطَـٰنُ مَا كَانُوا۟ يَعْمَلُونَ",
+      "pageNumber": 132,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100994,
+          "resourceId": 20,
+          "text": "Then why, when Our punishment came to them, did they not humble themselves? But their hearts became hardened, and Satan made attractive to them that which they were doing.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747545,
+          "resourceId": 109,
+          "text": "当我的惩罚降临的时候，他们为什么不谦逊呢？但他们的心坚硬，恶魔以他们的行为迷惑他们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 833,
+      "verseNumber": 44,
+      "verseKey": "6:44",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 106,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "فَلَمَّا نَسُوا۟ مَا ذُكِّرُوا۟ بِهِۦ فَتَحْنَا عَلَيْهِمْ أَبْوَٰبَ كُلِّ شَىْءٍ حَتَّىٰٓ إِذَا فَرِحُوا۟ بِمَآ أُوتُوٓا۟ أَخَذْنَـٰهُم بَغْتَةً فَإِذَا هُم مُّبْلِسُونَ",
+      "pageNumber": 132,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100996,
+          "resourceId": 20,
+          "text": "So when they forgot that by which they had been reminded,<sup foot_note=227570>1</sup> We opened to them the doors of every [good] thing until, when they rejoiced in that which they were given, We seized them suddenly, and they were [then] in despair.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747546,
+          "resourceId": 109,
+          "text": "当他们忘却自己所受的劝告的时候，我为他们开辟一切福利之门，直到他们因自己所受的赏赐而狂喜的时候，我忽然惩治他们，而他们立刻变成沮丧的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 834,
+      "verseNumber": 45,
+      "verseKey": "6:45",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 106,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "فَقُطِعَ دَابِرُ ٱلْقَوْمِ ٱلَّذِينَ ظَلَمُوا۟ ۚ وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "pageNumber": 133,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100998,
+          "resourceId": 20,
+          "text": "So the people that committed wrong were eliminated. And praise to Allāh, Lord of the worlds.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747547,
+          "resourceId": 109,
+          "text": "不义的民众，已被根绝了。一切赞颂，全归安拉——众世界的主！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 835,
+      "verseNumber": 46,
+      "verseKey": "6:46",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 106,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ أَرَءَيْتُمْ إِنْ أَخَذَ ٱللَّهُ سَمْعَكُمْ وَأَبْصَـٰرَكُمْ وَخَتَمَ عَلَىٰ قُلُوبِكُم مَّنْ إِلَـٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِهِ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْـَٔايَـٰتِ ثُمَّ هُمْ يَصْدِفُونَ",
+      "pageNumber": 133,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101000,
+          "resourceId": 20,
+          "text": "Say, \"Have you considered:<sup foot_note=227573>1</sup> if Allāh should take away your hearing and your sight and set a seal upon your hearts, which deity other than Allāh could bring them [back] to you?\" Look how We diversify<sup foot_note=227574>2</sup> the verses; then they [still] turn away.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747548,
+          "resourceId": 109,
+          "text": "你说：“你们告诉我吧，如果安拉使你们失去听觉和视觉，而且封闭你们的心，那么，除安拉外，还有哪个主宰能使你们复原呢？”你看我是怎样阐述一切迹象的，然而，他们置之不顾。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 836,
+      "verseNumber": 47,
+      "verseKey": "6:47",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 106,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ بَغْتَةً أَوْ جَهْرَةً هَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلظَّـٰلِمُونَ",
+      "pageNumber": 133,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101003,
+          "resourceId": 20,
+          "text": "Say, \"Have you considered: if the punishment of Allāh should come to you unexpectedly or manifestly,<sup foot_note=227575>1</sup> will any be destroyed but the wrongdoing people?\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747549,
+          "resourceId": 109,
+          "text": "你说：“你们告诉我吧，如果安拉的刑罚忽然或显然降临你们，那么，除不义的民众外，还有谁会被毁灭呢？”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 837,
+      "verseNumber": 48,
+      "verseKey": "6:48",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 106,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ ۖ فَمَنْ ءَامَنَ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "pageNumber": 133,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101006,
+          "resourceId": 20,
+          "text": "And We send not the messengers except as bringers of good tidings and warners. So whoever believes and reforms - there will be no fear concerning them, nor will they grieve.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747550,
+          "resourceId": 109,
+          "text": "我只派遣众使者作报喜者和警告者。谁信道而且行善，谁在将来没有恐惧，也不忧愁。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 838,
+      "verseNumber": 49,
+      "verseKey": "6:49",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 106,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا يَمَسُّهُمُ ٱلْعَذَابُ بِمَا كَانُوا۟ يَفْسُقُونَ",
+      "pageNumber": 133,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101008,
+          "resourceId": 20,
+          "text": "But those who deny Our verses - the punishment will touch<sup foot_note=227578>1</sup> them for their defiant disobedience.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747551,
+          "resourceId": 109,
+          "text": "否认我的迹象的人，将因犯罪而遭受刑罚。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 839,
+      "verseNumber": 50,
+      "verseKey": "6:50",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 106,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُل لَّآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ لَكُمْ إِنِّى مَلَكٌ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ ۚ أَفَلَا تَتَفَكَّرُونَ",
+      "pageNumber": 133,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101011,
+          "resourceId": 20,
+          "text": "Say, [O Muḥammad], \"I do not tell you that I have the depositories [containing the provision] of Allāh or that I know the unseen, nor do I tell you that I am an angel. I only follow what is revealed to me.\" Say, \"Is the blind equivalent to the seeing? Then will you not give thought?\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747552,
+          "resourceId": 109,
+          "text": "你说：“我不对你们说：我有安拉的一切宝藏。我也不对你们说：我能知幽玄。我也不对你们说：我是一个天使。我只是遵从我所受的启示。”你说：“无眼的人和有眼的人是不是相等的？难道你们不该想想吗？”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 840,
+      "verseNumber": 51,
+      "verseKey": "6:51",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 107,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَأَنذِرْ بِهِ ٱلَّذِينَ يَخَافُونَ أَن يُحْشَرُوٓا۟ إِلَىٰ رَبِّهِمْ ۙ لَيْسَ لَهُم مِّن دُونِهِۦ وَلِىٌّ وَلَا شَفِيعٌ لَّعَلَّهُمْ يَتَّقُونَ",
+      "pageNumber": 133,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101012,
+          "resourceId": 20,
+          "text": "And warn by it [i.e., the Qur’ān] those who fear that they will be gathered before their Lord - for them besides Him will be no protector and no intercessor - that they might become righteous.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747553,
+          "resourceId": 109,
+          "text": "有些人，害怕将来被集合在他们的主那里，既无保护，也无人说情，你当用此经去警告他们，以便他们敬畏。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 841,
+      "verseNumber": 52,
+      "verseKey": "6:52",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 107,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَا تَطْرُدِ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ مَا عَلَيْكَ مِنْ حِسَابِهِم مِّن شَىْءٍ وَمَا مِنْ حِسَابِكَ عَلَيْهِم مِّن شَىْءٍ فَتَطْرُدَهُمْ فَتَكُونَ مِنَ ٱلظَّـٰلِمِينَ",
+      "pageNumber": 133,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101017,
+          "resourceId": 20,
+          "text": "And do not send away those who call upon their Lord morning and afternoon, seeking His face [i.e., favor]. Not upon you is anything of their account and not upon them is anything of your account.<sup foot_note=227579>1</sup> So were you to send them away, you would [then] be of the wrongdoers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747554,
+          "resourceId": 109,
+          "text": "早晚祈祷自己的养主,欲求其恩赐的人,你不要驱逐他们。你对于他们的被清算，毫无责任；他们对于你的被清算，也毫无责任。你何必驱逐他们，以至你变成不义的人。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 842,
+      "verseNumber": 53,
+      "verseKey": "6:53",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 107,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَكَذَٰلِكَ فَتَنَّا بَعْضَهُم بِبَعْضٍ لِّيَقُولُوٓا۟ أَهَـٰٓؤُلَآءِ مَنَّ ٱللَّهُ عَلَيْهِم مِّنۢ بَيْنِنَآ ۗ أَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِٱلشَّـٰكِرِينَ",
+      "pageNumber": 134,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101019,
+          "resourceId": 20,
+          "text": "And thus We have tried some of them through others that they [i.e., the disbelievers] might say, \"Is it these whom Allāh has favored among us?\" Is not Allāh most knowing of those who are grateful?<sup foot_note=227580>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747555,
+          "resourceId": 109,
+          "text": "我这样使他们互相考验，以便他们说：“难道这等人就是我们中特受安拉恩宠的人吗？”难道安拉不是最了解感谢者的吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 843,
+      "verseNumber": 54,
+      "verseKey": "6:54",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 107,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤْمِنُونَ بِـَٔايَـٰتِنَا فَقُلْ سَلَـٰمٌ عَلَيْكُمْ ۖ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۖ أَنَّهُۥ مَنْ عَمِلَ مِنكُمْ سُوٓءًۢا بِجَهَـٰلَةٍ ثُمَّ تَابَ مِنۢ بَعْدِهِۦ وَأَصْلَحَ فَأَنَّهُۥ غَفُورٌ رَّحِيمٌ",
+      "pageNumber": 134,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101021,
+          "resourceId": 20,
+          "text": "And when those come to you who believe in Our verses, say, \"Peace be upon you. Your Lord has decreed upon Himself mercy: that any of you who does wrong out of ignorance and then repents after that and corrects himself - indeed, He is Forgiving and Merciful.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747556,
+          "resourceId": 109,
+          "text": "确信我的迹象的人来见你的时候，你说：“祝你们平安。你们的主，曾以慈悯为自己的责任。你们中谁无知地作恶，然后悔过自新，安拉必定赦宥谁，因为他确是至赦的，确是至慈的。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 844,
+      "verseNumber": 55,
+      "verseKey": "6:55",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 107,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَكَذَٰلِكَ نُفَصِّلُ ٱلْـَٔايَـٰتِ وَلِتَسْتَبِينَ سَبِيلُ ٱلْمُجْرِمِينَ",
+      "pageNumber": 134,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101023,
+          "resourceId": 20,
+          "text": "And thus do We detail the verses, and [thus] the way of the criminals will become evident.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747557,
+          "resourceId": 109,
+          "text": "我这样解释一切迹象，以便（真理昭著），而罪人的道路变成明白的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 845,
+      "verseNumber": 56,
+      "verseKey": "6:56",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 108,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ إِنِّى نُهِيتُ أَنْ أَعْبُدَ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ ۚ قُل لَّآ أَتَّبِعُ أَهْوَآءَكُمْ ۙ قَدْ ضَلَلْتُ إِذًا وَمَآ أَنَا۠ مِنَ ٱلْمُهْتَدِينَ",
+      "pageNumber": 134,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101025,
+          "resourceId": 20,
+          "text": "Say, \"Indeed, I have been forbidden to worship those you invoke besides Allāh.\" Say, \"I will not follow your desires, for I would then have gone astray, and I would not be of the [rightly] guided.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747558,
+          "resourceId": 109,
+          "text": "你说：“我确已奉到禁令：不得崇拜你们舍安拉而祈祷的。”你说：“我不顺从你们的私欲；否则，我必迷误，而绝不是遵循正道的人。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 846,
+      "verseNumber": 57,
+      "verseKey": "6:57",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 108,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ إِنِّى عَلَىٰ بَيِّنَةٍ مِّن رَّبِّى وَكَذَّبْتُم بِهِۦ ۚ مَا عِندِى مَا تَسْتَعْجِلُونَ بِهِۦٓ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ يَقُصُّ ٱلْحَقَّ ۖ وَهُوَ خَيْرُ ٱلْفَـٰصِلِينَ",
+      "pageNumber": 134,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101027,
+          "resourceId": 20,
+          "text": "Say, \"Indeed, I am on clear evidence from my Lord, and you have denied it. I do not have that for which you are impatient.<sup foot_note=227585>1</sup> The decision is only for Allāh. He relates the truth, and He is the best of deciders.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747559,
+          "resourceId": 109,
+          "text": "你说：“我确是依据从我的主降示的明证的，而你们却否认它。我不能主持你们要求早日实现的刑罚。一切判决，只归安拉；他依理而判决，他是最公正的判决者。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 847,
+      "verseNumber": 58,
+      "verseKey": "6:58",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 53,
+      "rukuNumber": 108,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُل لَّوْ أَنَّ عِندِى مَا تَسْتَعْجِلُونَ بِهِۦ لَقُضِىَ ٱلْأَمْرُ بَيْنِى وَبَيْنَكُمْ ۗ وَٱللَّهُ أَعْلَمُ بِٱلظَّـٰلِمِينَ",
+      "pageNumber": 134,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101029,
+          "resourceId": 20,
+          "text": "Say, \"If I had that for which you are impatient, the matter would have been decided between me and you, but Allāh is most knowing of the wrongdoers.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747560,
+          "resourceId": 109,
+          "text": "你说：“假若我能主持你们要求早日实现的刑罚，那么，我与你们之间的事情，必定被判决了。”安拉是最了解不义者的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 848,
+      "verseNumber": 59,
+      "verseKey": "6:59",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 54,
+      "rukuNumber": 108,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "۞ وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ ۚ وَيَعْلَمُ مَا فِى ٱلْبَرِّ وَٱلْبَحْرِ ۚ وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِى ظُلُمَـٰتِ ٱلْأَرْضِ وَلَا رَطْبٍ وَلَا يَابِسٍ إِلَّا فِى كِتَـٰبٍ مُّبِينٍ",
+      "pageNumber": 134,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101031,
+          "resourceId": 20,
+          "text": "And with Him are the keys of the unseen; none knows them except Him. And He knows what is on the land and in the sea. Not a leaf falls but that He knows it. And no grain is there within the darknesses of the earth and no moist or dry [thing] but that it is [written] in a clear record.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747561,
+          "resourceId": 109,
+          "text": "安拉那里，有幽玄的宝藏，只有他认识那些宝藏。他认识陆上和海中的一切；零落的叶子，没有一片是他不认识的。地面下重重黑暗中的谷粒，地面上的一切翠绿的，和枯槁的草木，都（被记载）在明白的天经中，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 849,
+      "verseNumber": 60,
+      "verseKey": "6:60",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 54,
+      "rukuNumber": 108,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَهُوَ ٱلَّذِى يَتَوَفَّىٰكُم بِٱلَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم بِٱلنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَىٰٓ أَجَلٌ مُّسَمًّى ۖ ثُمَّ إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+      "pageNumber": 135,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101034,
+          "resourceId": 20,
+          "text": "And it is He who takes your souls by night<sup foot_note=227590>1</sup> and knows what you have committed by day. Then He revives you therein [i.e., by day] that a specified term<sup foot_note=227591>2</sup> may be fulfilled. Then to Him will be your return; then He will inform you about what you used to do.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747562,
+          "resourceId": 109,
+          "text": "他使你们在夜间死亡，他知道你们在白昼的行为。然后，他使你们在白昼复活，以便你们活到已定的寿限。然后，你们只归于他，他要将你们的行为告诉你们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 850,
+      "verseNumber": 61,
+      "verseKey": "6:61",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 54,
+      "rukuNumber": 109,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَهُوَ ٱلْقَاهِرُ فَوْقَ عِبَادِهِۦ ۖ وَيُرْسِلُ عَلَيْكُمْ حَفَظَةً حَتَّىٰٓ إِذَا جَآءَ أَحَدَكُمُ ٱلْمَوْتُ تَوَفَّتْهُ رُسُلُنَا وَهُمْ لَا يُفَرِّطُونَ",
+      "pageNumber": 135,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101036,
+          "resourceId": 20,
+          "text": "And He is the subjugator over His servants, and He sends over you guardian-angels until, when death comes to one of you, Our messengers [i.e., angels of death] take him, and they do not fail [in their duties].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747563,
+          "resourceId": 109,
+          "text": "他是在众仆之上宰制万物的主，他派遣许多天使来保护你们。待死亡降临你们中的任何人的时候，我的众天使，将使他死亡，他们毫不疏忽。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 851,
+      "verseNumber": 62,
+      "verseKey": "6:62",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 54,
+      "rukuNumber": 109,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "ثُمَّ رُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ ۚ أَلَا لَهُ ٱلْحُكْمُ وَهُوَ أَسْرَعُ ٱلْحَـٰسِبِينَ",
+      "pageNumber": 135,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101041,
+          "resourceId": 20,
+          "text": "Then they [i.e., His servants] are returned to Allāh, their true Lord. Unquestionably, His is the judgement, and He is the swiftest of accountants.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747564,
+          "resourceId": 109,
+          "text": "然后，世人要被送归安拉——他们的主。真的，判决只归他，他是清算最神速的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 852,
+      "verseNumber": 63,
+      "verseKey": "6:63",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 54,
+      "rukuNumber": 109,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَـٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًا وَخُفْيَةً لَّئِنْ أَنجَىٰنَا مِنْ هَـٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّـٰكِرِينَ",
+      "pageNumber": 135,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101043,
+          "resourceId": 20,
+          "text": "Say, \"Who rescues you from the darknesses of the land and sea [when] you call upon Him imploring [aloud] and privately, 'If He should save us from this [crisis], we will surely be among the thankful.'\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747565,
+          "resourceId": 109,
+          "text": "你说：“你们谦逊地和秘密地祈祷说：‘如果他拯救我们脱离这些苦难，我们必定感谢他。’谁能拯救你们脱离陆地和海洋的各种苦难呢？”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 853,
+      "verseNumber": 64,
+      "verseKey": "6:64",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 54,
+      "rukuNumber": 109,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلِ ٱللَّهُ يُنَجِّيكُم مِّنْهَا وَمِن كُلِّ كَرْبٍ ثُمَّ أَنتُمْ تُشْرِكُونَ",
+      "pageNumber": 135,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101045,
+          "resourceId": 20,
+          "text": "Say, \"It is Allāh who saves you from it and from every distress; then you [still] associate others with Him.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747566,
+          "resourceId": 109,
+          "text": "你说：“安拉拯救你们脱离这些苦难，和一切忧患。然后，你们又以物配他。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 854,
+      "verseNumber": 65,
+      "verseKey": "6:65",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 54,
+      "rukuNumber": 109,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ هُوَ ٱلْقَادِرُ عَلَىٰٓ أَن يَبْعَثَ عَلَيْكُمْ عَذَابًا مِّن فَوْقِكُمْ أَوْ مِن تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعًا وَيُذِيقَ بَعْضَكُم بَأْسَ بَعْضٍ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْـَٔايَـٰتِ لَعَلَّهُمْ يَفْقَهُونَ",
+      "pageNumber": 135,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101047,
+          "resourceId": 20,
+          "text": "Say, \"He is the [one] Able to send upon you affliction from above you or from beneath your feet or to confuse you [so you become] sects<sup foot_note=227592>1</sup> and make you taste the violence of one another.\" Look how We diversify the signs that they might understand.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747567,
+          "resourceId": 109,
+          "text": "你说：“他能使刑罚从你们的头上和脚下袭击你们，或使你们各宗派相混杂，从而使你们这宗派尝试那宗派的战争。”你看，我怎样阐述许多迹象，以便他们了解。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 855,
+      "verseNumber": 66,
+      "verseKey": "6:66",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 54,
+      "rukuNumber": 109,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَكَذَّبَ بِهِۦ قَوْمُكَ وَهُوَ ٱلْحَقُّ ۚ قُل لَّسْتُ عَلَيْكُم بِوَكِيلٍ",
+      "pageNumber": 135,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101049,
+          "resourceId": 20,
+          "text": "But your people have denied it while it is the truth. Say, \"I am not over you a manager [i.e., authority].\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747568,
+          "resourceId": 109,
+          "text": "这部经是真理，而你的宗族否认它。你说：“我不是监护你们的。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 856,
+      "verseNumber": 67,
+      "verseKey": "6:67",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 54,
+      "rukuNumber": 109,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "لِّكُلِّ نَبَإٍ مُّسْتَقَرٌّ ۚ وَسَوْفَ تَعْلَمُونَ",
+      "pageNumber": 135,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101051,
+          "resourceId": 20,
+          "text": "For every news [i.e., happening] is a finality;<sup foot_note=227595>1</sup> and you are going to know.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747569,
+          "resourceId": 109,
+          "text": "每一种预言，都有它实现的时间。你们不久会知道的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 857,
+      "verseNumber": 68,
+      "verseKey": "6:68",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 54,
+      "rukuNumber": 109,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا رَأَيْتَ ٱلَّذِينَ يَخُوضُونَ فِىٓ ءَايَـٰتِنَا فَأَعْرِضْ عَنْهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦ ۚ وَإِمَّا يُنسِيَنَّكَ ٱلشَّيْطَـٰنُ فَلَا تَقْعُدْ بَعْدَ ٱلذِّكْرَىٰ مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+      "pageNumber": 135,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101053,
+          "resourceId": 20,
+          "text": "And when you see those who engage in [offensive] discourse<sup foot_note=227596>1</sup> concerning Our verses, then turn away from them until they enter into another conversation. And if Satan should cause you to forget, then do not remain after the reminder with the wrongdoing people.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747570,
+          "resourceId": 109,
+          "text": "当你看见他们谈论我的迹象的时候，你当避开他们，直到他们谈论别的事。如果恶魔使你忘记，那么，在记起之后，你不要再与不义的人同座。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 858,
+      "verseNumber": 69,
+      "verseKey": "6:69",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 54,
+      "rukuNumber": 109,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَا عَلَى ٱلَّذِينَ يَتَّقُونَ مِنْ حِسَابِهِم مِّن شَىْءٍ وَلَـٰكِن ذِكْرَىٰ لَعَلَّهُمْ يَتَّقُونَ",
+      "pageNumber": 136,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101055,
+          "resourceId": 20,
+          "text": "And those who fear Allāh are not held accountable for them [i.e., the disbelievers] at all, but [only for] a reminder - that perhaps they will fear Him.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747571,
+          "resourceId": 109,
+          "text": "敬畏的人，对于不义者的受清算，毫无关系，但须劝戒（他们），他们或许敬畏。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 859,
+      "verseNumber": 70,
+      "verseKey": "6:70",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 54,
+      "rukuNumber": 109,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَذَرِ ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ وَذَكِّرْ بِهِۦٓ أَن تُبْسَلَ نَفْسٌۢ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِىٌّ وَلَا شَفِيعٌ وَإِن تَعْدِلْ كُلَّ عَدْلٍ لَّا يُؤْخَذْ مِنْهَآ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ أُبْسِلُوا۟ بِمَا كَسَبُوا۟ ۖ لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ",
+      "pageNumber": 136,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101058,
+          "resourceId": 20,
+          "text": "And leave those who take their religion as amusement and diversion and whom the worldly life has deluded. But remind with it [i.e., the Qur’ān], lest a soul be given up to destruction for what it earned; it will have other than Allāh no protector and no intercessor. And if it should offer every compensation, it would not be taken from it [i.e., that soul]. Those are the ones who are given to destruction for what they have earned. For them will be a drink of scalding water and a painful punishment because they used to disbelieve.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747572,
+          "resourceId": 109,
+          "text": "把自己的宗教当作嬉戏和娱乐，而且为今世生活所欺骗的人，你可以任他们自便。你应当以《古兰经》劝戒世人，以免任何人因自己的罪行而遭毁灭；他除安拉外没有保护者，也没有说情者，他无论怎样赎罪，总无效果。这等人，将为自己的罪行而遭毁灭。他们将因不信道而享受沸腾的饮料，和受痛苦的刑罚。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 860,
+      "verseNumber": 71,
+      "verseKey": "6:71",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 54,
+      "rukuNumber": 110,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ أَنَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا وَنُرَدُّ عَلَىٰٓ أَعْقَابِنَا بَعْدَ إِذْ هَدَىٰنَا ٱللَّهُ كَٱلَّذِى ٱسْتَهْوَتْهُ ٱلشَّيَـٰطِينُ فِى ٱلْأَرْضِ حَيْرَانَ لَهُۥٓ أَصْحَـٰبٌ يَدْعُونَهُۥٓ إِلَى ٱلْهُدَى ٱئْتِنَا ۗ قُلْ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلْهُدَىٰ ۖ وَأُمِرْنَا لِنُسْلِمَ لِرَبِّ ٱلْعَـٰلَمِينَ",
+      "pageNumber": 136,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101059,
+          "resourceId": 20,
+          "text": "Say, \"Shall we invoke<sup foot_note=227600>1</sup> instead of Allāh that which neither benefits us nor harms us and be turned back on our heels after Allāh has guided us? [We would then be] like one whom the devils enticed [to wander] upon the earth confused, [while] he has companions inviting him to guidance, [calling], 'Come to us.'\"<sup foot_note=227602>2</sup> Say, \"Indeed, the guidance of Allāh is the [only] guidance; and we have been commanded to submit to the Lord of the worlds.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747573,
+          "resourceId": 109,
+          "text": "你说：“难道我们舍安拉而祈祷那对于我们既无福又无祸的东西吗？在安拉引导我们之后，我们背叛正道，犹如在迷惑的情状下被恶魔引诱到无人烟的地方的人一样吗？他有些朋友，叫他来遵循正道，说：‘你到我们这里来吧！’（他不听从，以致毁灭）”。你说：“安拉的引导，才是正导。我们奉命归顺众世界的主。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 861,
+      "verseNumber": 72,
+      "verseKey": "6:72",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 54,
+      "rukuNumber": 110,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَأَنْ أَقِيمُوا۟ ٱلصَّلَوٰةَ وَٱتَّقُوهُ ۚ وَهُوَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+      "pageNumber": 136,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101071,
+          "resourceId": 20,
+          "text": "And to establish prayer and fear Him.\" And it is He to whom you will be gathered.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747574,
+          "resourceId": 109,
+          "text": "又奉命说：“你们当谨守拜功，当敬畏安拉。他就是将来要集合你们的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 862,
+      "verseNumber": 73,
+      "verseKey": "6:73",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 54,
+      "rukuNumber": 110,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۖ وَيَوْمَ يَقُولُ كُن فَيَكُونُ ۚ قَوْلُهُ ٱلْحَقُّ ۚ وَلَهُ ٱلْمُلْكُ يَوْمَ يُنفَخُ فِى ٱلصُّورِ ۚ عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ",
+      "pageNumber": 136,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101081,
+          "resourceId": 20,
+          "text": "And it is He who created the heavens and earth in truth. And the day [i.e., whenever] He says, \"Be,\" and it is, His word is the truth.<sup foot_note=227603>1</sup> And His is the dominion [on] the Day the Horn is blown. [He is] Knower of the unseen<sup foot_note=227604>2</sup> and the witnessed;<sup foot_note=227605>3</sup> and He is the Wise, the Aware.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747575,
+          "resourceId": 109,
+          "text": "他就是本真理而创造天地的。在那日，他说‘有’，世界就有了。他的话就是真理。吹号角之日，权力只是他的。他知道幽明，他是至睿的，是彻知的。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 863,
+      "verseNumber": 74,
+      "verseKey": "6:74",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 110,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "۞ وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا ءَالِهَةً ۖ إِنِّىٓ أَرَىٰكَ وَقَوْمَكَ فِى ضَلَـٰلٍ مُّبِينٍ",
+      "pageNumber": 137,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101084,
+          "resourceId": 20,
+          "text": "And [mention, O Muḥammad], when Abraham said to his father Āzar, \"Do you take idols as deities? Indeed, I see you and your people to be in manifest error.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747576,
+          "resourceId": 109,
+          "text": "当时，易卜拉欣对他的父亲阿宰尔说：“你把偶像当作主宰吗？据我看来，你和你的宗族，的确在明显的迷误中。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 864,
+      "verseNumber": 75,
+      "verseKey": "6:75",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 110,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+      "pageNumber": 137,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101086,
+          "resourceId": 20,
+          "text": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747577,
+          "resourceId": 109,
+          "text": "我这样使易卜拉欣看见天地的主权以便他成为坚信的人。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 865,
+      "verseNumber": 76,
+      "verseKey": "6:76",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 110,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "فَلَمَّا جَنَّ عَلَيْهِ ٱلَّيْلُ رَءَا كَوْكَبًا ۖ قَالَ هَـٰذَا رَبِّى ۖ فَلَمَّآ أَفَلَ قَالَ لَآ أُحِبُّ ٱلْـَٔافِلِينَ",
+      "pageNumber": 137,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101088,
+          "resourceId": 20,
+          "text": "So when the night covered him [with darkness], he saw a star. He said, \"This is my lord.\"<sup foot_note=227610>1</sup> But when it set, he said, \"I like not those that set [i.e., disappear].\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747578,
+          "resourceId": 109,
+          "text": "当黑夜笼罩着他的时候，他看见一颗星宿，就说：“这是我的主。”当那颗星宿没落的时候，他说：“我不爱没落的。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 866,
+      "verseNumber": 77,
+      "verseKey": "6:77",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 110,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "فَلَمَّا رَءَا ٱلْقَمَرَ بَازِغًا قَالَ هَـٰذَا رَبِّى ۖ فَلَمَّآ أَفَلَ قَالَ لَئِن لَّمْ يَهْدِنِى رَبِّى لَأَكُونَنَّ مِنَ ٱلْقَوْمِ ٱلضَّآلِّينَ",
+      "pageNumber": 137,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101090,
+          "resourceId": 20,
+          "text": "And when he saw the moon rising, he said, \"This is my lord.\" But when it set, he said, \"Unless my Lord guides me, I will surely be among the people gone astray.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747579,
+          "resourceId": 109,
+          "text": "当看见月亮升起的时候，他说：“这是我的主。”当月亮没落的时候，他说：“如果我的主没有引导我，那么，我必定会成为迷误者。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 867,
+      "verseNumber": 78,
+      "verseKey": "6:78",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 110,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "فَلَمَّا رَءَا ٱلشَّمْسَ بَازِغَةً قَالَ هَـٰذَا رَبِّى هَـٰذَآ أَكْبَرُ ۖ فَلَمَّآ أَفَلَتْ قَالَ يَـٰقَوْمِ إِنِّى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ",
+      "pageNumber": 137,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101092,
+          "resourceId": 20,
+          "text": "And when he saw the sun rising, he said, \"This is my lord; this is greater.\" But when it set, he said, \"O my people, indeed I am free from what you associate with Allāh.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747580,
+          "resourceId": 109,
+          "text": "当看见太阳升起的时候，他说：“这是我的主；这是更大的。”当太阳没落的时候，他说：“我的宗族啊！我对于你们所用来配主的事物，是无关系的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 868,
+      "verseNumber": 79,
+      "verseKey": "6:79",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 110,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+      "pageNumber": 137,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101094,
+          "resourceId": 20,
+          "text": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747581,
+          "resourceId": 109,
+          "text": "我确已崇正地专向天地的创造者，我不是以物配主的人。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 869,
+      "verseNumber": 80,
+      "verseKey": "6:80",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 110,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَحَآجَّهُۥ قَوْمُهُۥ ۚ قَالَ أَتُحَـٰٓجُّوٓنِّى فِى ٱللَّهِ وَقَدْ هَدَىٰنِ ۚ وَلَآ أَخَافُ مَا تُشْرِكُونَ بِهِۦٓ إِلَّآ أَن يَشَآءَ رَبِّى شَيْـًٔا ۗ وَسِعَ رَبِّى كُلَّ شَىْءٍ عِلْمًا ۗ أَفَلَا تَتَذَكَّرُونَ",
+      "pageNumber": 137,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101097,
+          "resourceId": 20,
+          "text": "And his people argued with him. He said, \"Do you argue with me concerning Allāh while He has guided me? And I fear not what you associate with Him [and will not be harmed] unless my Lord should will something. My Lord encompasses all things in knowledge; then will you not remember?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747582,
+          "resourceId": 109,
+          "text": "他的宗族和他争论，他说：“安拉确已引导我，而你们和我争论安拉吗？我对于你们用来配主的（偶像），毫无畏惧，除非我的主要我畏惧。我的主的知觉能包容万物。难道你们不觉悟吗！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 870,
+      "verseNumber": 81,
+      "verseKey": "6:81",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 110,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَكَيْفَ أَخَافُ مَآ أَشْرَكْتُمْ وَلَا تَخَافُونَ أَنَّكُمْ أَشْرَكْتُم بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ عَلَيْكُمْ سُلْطَـٰنًا ۚ فَأَىُّ ٱلْفَرِيقَيْنِ أَحَقُّ بِٱلْأَمْنِ ۖ إِن كُنتُمْ تَعْلَمُونَ",
+      "pageNumber": 137,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101098,
+          "resourceId": 20,
+          "text": "And how should I fear what you associate while you do not fear that you have associated with Allāh that for which He has not sent down to you any authority? So which of the two parties has more right to security, if you should know?\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747583,
+          "resourceId": 109,
+          "text": "你们把安拉未证实的（偶像）匹配给安拉，还无所畏惧，我怎么会畏惧你们所用来配主的（偶像）呢！如果你们有知识，那么，我们两伙人，究竟是哪一伙更应享安宁呢？”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 871,
+      "verseNumber": 82,
+      "verseKey": "6:82",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 110,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "ٱلَّذِينَ ءَامَنُوا۟ وَلَمْ يَلْبِسُوٓا۟ إِيمَـٰنَهُم بِظُلْمٍ أُو۟لَـٰٓئِكَ لَهُمُ ٱلْأَمْنُ وَهُم مُّهْتَدُونَ",
+      "pageNumber": 138,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101110,
+          "resourceId": 20,
+          "text": "They who believe and do not mix their belief with injustice<sup foot_note=227611>1</sup> - those will have security, and they are [rightly] guided.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747584,
+          "resourceId": 109,
+          "text": "确信安拉，而未以不义混淆其信德的人，他们享有安宁，而且是遵循正道的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 872,
+      "verseNumber": 83,
+      "verseKey": "6:83",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 111,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَتِلْكَ حُجَّتُنَآ ءَاتَيْنَـٰهَآ إِبْرَٰهِيمَ عَلَىٰ قَوْمِهِۦ ۚ نَرْفَعُ دَرَجَـٰتٍ مَّن نَّشَآءُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ",
+      "pageNumber": 138,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101122,
+          "resourceId": 20,
+          "text": "And that was Our [conclusive] argument which We gave Abraham against his people. We raise by degrees whom We will. Indeed, your Lord is Wise and Knowing.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747585,
+          "resourceId": 109,
+          "text": "这是我的证据，我把它赏赐易卜拉欣，以便他驳斥他的宗族。我将我所意欲的人提升若干级。你的主，确是至睿的，确是全知的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 873,
+      "verseNumber": 84,
+      "verseKey": "6:84",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 111,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ ۚ كُلًّا هَدَيْنَا ۚ وَنُوحًا هَدَيْنَا مِن قَبْلُ ۖ وَمِن ذُرِّيَّتِهِۦ دَاوُۥدَ وَسُلَيْمَـٰنَ وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَـٰرُونَ ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "pageNumber": 138,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101134,
+          "resourceId": 20,
+          "text": "And We gave to him [i.e., Abraham] Isaac and Jacob - all [of them] We guided. And Noah, We guided before; and among his descendants, David and Solomon and Job and Joseph and Moses and Aaron. Thus do We reward the doers of good.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747586,
+          "resourceId": 109,
+          "text": "我赏赐他易司哈格和叶尔孤白，每个人我都加以引导。以前，我曾引导努哈，还引导过他的后裔达五德、素莱曼、安优卜、优素福、穆萨、哈伦，我这样报酬行善的人。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 874,
+      "verseNumber": 85,
+      "verseKey": "6:85",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 111,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّ مِّنَ ٱلصَّـٰلِحِينَ",
+      "pageNumber": 138,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101146,
+          "resourceId": 20,
+          "text": "And Zechariah and John and Jesus and Elias - and all were of the righteous.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747587,
+          "resourceId": 109,
+          "text": "（我曾引导）宰凯里雅、叶哈雅、尔撒和易勒雅斯，他们都是善人。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 875,
+      "verseNumber": 86,
+      "verseKey": "6:86",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 111,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِسْمَـٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًا ۚ وَكُلًّا فَضَّلْنَا عَلَى ٱلْعَـٰلَمِينَ",
+      "pageNumber": 138,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101151,
+          "resourceId": 20,
+          "text": "And Ishmael and Elisha and Jonah and Lot - and all [of them] We preferred over the worlds.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747588,
+          "resourceId": 109,
+          "text": "（我曾引导）易司马仪、艾勒·叶赛、优努斯和鲁特，我曾使他们超越世人。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 876,
+      "verseNumber": 87,
+      "verseKey": "6:87",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 111,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَمِنْ ءَابَآئِهِمْ وَذُرِّيَّـٰتِهِمْ وَإِخْوَٰنِهِمْ ۖ وَٱجْتَبَيْنَـٰهُمْ وَهَدَيْنَـٰهُمْ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "pageNumber": 138,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101153,
+          "resourceId": 20,
+          "text": "And [some] among their fathers and their descendants and their brothers - and We chose them and We guided them to a straight path.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747589,
+          "resourceId": 109,
+          "text": "（我曾引导）他们的一部分祖先、后裔和弟兄，曾拣选他们，并指示他们正路。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 877,
+      "verseNumber": 88,
+      "verseKey": "6:88",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 111,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "ذَٰلِكَ هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۚ وَلَوْ أَشْرَكُوا۟ لَحَبِطَ عَنْهُم مَّا كَانُوا۟ يَعْمَلُونَ",
+      "pageNumber": 138,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101155,
+          "resourceId": 20,
+          "text": "That is the guidance of Allāh by which He guides whomever He wills of His servants. But if they had associated others with Allāh, then worthless for them would be whatever they were doing.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747590,
+          "resourceId": 109,
+          "text": "这是安拉的正道，他以它引导他所欲引导的仆人。假若他们以物配主，那么，他们的善功必定变成无效的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 878,
+      "verseNumber": 89,
+      "verseKey": "6:89",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 111,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ۚ فَإِن يَكْفُرْ بِهَا هَـٰٓؤُلَآءِ فَقَدْ وَكَّلْنَا بِهَا قَوْمًا لَّيْسُوا۟ بِهَا بِكَـٰفِرِينَ",
+      "pageNumber": 138,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101157,
+          "resourceId": 20,
+          "text": "Those are the ones to whom We gave the Scripture and authority and prophethood. But if they [i.e., the disbelievers] deny it, then We have entrusted it to a people who are not therein disbelievers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747591,
+          "resourceId": 109,
+          "text": "这等人，我曾把天经、智慧和预言赏赐他们。如果这些人不信这些事物，那么，我就把这些事物委托一个对于它们不会不信的民众。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 879,
+      "verseNumber": 90,
+      "verseKey": "6:90",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 111,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ هَدَى ٱللَّهُ ۖ فَبِهُدَىٰهُمُ ٱقْتَدِهْ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَـٰلَمِينَ",
+      "pageNumber": 138,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101160,
+          "resourceId": 20,
+          "text": "Those are the ones whom Allāh has guided, so from their guidance take an example. Say, \"I ask of you for it [i.e., this message] no payment. It is not but a reminder for the worlds.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747592,
+          "resourceId": 109,
+          "text": "这等人，是安拉引导的人，你应当效法他们而走正道。你说：“我不为这部经典而向你们索取报酬，这部经典是对众世界的教训。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 880,
+      "verseNumber": 91,
+      "verseKey": "6:91",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 112,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍ مِّن شَىْءٍ ۗ قُلْ مَنْ أَنزَلَ ٱلْكِتَـٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًا وَهُدًى لِّلنَّاسِ ۖ تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًا ۖ وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ ۖ قُلِ ٱللَّهُ ۖ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ",
+      "pageNumber": 139,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101161,
+          "resourceId": 20,
+          "text": "And they did not appraise Allāh with true appraisal<sup foot_note=227616>1</sup> when they said, \"Allāh did not reveal to a human being anything.\" Say, \"Who revealed the Scripture that Moses brought as light and guidance to the people? You [Jews] make it into pages, disclosing [some of] it and concealing much. And you<sup foot_note=227617>2</sup> were taught that which you knew not - neither you nor your fathers.\" Say, \"Allāh [revealed it].\" Then leave them in their [empty] discourse, amusing themselves.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747593,
+          "resourceId": 109,
+          "text": "他们对于安拉没有真正的认识，当时，他们说：“安拉没有把任何物降示给任何人。”你说：“谁降示了穆萨所传授的、可以做世人的光明和向导的天经呢？你们把那部天经抄录在一些散纸上，你们发表一部分，隐藏大部分。你们曾受过自己和祖先所认识的教训。”你说：“是安拉”然后，任随他们在妄言中游戏。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 881,
+      "verseNumber": 92,
+      "verseKey": "6:92",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 112,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَهَـٰذَا كِتَـٰبٌ أَنزَلْنَـٰهُ مُبَارَكٌ مُّصَدِّقُ ٱلَّذِى بَيْنَ يَدَيْهِ وَلِتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا ۚ وَٱلَّذِينَ يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ يُؤْمِنُونَ بِهِۦ ۖ وَهُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+      "pageNumber": 139,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101173,
+          "resourceId": 20,
+          "text": "And this is a Book which We have sent down, blessed and confirming what was before it, that you may warn the Mother of Cities [i.e., Makkah] and those around it.<sup foot_note=227620>1</sup> Those who believe in the Hereafter believe in it, and they are maintaining their prayers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747594,
+          "resourceId": 109,
+          "text": "这是我所降示的吉祥的经典，足以证明以前的天经，以便你用它去警告首邑（麦加）及其四周的居民；确信后世的人，都确信它，而且谨守拜功。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 882,
+      "verseNumber": 93,
+      "verseKey": "6:93",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 112,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ إِلَيْهِ شَىْءٌ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ ۗ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّـٰلِمُونَ فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَـٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ۖ ٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ ءَايَـٰتِهِۦ تَسْتَكْبِرُونَ",
+      "pageNumber": 139,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101182,
+          "resourceId": 20,
+          "text": "And who is more unjust than one who invents a lie about Allāh or says, \"It has been inspired to me,\" while nothing has been inspired to him, and one who says, \"I will reveal [something] like what Allāh revealed.\" And if you could but see when the wrongdoers are in the overwhelming pangs of death while the angels extend their hands,<sup foot_note=227623>1</sup> [saying], \"Discharge your souls! Today you will be awarded the punishment of [extreme] humiliation for what you used to say against Allāh other than the truth and [that] you were, toward His verses, being arrogant.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747595,
+          "resourceId": 109,
+          "text": "假借安拉的名义而造谣的，自称奉到启示，其实，没有奉到任何启示的人，或妄言要像安拉那样降示天经的人，这等人，谁比他们还不义呢？不义的人正在临死的痛苦中，众天使伸着手说：“你们拿出你们的灵魂吧！今天你们要受辱刑的报酬，因为你们假借安拉的名义而造谣，并藐视他的迹象。”那时，假若你看见他们的情状……",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 883,
+      "verseNumber": 94,
+      "verseKey": "6:94",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 55,
+      "rukuNumber": 112,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَقَدْ جِئْتُمُونَا فُرَٰدَىٰ كَمَا خَلَقْنَـٰكُمْ أَوَّلَ مَرَّةٍ وَتَرَكْتُم مَّا خَوَّلْنَـٰكُمْ وَرَآءَ ظُهُورِكُمْ ۖ وَمَا نَرَىٰ مَعَكُمْ شُفَعَآءَكُمُ ٱلَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَـٰٓؤُا۟ ۚ لَقَد تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنكُم مَّا كُنتُمْ تَزْعُمُونَ",
+      "pageNumber": 139,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101193,
+          "resourceId": 20,
+          "text": "[It will be said to them], \"And you have certainly come to Us alone [i.e., individually] as We created you the first time, and you have left whatever We bestowed upon you behind you. And We do not see with you your 'intercessors' which you claimed that they were among you associates [of Allāh]. It has [all] been severed between you,<sup foot_note=227626>1</sup> and lost from you is what you used to claim.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747596,
+          "resourceId": 109,
+          "text": "你们确已孤孤单单地来见我，犹如我初次创造你们的时候一样。你们把我所赏赐你们的，抛弃在背后，你们妄称为安拉的伙伴的，我不见他们同你们一道来替你们说情；你们的关系，确已断绝；你们所妄言的事，确已回避你们了。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 884,
+      "verseNumber": 95,
+      "verseKey": "6:95",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 56,
+      "rukuNumber": 113,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "۞ إِنَّ ٱللَّهَ فَالِقُ ٱلْحَبِّ وَٱلنَّوَىٰ ۖ يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَمُخْرِجُ ٱلْمَيِّتِ مِنَ ٱلْحَىِّ ۚ ذَٰلِكُمُ ٱللَّهُ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+      "pageNumber": 140,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101205,
+          "resourceId": 20,
+          "text": "Indeed, Allāh is the cleaver of grain and date seeds.<sup foot_note=227627>1</sup> He brings the living out of the dead and brings the dead out of the living. That is Allāh; so how are you deluded?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747597,
+          "resourceId": 109,
+          "text": "安拉确是使谷粒和果核绽开的，他从无生物中造出生物，从生物中造出无生物。这是安拉，你们怎么能悖谬呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 885,
+      "verseNumber": 96,
+      "verseKey": "6:96",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 56,
+      "rukuNumber": 113,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "pageNumber": 140,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101210,
+          "resourceId": 20,
+          "text": "[He is] the cleaver of daybreak and has made the night for rest and the sun and moon for calculation.<sup foot_note=227629>1</sup> That is the determination of the Exalted in Might, the Knowing.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747598,
+          "resourceId": 109,
+          "text": "他使天破晓，他以夜间供人安息，以日月供人计时。这是万能者全知者的布置。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 886,
+      "verseNumber": 97,
+      "verseKey": "6:97",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 56,
+      "rukuNumber": 113,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَهُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلنُّجُومَ لِتَهْتَدُوا۟ بِهَا فِى ظُلُمَـٰتِ ٱلْبَرِّ وَٱلْبَحْرِ ۗ قَدْ فَصَّلْنَا ٱلْـَٔايَـٰتِ لِقَوْمٍ يَعْلَمُونَ",
+      "pageNumber": 140,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101212,
+          "resourceId": 20,
+          "text": "And it is He who placed for you the stars that you may be guided by them through the darknesses of the land and sea. We have detailed the signs for a people who know.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747599,
+          "resourceId": 109,
+          "text": "他为你们创造诸星，以便你们在陆地和海洋的重重黑暗里借诸星而遵循正道。我为有知识的民众确已解释了一切迹象。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 887,
+      "verseNumber": 98,
+      "verseKey": "6:98",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 56,
+      "rukuNumber": 113,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَهُوَ ٱلَّذِىٓ أَنشَأَكُم مِّن نَّفْسٍ وَٰحِدَةٍ فَمُسْتَقَرٌّ وَمُسْتَوْدَعٌ ۗ قَدْ فَصَّلْنَا ٱلْـَٔايَـٰتِ لِقَوْمٍ يَفْقَهُونَ",
+      "pageNumber": 140,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101214,
+          "resourceId": 20,
+          "text": "And it is He who produced you from one soul and [gave you] a place of dwelling and of storage.<sup foot_note=227633>1</sup> We have detailed the signs for a people who understand.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747600,
+          "resourceId": 109,
+          "text": "他从一个人创造你们，然后，你们有住宿的地方，有寄存的地方，我已为能了解的民众解释了一切迹象。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 888,
+      "verseNumber": 99,
+      "verseKey": "6:99",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 56,
+      "rukuNumber": 113,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَهُوَ ٱلَّذِىٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِۦ نَبَاتَ كُلِّ شَىْءٍ فَأَخْرَجْنَا مِنْهُ خَضِرًا نُّخْرِجُ مِنْهُ حَبًّا مُّتَرَاكِبًا وَمِنَ ٱلنَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّـٰتٍ مِّنْ أَعْنَابٍ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَـٰبِهٍ ۗ ٱنظُرُوٓا۟ إِلَىٰ ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَيَنْعِهِۦٓ ۚ إِنَّ فِى ذَٰلِكُمْ لَـَٔايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+      "pageNumber": 140,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 101216,
+          "resourceId": 20,
+          "text": "And it is He who sends down rain from the sky, and We produce thereby the growth of all things. We produce from it greenery from which We produce grains arranged in layers. And from the palm trees - of its emerging fruit are clusters hanging low. And [We produce] gardens of grapevines and olives and pomegranates, similar yet varied. Look at [each of] its fruit when it yields and [at] its ripening. Indeed in that are signs for a people who believe.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747601,
+          "resourceId": 109,
+          "text": "他从天上降下雨水，用雨水使一切植物发芽，长出翠绿的枝叶，结出累累的果实，从海枣树的花被中结出一串串枣球；用雨水浇灌许多葡萄园，浇灌相似的和不相似的橄榄和石榴。当果树结果的时候，你们看看那些果实和成熟的情形吧。对于信道的民众，此中确有许多迹象。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 889,
+      "verseNumber": 100,
+      "verseKey": "6:100",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 56,
+      "rukuNumber": 113,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَجَعَلُوا۟ لِلَّهِ شُرَكَآءَ ٱلْجِنَّ وَخَلَقَهُمْ ۖ وَخَرَقُوا۟ لَهُۥ بَنِينَ وَبَنَـٰتٍۭ بِغَيْرِ عِلْمٍ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يَصِفُونَ",
+      "pageNumber": 140,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100847,
+          "resourceId": 20,
+          "text": "But they have attributed to Allāh partners - the jinn, while He has created them - and have fabricated for Him sons and daughters without knowledge. Exalted is He and high above what they describe.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747602,
+          "resourceId": 109,
+          "text": "安拉创造精灵，而他们以精灵为安拉的伙伴，并且无知地替他捏造许多儿女。赞颂安拉，超绝万物，他是超乎他们的叙述的！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 890,
+      "verseNumber": 101,
+      "verseKey": "6:101",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 56,
+      "rukuNumber": 114,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "بَدِيعُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ أَنَّىٰ يَكُونُ لَهُۥ وَلَدٌ وَلَمْ تَكُن لَّهُۥ صَـٰحِبَةٌ ۖ وَخَلَقَ كُلَّ شَىْءٍ ۖ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "pageNumber": 140,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100848,
+          "resourceId": 20,
+          "text": "[He is] Originator of the heavens and the earth. How could He have a son when He does not have a companion [i.e., wife] and He created all things? And He is, of all things, Knowing.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747603,
+          "resourceId": 109,
+          "text": "他是天地的创造者，他没有配偶，怎么会有儿女呢？他曾创造万物，他是全知万物的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 891,
+      "verseNumber": 102,
+      "verseKey": "6:102",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 56,
+      "rukuNumber": 114,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ خَـٰلِقُ كُلِّ شَىْءٍ فَٱعْبُدُوهُ ۚ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ وَكِيلٌ",
+      "pageNumber": 141,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100849,
+          "resourceId": 20,
+          "text": "That is Allāh, your Lord; there is no deity except Him, the Creator of all things, so worship Him. And He is Disposer of all things.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747604,
+          "resourceId": 109,
+          "text": "这是安拉，你们的主，除他外，绝无应受崇拜的。他是万物的创造者，故你们当崇拜他。他是万物的监护者。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 892,
+      "verseNumber": 103,
+      "verseKey": "6:103",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 56,
+      "rukuNumber": 114,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "لَّا تُدْرِكُهُ ٱلْأَبْصَـٰرُ وَهُوَ يُدْرِكُ ٱلْأَبْصَـٰرَ ۖ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ",
+      "pageNumber": 141,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100850,
+          "resourceId": 20,
+          "text": "Vision perceives Him not,<sup foot_note=227638>1</sup> but He perceives [all] vision; and He is the Subtle,<sup foot_note=227639>2</sup> the Aware.<sup foot_note=227640>3</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747605,
+          "resourceId": 109,
+          "text": "众目不能见他，他却能见众目，他是精明的，是彻知的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 893,
+      "verseNumber": 104,
+      "verseKey": "6:104",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 56,
+      "rukuNumber": 114,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قَدْ جَآءَكُم بَصَآئِرُ مِن رَّبِّكُمْ ۖ فَمَنْ أَبْصَرَ فَلِنَفْسِهِۦ ۖ وَمَنْ عَمِىَ فَعَلَيْهَا ۚ وَمَآ أَنَا۠ عَلَيْكُم بِحَفِيظٍ",
+      "pageNumber": 141,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100851,
+          "resourceId": 20,
+          "text": "There has come to you enlightenment from your Lord. So whoever will see does so for [the benefit of] his soul, and whoever is blind [does harm] against it. And [say], \"I am not a guardian over you.\"<sup foot_note=227641>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747606,
+          "resourceId": 109,
+          "text": "从你们的主发出的许多明证，已降临你们；谁重视那些明证，谁自受其益；谁忽视那些明证，谁自受其害；我不是监护你们的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 894,
+      "verseNumber": 105,
+      "verseKey": "6:105",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 56,
+      "rukuNumber": 114,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَكَذَٰلِكَ نُصَرِّفُ ٱلْـَٔايَـٰتِ وَلِيَقُولُوا۟ دَرَسْتَ وَلِنُبَيِّنَهُۥ لِقَوْمٍ يَعْلَمُونَ",
+      "pageNumber": 141,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100852,
+          "resourceId": 20,
+          "text": "And thus do We diversify the verses so they [i.e., the disbelievers] will say, \"You have studied,\"<sup foot_note=227644>1</sup> and so We may make it [i.e., the Qur’ān] clear for a people who know.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747607,
+          "resourceId": 109,
+          "text": "我这样阐述一切迹象，以便他们说你曾研究过经典，以便我为有知识的民众阐明真理。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 895,
+      "verseNumber": 106,
+      "verseKey": "6:106",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 56,
+      "rukuNumber": 114,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "ٱتَّبِعْ مَآ أُوحِىَ إِلَيْكَ مِن رَّبِّكَ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ وَأَعْرِضْ عَنِ ٱلْمُشْرِكِينَ",
+      "pageNumber": 141,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100853,
+          "resourceId": 20,
+          "text": "Follow, [O Muḥammad], what has been revealed to you from your Lord - there is no deity except Him - and turn away from those who associate others with Allāh.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747608,
+          "resourceId": 109,
+          "text": "你当遵守你的主所启示你的经典；除他外，绝无应受崇拜的；你当避开以物配主的人。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 896,
+      "verseNumber": 107,
+      "verseKey": "6:107",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 56,
+      "rukuNumber": 114,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَوْ شَآءَ ٱللَّهُ مَآ أَشْرَكُوا۟ ۗ وَمَا جَعَلْنَـٰكَ عَلَيْهِمْ حَفِيظًا ۖ وَمَآ أَنتَ عَلَيْهِم بِوَكِيلٍ",
+      "pageNumber": 141,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100854,
+          "resourceId": 20,
+          "text": "But if Allāh had willed, they would not have associated. And We have not appointed you over them as a guardian, nor are you a manager over them.<sup foot_note=227645>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747609,
+          "resourceId": 109,
+          "text": "假若安拉意欲，他们必不以物配主。我没有以你为他们的保护者，你也绝不是他们的监护者。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 897,
+      "verseNumber": 108,
+      "verseKey": "6:108",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 56,
+      "rukuNumber": 114,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَا تَسُبُّوا۟ ٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ فَيَسُبُّوا۟ ٱللَّهَ عَدْوًۢا بِغَيْرِ عِلْمٍ ۗ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "pageNumber": 141,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100855,
+          "resourceId": 20,
+          "text": "And do not insult those they invoke other than Allāh, lest they insult Allāh in enmity without knowledge. Thus We have made pleasing to every community their deeds. Then to their Lord is their return, and He will inform them about what they used to do.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747610,
+          "resourceId": 109,
+          "text": "你们不要辱骂他们舍安拉而祈祷的（偶像），以免他们因过分和无知而辱骂安拉。我这样以每个民族的行为迷惑他们，然后，他们只归于他们的主，而他要把他们生前的行为告诉他们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 898,
+      "verseNumber": 109,
+      "verseKey": "6:109",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 56,
+      "rukuNumber": 114,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ لَئِن جَآءَتْهُمْ ءَايَةٌ لَّيُؤْمِنُنَّ بِهَا ۚ قُلْ إِنَّمَا ٱلْـَٔايَـٰتُ عِندَ ٱللَّهِ ۖ وَمَا يُشْعِرُكُمْ أَنَّهَآ إِذَا جَآءَتْ لَا يُؤْمِنُونَ",
+      "pageNumber": 141,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100856,
+          "resourceId": 20,
+          "text": "And they swear by Allāh their strongest oaths that if a sign came to them, they would surely believe in it. Say, \"The signs are only with [i.e., from] Allāh.\" And what will make you perceive that even if it [i.e., a sign] came, they would not believe.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747611,
+          "resourceId": 109,
+          "text": "他们指安拉而发出最严重的盟誓，如果有一种迹象降临他们，那么，他们必定确信它。你说：“一切迹象，只在安拉那里。”你们怎么知道呢？当迹象降临的时候，他们或许不信它。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 899,
+      "verseNumber": 110,
+      "verseKey": "6:110",
+      "hizbNumber": 14,
+      "rubElHizbNumber": 56,
+      "rukuNumber": 114,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَنُقَلِّبُ أَفْـِٔدَتَهُمْ وَأَبْصَـٰرَهُمْ كَمَا لَمْ يُؤْمِنُوا۟ بِهِۦٓ أَوَّلَ مَرَّةٍ وَنَذَرُهُمْ فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ",
+      "pageNumber": 141,
+      "juzNumber": 7,
+      "translations": [
+        {
+          "id": 100859,
+          "resourceId": 20,
+          "text": "And We will turn away their hearts and their eyes just as they refused to believe in it [i.e., the revelation] the first time. And We will leave them in their transgression, wandering blindly.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747612,
+          "resourceId": 109,
+          "text": "我要翻转他们的心和眼，使他们和初次未信一样，我将任随他们彷徨在过分之中。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 900,
+      "verseNumber": 111,
+      "verseKey": "6:111",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 57,
+      "rukuNumber": 115,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "۞ وَلَوْ أَنَّنَا نَزَّلْنَآ إِلَيْهِمُ ٱلْمَلَـٰٓئِكَةَ وَكَلَّمَهُمُ ٱلْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَىْءٍ قُبُلًا مَّا كَانُوا۟ لِيُؤْمِنُوٓا۟ إِلَّآ أَن يَشَآءَ ٱللَّهُ وَلَـٰكِنَّ أَكْثَرَهُمْ يَجْهَلُونَ",
+      "pageNumber": 142,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100861,
+          "resourceId": 20,
+          "text": "And even if We had sent down to them the angels [with the message] and the dead spoke to them [of it] and We gathered together every [created] thing in front of them, they would not believe unless Allāh should will. But most of them, [of that], are ignorant.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747613,
+          "resourceId": 109,
+          "text": "即使我命众天使降临他们，即使死人能对他们说话，即使我把万物集合在他们的面前，除非安拉意欲，否则，他们也不会信道；但他们大半是无知的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 901,
+      "verseNumber": 112,
+      "verseKey": "6:112",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 57,
+      "rukuNumber": 115,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّا شَيَـٰطِينَ ٱلْإِنسِ وَٱلْجِنِّ يُوحِى بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ ٱلْقَوْلِ غُرُورًا ۚ وَلَوْ شَآءَ رَبُّكَ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+      "pageNumber": 142,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100863,
+          "resourceId": 20,
+          "text": "And thus We have made for every prophet an enemy - devils from mankind and jinn, inspiring to one another decorative speech in delusion. But if your Lord had willed, they would not have done it, so leave them and that which they invent.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747614,
+          "resourceId": 109,
+          "text": "我这样以人类和精灵中的恶魔为每个先知的仇敌，他们为了欺骗而以花言巧语互相讽示——假若你的主意欲，那么，他们不能做这件事，故你应当任他们伪造谎言——",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 902,
+      "verseNumber": 113,
+      "verseKey": "6:113",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 57,
+      "rukuNumber": 115,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَلِتَصْغَىٰٓ إِلَيْهِ أَفْـِٔدَةُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ وَلِيَرْضَوْهُ وَلِيَقْتَرِفُوا۟ مَا هُم مُّقْتَرِفُونَ",
+      "pageNumber": 142,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100865,
+          "resourceId": 20,
+          "text": "And [it is] so the hearts of those who disbelieve in the Hereafter will incline toward it [i.e., deceptive speech] and that they will be satisfied with it and that they will commit that which they are committing.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747615,
+          "resourceId": 109,
+          "text": "让不信后世的人的心，倾向他们的花言巧语，而且喜悦它，以使他们干他们所犯的罪恶。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 903,
+      "verseNumber": 114,
+      "verseKey": "6:114",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 57,
+      "rukuNumber": 115,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "أَفَغَيْرَ ٱللَّهِ أَبْتَغِى حَكَمًا وَهُوَ ٱلَّذِىٓ أَنزَلَ إِلَيْكُمُ ٱلْكِتَـٰبَ مُفَصَّلًا ۚ وَٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَعْلَمُونَ أَنَّهُۥ مُنَزَّلٌ مِّن رَّبِّكَ بِٱلْحَقِّ ۖ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+      "pageNumber": 142,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100869,
+          "resourceId": 20,
+          "text": "[Say], \"Then is it other than Allāh I should seek as judge while it is He who has revealed to you the Book [i.e., the Qur’ān] explained in detail?\" And those to whom We [previously] gave the Scripture know that it is sent down from your Lord in truth, so never be among the doubters.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747616,
+          "resourceId": 109,
+          "text": "（你说）：“安拉已降示你们详明的天经，难道我还要舍安拉而别求判决者吗？”蒙我赏赐经典的人，他们知道这是你的主降示的，包含真理的经典，故你绝不要犹豫。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 904,
+      "verseNumber": 115,
+      "verseKey": "6:115",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 57,
+      "rukuNumber": 115,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَّا مُبَدِّلَ لِكَلِمَـٰتِهِۦ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "pageNumber": 142,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100871,
+          "resourceId": 20,
+          "text": "And the word of your Lord has been fulfilled in truth and in justice. None can alter His words, and He is the Hearing, the Knowing.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747617,
+          "resourceId": 109,
+          "text": "你的主的言辞，诚实极了，公平极了。绝没有人能变更他的言辞。他确是全聪的，确是全知的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 905,
+      "verseNumber": 116,
+      "verseKey": "6:116",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 57,
+      "rukuNumber": 115,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِن تُطِعْ أَكْثَرَ مَن فِى ٱلْأَرْضِ يُضِلُّوكَ عَن سَبِيلِ ٱللَّهِ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ",
+      "pageNumber": 142,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100872,
+          "resourceId": 20,
+          "text": "And if you obey most of those upon the earth, they will mislead you from the way of Allāh. They follow not except assumption, and they are not but misjudging.<sup foot_note=227646>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747618,
+          "resourceId": 109,
+          "text": "如果你顺从大地上的大多数人，那么，他们会使你叛离主道。他们只凭猜测，他们尽说谎话。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 906,
+      "verseNumber": 117,
+      "verseKey": "6:117",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 57,
+      "rukuNumber": 115,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِۦ ۖ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+      "pageNumber": 142,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100873,
+          "resourceId": 20,
+          "text": "Indeed, your Lord is most knowing of who strays from His way, and He is most knowing of the [rightly] guided.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747619,
+          "resourceId": 109,
+          "text": "你的主的确知道谁是叛离他的正道的，他的确知道谁是遵循他的正道的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 907,
+      "verseNumber": 118,
+      "verseKey": "6:118",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 57,
+      "rukuNumber": 115,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "فَكُلُوا۟ مِمَّا ذُكِرَ ٱسْمُ ٱللَّهِ عَلَيْهِ إِن كُنتُم بِـَٔايَـٰتِهِۦ مُؤْمِنِينَ",
+      "pageNumber": 142,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100874,
+          "resourceId": 20,
+          "text": "So eat of that [meat] upon which the name of Allāh has been mentioned,<sup foot_note=227649>1</sup> if you are believers in His verses [i.e., revealed law].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747620,
+          "resourceId": 109,
+          "text": "如果你们确信安拉的迹象，那么，你们应当吃那诵安拉之名而宰的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 908,
+      "verseNumber": 119,
+      "verseKey": "6:119",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 57,
+      "rukuNumber": 115,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَا لَكُمْ أَلَّا تَأْكُلُوا۟ مِمَّا ذُكِرَ ٱسْمُ ٱللَّهِ عَلَيْهِ وَقَدْ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيْكُمْ إِلَّا مَا ٱضْطُرِرْتُمْ إِلَيْهِ ۗ وَإِنَّ كَثِيرًا لَّيُضِلُّونَ بِأَهْوَآئِهِم بِغَيْرِ عِلْمٍ ۗ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِٱلْمُعْتَدِينَ",
+      "pageNumber": 143,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100875,
+          "resourceId": 20,
+          "text": "And why should you not eat of that upon which the name of Allāh has been mentioned while He has explained in detail to you what He has forbidden you, excepting that to which you are compelled.<sup foot_note=227650>1</sup> And indeed do many lead [others] astray through their [own] inclinations without knowledge. Indeed, your Lord - He is most knowing of the transgressors.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747621,
+          "resourceId": 109,
+          "text": "除为势所迫外，你们所当戒除的，安拉已为你们阐明了，你们怎么不吃那诵安拉之名而宰的呢？有许多人，必因自己的私欲，而无知地使别人迷误。你的主确是知道过分者的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 909,
+      "verseNumber": 120,
+      "verseKey": "6:120",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 57,
+      "rukuNumber": 115,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَذَرُوا۟ ظَـٰهِرَ ٱلْإِثْمِ وَبَاطِنَهُۥٓ ۚ إِنَّ ٱلَّذِينَ يَكْسِبُونَ ٱلْإِثْمَ سَيُجْزَوْنَ بِمَا كَانُوا۟ يَقْتَرِفُونَ",
+      "pageNumber": 143,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100878,
+          "resourceId": 20,
+          "text": "And leave [i.e., desist from] what is apparent of sin and what is concealed thereof. Indeed, those who earn [blame for] sin will be recompensed for that which they used to commit.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747622,
+          "resourceId": 109,
+          "text": "你们应当抛弃明显的和隐微的罪恶。作恶的人，将因他们的犯罪而受报应。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 910,
+      "verseNumber": 121,
+      "verseKey": "6:121",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 57,
+      "rukuNumber": 115,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَا تَأْكُلُوا۟ مِمَّا لَمْ يُذْكَرِ ٱسْمُ ٱللَّهِ عَلَيْهِ وَإِنَّهُۥ لَفِسْقٌ ۗ وَإِنَّ ٱلشَّيَـٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوْلِيَآئِهِمْ لِيُجَـٰدِلُوكُمْ ۖ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ",
+      "pageNumber": 143,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100879,
+          "resourceId": 20,
+          "text": "And do not eat of that upon which the name of Allāh has not been mentioned, for indeed, it is grave disobedience. And indeed do the devils inspire their allies [among men] to dispute with you. And if you were to obey them, indeed, you would be associators [of others with Him].<sup foot_note=227651>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747623,
+          "resourceId": 109,
+          "text": "你们不要吃那未诵安拉之名而宰的，那确是犯罪。恶魔必定讽示他们的朋友，以便他们和你们争论；如果你们顺从他们，那么，你们必是以物配主的人",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 911,
+      "verseNumber": 122,
+      "verseKey": "6:122",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 57,
+      "rukuNumber": 116,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "أَوَمَن كَانَ مَيْتًا فَأَحْيَيْنَـٰهُ وَجَعَلْنَا لَهُۥ نُورًا يَمْشِى بِهِۦ فِى ٱلنَّاسِ كَمَن مَّثَلُهُۥ فِى ٱلظُّلُمَـٰتِ لَيْسَ بِخَارِجٍ مِّنْهَا ۚ كَذَٰلِكَ زُيِّنَ لِلْكَـٰفِرِينَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "pageNumber": 143,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100880,
+          "resourceId": 20,
+          "text": "And is one who was dead and We gave him life and made for him light by which to walk among the people like one who is in darkness, never to emerge therefrom? Thus it has been made pleasing to the disbelievers that which they were doing.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747624,
+          "resourceId": 109,
+          "text": "一个人，原是死的，但我使他复活，并给他一道光明，带着在人间行走，，难道他与那在重重黑暗中绝不走入光明的人是一样的吗？不信道的人，这样为他们的行为所迷惑。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 912,
+      "verseNumber": 123,
+      "verseKey": "6:123",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 57,
+      "rukuNumber": 116,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَكَذَٰلِكَ جَعَلْنَا فِى كُلِّ قَرْيَةٍ أَكَـٰبِرَ مُجْرِمِيهَا لِيَمْكُرُوا۟ فِيهَا ۖ وَمَا يَمْكُرُونَ إِلَّا بِأَنفُسِهِمْ وَمَا يَشْعُرُونَ",
+      "pageNumber": 143,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100881,
+          "resourceId": 20,
+          "text": "And thus We have placed within every city the greatest of its criminals to conspire therein. But they conspire not except against themselves, and they perceive [it] not.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747625,
+          "resourceId": 109,
+          "text": "我这样使每个城市都有一些罪魁，以便他们在那里用计谋；其实，他们的计谋，只是害自己，但他们不自觉。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 913,
+      "verseNumber": 124,
+      "verseKey": "6:124",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 57,
+      "rukuNumber": 116,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا جَآءَتْهُمْ ءَايَةٌ قَالُوا۟ لَن نُّؤْمِنَ حَتَّىٰ نُؤْتَىٰ مِثْلَ مَآ أُوتِىَ رُسُلُ ٱللَّهِ ۘ ٱللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُۥ ۗ سَيُصِيبُ ٱلَّذِينَ أَجْرَمُوا۟ صَغَارٌ عِندَ ٱللَّهِ وَعَذَابٌ شَدِيدٌۢ بِمَا كَانُوا۟ يَمْكُرُونَ",
+      "pageNumber": 143,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100882,
+          "resourceId": 20,
+          "text": "And when a sign comes to them, they say, \"Never will we believe until we are given like that which was given to the messengers of Allāh.\" Allāh is most knowing of where [i.e., with whom] He places His message. There will afflict those who committed crimes debasement before Allāh and severe punishment for what they used to conspire.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747626,
+          "resourceId": 109,
+          "text": "当一种迹象降临他们的时候，他们说：“我们绝不信，直到我们得受众使者所受的（启示）。”安拉是知道要把自己的使命安置在什么地方的。犯罪者，将因自己的计谋，而遭受安拉那里的屈辱，和痛苦的刑罚。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 914,
+      "verseNumber": 125,
+      "verseKey": "6:125",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 57,
+      "rukuNumber": 116,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَـٰمِ ۖ وَمَن يُرِدْ أَن يُضِلَّهُۥ يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ ۚ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ",
+      "pageNumber": 144,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100883,
+          "resourceId": 20,
+          "text": "So whoever Allāh wants to guide - He expands his breast to [contain] Islām; and whoever He wants to send astray<sup foot_note=227654>1</sup> - He makes his breast tight and constricted as though he were climbing into the sky. Thus does Allāh place defilement upon those who do not believe.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747627,
+          "resourceId": 109,
+          "text": "安拉欲使谁遵循正道，就使谁的心胸为伊斯兰而敞开；安拉欲使谁误入迷途，就使谁的心胸狭隘，（要他信道），难如登天。安拉这样以刑罚加于不信道的人。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 915,
+      "verseNumber": 126,
+      "verseKey": "6:126",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 57,
+      "rukuNumber": 116,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَهَـٰذَا صِرَٰطُ رَبِّكَ مُسْتَقِيمًا ۗ قَدْ فَصَّلْنَا ٱلْـَٔايَـٰتِ لِقَوْمٍ يَذَّكَّرُونَ",
+      "pageNumber": 144,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100884,
+          "resourceId": 20,
+          "text": "And this is the path of your Lord, [leading] straight. We have detailed the verses for a people who remember.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747628,
+          "resourceId": 109,
+          "text": "这是你的主的正路。我确已为觉悟的民众而解释一切迹象。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 916,
+      "verseNumber": 127,
+      "verseKey": "6:127",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 58,
+      "rukuNumber": 116,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "۞ لَهُمْ دَارُ ٱلسَّلَـٰمِ عِندَ رَبِّهِمْ ۖ وَهُوَ وَلِيُّهُم بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "pageNumber": 144,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100885,
+          "resourceId": 20,
+          "text": "For them will be the Home of Peace [i.e., Paradise] with their Lord. And He will be their protecting friend because of what they used to do.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747629,
+          "resourceId": 109,
+          "text": "他们在主那里，将为自己的善行而享受安宅，安拉是他们的保佑者。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 917,
+      "verseNumber": 128,
+      "verseKey": "6:128",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 58,
+      "rukuNumber": 116,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَيَوْمَ يَحْشُرُهُمْ جَمِيعًا يَـٰمَعْشَرَ ٱلْجِنِّ قَدِ ٱسْتَكْثَرْتُم مِّنَ ٱلْإِنسِ ۖ وَقَالَ أَوْلِيَآؤُهُم مِّنَ ٱلْإِنسِ رَبَّنَا ٱسْتَمْتَعَ بَعْضُنَا بِبَعْضٍ وَبَلَغْنَآ أَجَلَنَا ٱلَّذِىٓ أَجَّلْتَ لَنَا ۚ قَالَ ٱلنَّارُ مَثْوَىٰكُمْ خَـٰلِدِينَ فِيهَآ إِلَّا مَا شَآءَ ٱللَّهُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ",
+      "pageNumber": 144,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100886,
+          "resourceId": 20,
+          "text": "And [mention, O Muḥammad], the Day when He will gather them together [and say], \"O company of jinn, you have [misled] many of mankind.\" And their allies among mankind will say, \"Our Lord, some of us made use of others, and we have [now] reached our term which You appointed for us.\" He will say, \"The Fire is your residence, wherein you will abide eternally, except for what Allāh wills. Indeed, your Lord is Wise and Knowing.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747630,
+          "resourceId": 109,
+          "text": "他把他们完全集合之日，(或者将说)“精灵的群众啊！你们确已诱惑许多人了。”这些人中的党羽将说：“我们的主啊！我们已互相利用，而达到你所为我们预定的期限了！”他说：“火狱是你们的归宿，你们将永居其中，除非安拉意欲的时候。”你的主确是至睿的，确是全知的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 918,
+      "verseNumber": 129,
+      "verseKey": "6:129",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 58,
+      "rukuNumber": 116,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَكَذَٰلِكَ نُوَلِّى بَعْضَ ٱلظَّـٰلِمِينَ بَعْضًۢا بِمَا كَانُوا۟ يَكْسِبُونَ",
+      "pageNumber": 144,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100887,
+          "resourceId": 20,
+          "text": "And thus will We make some of the wrongdoers allies of others for what they used to earn.<sup foot_note=227657>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747631,
+          "resourceId": 109,
+          "text": "我这样使不义的人因自己的行为而互相友善。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 919,
+      "verseNumber": 130,
+      "verseKey": "6:130",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 58,
+      "rukuNumber": 117,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَـٰتِى وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا ۚ قَالُوا۟ شَهِدْنَا عَلَىٰٓ أَنفُسِنَا ۖ وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَـٰفِرِينَ",
+      "pageNumber": 144,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100890,
+          "resourceId": 20,
+          "text": "\"O company of jinn and mankind,<sup foot_note=227660>1</sup> did there not come to you messengers from among you, relating to you My verses and warning you of the meeting of this Day of yours?\" They will say, \"We bear witness against ourselves\"; and the worldly life had deluded them, and they will bear witness against themselves that they were disbelievers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747632,
+          "resourceId": 109,
+          "text": "“精灵和人类的群众啊！难道你们同族中的使者没有来对你们叙述我的迹象，并警告你们将有今日的会见吗？”他们说：“我们已招认了。”尘世的生活欺骗了他们，他们将招认自己原是不信道的人，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 920,
+      "verseNumber": 131,
+      "verseKey": "6:131",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 58,
+      "rukuNumber": 117,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "ذَٰلِكَ أَن لَّمْ يَكُن رَّبُّكَ مُهْلِكَ ٱلْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا غَـٰفِلُونَ",
+      "pageNumber": 144,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100891,
+          "resourceId": 20,
+          "text": "That is because your Lord would not destroy the cities for wrongdoing<sup foot_note=227661>1</sup> while their people were unaware.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747633,
+          "resourceId": 109,
+          "text": "这是因为你的主在城市的居民惛愦之际，不会因为他们的不义而毁灭城市。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 921,
+      "verseNumber": 132,
+      "verseKey": "6:132",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 58,
+      "rukuNumber": 117,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَلِكُلٍّ دَرَجَـٰتٌ مِّمَّا عَمِلُوا۟ ۚ وَمَا رَبُّكَ بِغَـٰفِلٍ عَمَّا يَعْمَلُونَ",
+      "pageNumber": 145,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100892,
+          "resourceId": 20,
+          "text": "And for all are degrees [i.e., positions resulting] from what they have done. And your Lord is not unaware of what they do.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747634,
+          "resourceId": 109,
+          "text": "行善的人和作恶的人都各有若干等第，（以报应）他们所行的（善恶），你的主并不忽视他们的行为。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 922,
+      "verseNumber": 133,
+      "verseKey": "6:133",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 58,
+      "rukuNumber": 117,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَرَبُّكَ ٱلْغَنِىُّ ذُو ٱلرَّحْمَةِ ۚ إِن يَشَأْ يُذْهِبْكُمْ وَيَسْتَخْلِفْ مِنۢ بَعْدِكُم مَّا يَشَآءُ كَمَآ أَنشَأَكُم مِّن ذُرِّيَّةِ قَوْمٍ ءَاخَرِينَ",
+      "pageNumber": 145,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100893,
+          "resourceId": 20,
+          "text": "And your Lord is the Free of need, the possessor of mercy. If He wills, He can do away with you and give succession after you to whomever He wills, just as He produced you from the descendants of another people.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747635,
+          "resourceId": 109,
+          "text": "你的主是自足的，是仁慈的。如果他意欲，他就使你们消逝，而以他所意欲的人继承你们，犹如从别的民族的后裔中使你们兴起一样。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 923,
+      "verseNumber": 134,
+      "verseKey": "6:134",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 58,
+      "rukuNumber": 117,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ مَا تُوعَدُونَ لَـَٔاتٍ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ",
+      "pageNumber": 145,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100894,
+          "resourceId": 20,
+          "text": "Indeed, what you are promised is coming, and you will not cause failure [to Allāh].<sup foot_note=227664>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747636,
+          "resourceId": 109,
+          "text": "用来警告你们的事，确是要发生的，你们绝不能逃避天谴。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 924,
+      "verseNumber": 135,
+      "verseKey": "6:135",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 58,
+      "rukuNumber": 117,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ يَـٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَامِلٌ ۖ فَسَوْفَ تَعْلَمُونَ مَن تَكُونُ لَهُۥ عَـٰقِبَةُ ٱلدَّارِ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ",
+      "pageNumber": 145,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100895,
+          "resourceId": 20,
+          "text": "Say, \"O my people, work according to your position; [for] indeed, I am working. And you are going to know who will have succession in the home.<sup foot_note=227665>1</sup> Indeed, the wrongdoers will not succeed.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747637,
+          "resourceId": 109,
+          "text": "你说：“我的宗族啊！你们按你们的方式而工作，我必定按我的方式而工作。你们将知道谁获后世的善果。不义的人，必定不会成功。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 925,
+      "verseNumber": 136,
+      "verseKey": "6:136",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 58,
+      "rukuNumber": 117,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَجَعَلُوا۟ لِلَّهِ مِمَّا ذَرَأَ مِنَ ٱلْحَرْثِ وَٱلْأَنْعَـٰمِ نَصِيبًا فَقَالُوا۟ هَـٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَـٰذَا لِشُرَكَآئِنَا ۖ فَمَا كَانَ لِشُرَكَآئِهِمْ فَلَا يَصِلُ إِلَى ٱللَّهِ ۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَآئِهِمْ ۗ سَآءَ مَا يَحْكُمُونَ",
+      "pageNumber": 145,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100896,
+          "resourceId": 20,
+          "text": "And they [i.e., the polytheists] assign to Allāh from that which He created of crops and livestock a share and say, \"This is for Allāh,\" by their claim, \"and this is for our 'partners' [associated with Him].\" But what is for their \"partners\" does not reach Allāh, while what is for Allāh - this reaches their \"partners.\" Evil is that which they rule.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747638,
+          "resourceId": 109,
+          "text": "他们把安拉所创造的农产和牲畜，一份供献安拉，〔一份供献偶像〕他们妄言：“这是安拉的，这是我们的配主的。”供献他们的配主的，不能拔归安拉；供献安拉的，却可以拔归他们的配主。他们的决定真恶劣！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 926,
+      "verseNumber": 137,
+      "verseKey": "6:137",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 58,
+      "rukuNumber": 117,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِّنَ ٱلْمُشْرِكِينَ قَتْلَ أَوْلَـٰدِهِمْ شُرَكَآؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا۟ عَلَيْهِمْ دِينَهُمْ ۖ وَلَوْ شَآءَ ٱللَّهُ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+      "pageNumber": 145,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100897,
+          "resourceId": 20,
+          "text": "And likewise, to many of the polytheists their partners<sup foot_note=227668>1</sup> have made [to seem] pleasing the killing of their children in order to bring about their destruction and to cover them with confusion in their religion. And if Allāh had willed, they would not have done so. So leave them and that which they invent.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747639,
+          "resourceId": 109,
+          "text": "以物配主者的配主，这样诱惑他们中的许多人杀害自己的儿女，以便毁灭他们，并混乱他们的宗教。假若安拉意欲，那么，他们就不做这件事，故你当任他们伪造谎言。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 927,
+      "verseNumber": 138,
+      "verseKey": "6:138",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 58,
+      "rukuNumber": 117,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَقَالُوا۟ هَـٰذِهِۦٓ أَنْعَـٰمٌ وَحَرْثٌ حِجْرٌ لَّا يَطْعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعْمِهِمْ وَأَنْعَـٰمٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَـٰمٌ لَّا يَذْكُرُونَ ٱسْمَ ٱللَّهِ عَلَيْهَا ٱفْتِرَآءً عَلَيْهِ ۚ سَيَجْزِيهِم بِمَا كَانُوا۟ يَفْتَرُونَ",
+      "pageNumber": 146,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100898,
+          "resourceId": 20,
+          "text": "And they say, \"These animals<sup foot_note=227673>1</sup> and crops are forbidden; no one may eat from them except whom we will,\" by their claim. And there are those [camels] whose backs are forbidden [by them]<sup foot_note=227674>2</sup> and those upon which the name of Allāh is not mentioned<sup foot_note=227671>3</sup> - [all of this] an invention of untruth about Him.<sup foot_note=227672>4</sup> He will punish them for what they were inventing.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747640,
+          "resourceId": 109,
+          "text": "他们妄言：“这些是禁牲和禁谷，只有我们所意欲的人才可以吃；这些牲畜，是不准人骑的；这些牲畜，是不诵安拉之名而宰的。”他们假借安拉的名义而造谣，他要为他们的造谣而报酬他们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 928,
+      "verseNumber": 139,
+      "verseKey": "6:139",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 58,
+      "rukuNumber": 117,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَقَالُوا۟ مَا فِى بُطُونِ هَـٰذِهِ ٱلْأَنْعَـٰمِ خَالِصَةٌ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزْوَٰجِنَا ۖ وَإِن يَكُن مَّيْتَةً فَهُمْ فِيهِ شُرَكَآءُ ۚ سَيَجْزِيهِمْ وَصْفَهُمْ ۚ إِنَّهُۥ حَكِيمٌ عَلِيمٌ",
+      "pageNumber": 146,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100899,
+          "resourceId": 20,
+          "text": "And they say, \"What is in the bellies of these animals<sup foot_note=227675>1</sup> is exclusively for our males and forbidden to our females. But if it is [born] dead, then all of them have shares therein.\" He will punish them for their description.<sup foot_note=227676>2</sup> Indeed, He is Wise and Knowing.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747641,
+          "resourceId": 109,
+          "text": "他们说：这些牲畜所怀的胎儿，是专归我们男人的，对于我们的妻子是禁物。如果那胎儿生下来是死的，他们就共同吃它。安拉要为他们捏造谣言而报酬他们。他确是至睿的，确是全知的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 929,
+      "verseNumber": 140,
+      "verseKey": "6:140",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 58,
+      "rukuNumber": 117,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قَدْ خَسِرَ ٱلَّذِينَ قَتَلُوٓا۟ أَوْلَـٰدَهُمْ سَفَهًۢا بِغَيْرِ عِلْمٍ وَحَرَّمُوا۟ مَا رَزَقَهُمُ ٱللَّهُ ٱفْتِرَآءً عَلَى ٱللَّهِ ۚ قَدْ ضَلُّوا۟ وَمَا كَانُوا۟ مُهْتَدِينَ",
+      "pageNumber": 146,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100867,
+          "resourceId": 20,
+          "text": "They will have lost who killed their children in foolishness without knowledge and prohibited what Allāh had provided for them, inventing untruth about Allāh. They have gone astray and were not [rightly] guided.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747642,
+          "resourceId": 109,
+          "text": "愚昧无知地杀害儿女，并且假借安拉的名义把安拉赏赐他们的给养当作禁物的人，确已亏折了，确已迷误了，他们没有遵循正道。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 930,
+      "verseNumber": 141,
+      "verseKey": "6:141",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 59,
+      "rukuNumber": 118,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "۞ وَهُوَ ٱلَّذِىٓ أَنشَأَ جَنَّـٰتٍ مَّعْرُوشَـٰتٍ وَغَيْرَ مَعْرُوشَـٰتٍ وَٱلنَّخْلَ وَٱلزَّرْعَ مُخْتَلِفًا أُكُلُهُۥ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُتَشَـٰبِهًا وَغَيْرَ مُتَشَـٰبِهٍ ۚ كُلُوا۟ مِن ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَءَاتُوا۟ حَقَّهُۥ يَوْمَ حَصَادِهِۦ ۖ وَلَا تُسْرِفُوٓا۟ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "pageNumber": 146,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100901,
+          "resourceId": 20,
+          "text": "And He it is who causes gardens to grow, [both] trellised and untrellised, and palm trees and crops of different [kinds of] food and olives and pomegranates, similar and dissimilar. Eat of [each of] its fruit when it yields and give its due [zakāh] on the day of its harvest. And be not excessive.<sup foot_note=227679>1</sup> Indeed, He does not like those who commit excess.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747643,
+          "resourceId": 109,
+          "text": "他创造了许多园圃，其中有蔓生的和直立的果木，与果实各别的海枣和百谷，与形同味异的橄榄和石榴。当结果的时候，你们可以采食其果实；在收获的日子，你们当施舍其中的一部分，但不要浪费。安拉的确不喜爱浪费的人。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 931,
+      "verseNumber": 142,
+      "verseKey": "6:142",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 59,
+      "rukuNumber": 118,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَمِنَ ٱلْأَنْعَـٰمِ حَمُولَةً وَفَرْشًا ۚ كُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَـٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ",
+      "pageNumber": 146,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100902,
+          "resourceId": 20,
+          "text": "And of the grazing livestock are carriers [of burdens] and those [too] small. Eat of what Allāh has provided for you and do not follow the footsteps of Satan.<sup foot_note=227680>1</sup> Indeed, he is to you a clear enemy.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747644,
+          "resourceId": 109,
+          "text": "（他创造了）供载运的和供食用的牲畜。你们可以吃安拉所赐你们的给养，你们不要追随恶魔的步伐，他确是你们明显的仇敌。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 932,
+      "verseNumber": 143,
+      "verseKey": "6:143",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 59,
+      "rukuNumber": 118,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "ثَمَـٰنِيَةَ أَزْوَٰجٍ ۖ مِّنَ ٱلضَّأْنِ ٱثْنَيْنِ وَمِنَ ٱلْمَعْزِ ٱثْنَيْنِ ۗ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ ۖ نَبِّـُٔونِى بِعِلْمٍ إِن كُنتُمْ صَـٰدِقِينَ",
+      "pageNumber": 147,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100903,
+          "resourceId": 20,
+          "text": "[They are] eight mates - of the sheep, two and of the goats, two. Say, \"Is it the two males He has forbidden or the two females or that which the wombs of the two females contain? Inform me with knowledge, if you should be truthful.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747645,
+          "resourceId": 109,
+          "text": "（他创造了）八只牲畜：两只绵羊、两只山羊，你说：“安拉只以两只公的为禁物呢？还是只以两只母的为禁物呢？还是只以两只母的所孕育的为禁物呢？你们依真知灼见而告诉我吧，如果你们是诚实的人！”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 933,
+      "verseNumber": 144,
+      "verseKey": "6:144",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 59,
+      "rukuNumber": 118,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَمِنَ ٱلْإِبِلِ ٱثْنَيْنِ وَمِنَ ٱلْبَقَرِ ٱثْنَيْنِ ۗ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ ۖ أَمْ كُنتُمْ شُهَدَآءَ إِذْ وَصَّىٰكُمُ ٱللَّهُ بِهَـٰذَا ۚ فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا لِّيُضِلَّ ٱلنَّاسَ بِغَيْرِ عِلْمٍ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+      "pageNumber": 147,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100904,
+          "resourceId": 20,
+          "text": "And of the camels, two and of the cattle, two. Say, \"Is it the two males He has forbidden or the two females or that which the wombs of the two females contain? Or were you witnesses when Allāh charged you with this? Then who is more unjust than one who invents a lie about Allāh to mislead the people by [something] other than knowledge? Indeed, Allāh does not guide the wrongdoing people.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747646,
+          "resourceId": 109,
+          "text": "两只骆驼和两只黄牛。你说：“安拉只以两只公的为禁物呢？还是只以两只母的为禁物呢？还是只以两只母的所孕育的为禁物呢？难道安拉以此嘱咐你们的时候，你们会作见证吗？假借安拉的名义而造谣，以致无知地使人迷误的人，有谁比他们还不义呢？安拉必定不引导不义的民众。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 934,
+      "verseNumber": 145,
+      "verseKey": "6:145",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 59,
+      "rukuNumber": 119,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۚ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ",
+      "pageNumber": 147,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100905,
+          "resourceId": 20,
+          "text": "Say, \"I do not find within that which was revealed to me [anything] forbidden to one who would eat it unless it be a dead animal or blood spilled out or the flesh of swine - for indeed, it is impure - or it be [that slaughtered in] disobedience, dedicated to other than Allāh.<sup foot_note=227683>1</sup> But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit], then indeed, your Lord is Forgiving and Merciful.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747647,
+          "resourceId": 109,
+          "text": "你说：“在我所受的启示里，我不能发现任何人所不得吃的食物；除非是自死物，或流出的血液，或猪肉——因为它们确是不洁的——或是诵非安拉之名而宰的犯罪物。”凡为势所迫，非出自愿，且不过分的人，（虽吃禁物，毫无罪过）因为你的主确是至赦的，确是至慈的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 935,
+      "verseNumber": 146,
+      "verseKey": "6:146",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 59,
+      "rukuNumber": 119,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ ۖ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍ ۚ ذَٰلِكَ جَزَيْنَـٰهُم بِبَغْيِهِمْ ۖ وَإِنَّا لَصَـٰدِقُونَ",
+      "pageNumber": 147,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100906,
+          "resourceId": 20,
+          "text": "And to those who are Jews We prohibited every animal of uncloven hoof; and of the cattle and the sheep We prohibited to them their fat, except what adheres to their backs or the entrails or what is joined with bone. [By] that We repaid them for their transgression. And indeed, We are truthful.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747648,
+          "resourceId": 109,
+          "text": "我只禁戒犹太教徒吃一切有爪的禽兽，又禁戒他们吃牛羊的脂油，惟牛羊脊上或肠上或骨间的脂油除外。这是我因为他们的不义而加于他们的惩罚，我确是诚实的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 936,
+      "verseNumber": 147,
+      "verseKey": "6:147",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 59,
+      "rukuNumber": 119,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "فَإِن كَذَّبُوكَ فَقُل رَّبُّكُمْ ذُو رَحْمَةٍ وَٰسِعَةٍ وَلَا يُرَدُّ بَأْسُهُۥ عَنِ ٱلْقَوْمِ ٱلْمُجْرِمِينَ",
+      "pageNumber": 148,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100907,
+          "resourceId": 20,
+          "text": "So if they deny you, [O Muḥammad], say, \"Your Lord is the possessor of vast mercy; but His punishment cannot be repelled from the people who are criminals.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747649,
+          "resourceId": 109,
+          "text": "如果他们否认你，你就说：“你们的主，是有广大的慈恩的；但无人能替犯罪的民众抵抗他的刑罚。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 937,
+      "verseNumber": 148,
+      "verseKey": "6:148",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 59,
+      "rukuNumber": 119,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "سَيَقُولُ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَآ أَشْرَكْنَا وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن شَىْءٍ ۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ حَتَّىٰ ذَاقُوا۟ بَأْسَنَا ۗ قُلْ هَلْ عِندَكُم مِّنْ عِلْمٍ فَتُخْرِجُوهُ لَنَآ ۖ إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ أَنتُمْ إِلَّا تَخْرُصُونَ",
+      "pageNumber": 148,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100908,
+          "resourceId": 20,
+          "text": "Those who associated [others] with Allāh will say, \"If Allāh had willed, we would not have associated [anything] and neither would our fathers, nor would we have prohibited anything.\" Likewise did those before deny until they tasted Our punishment. Say, \"Do you have any knowledge that you can produce for us? You follow not except assumption, and you are not but misjudging.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747650,
+          "resourceId": 109,
+          "text": "以物配主的人将说：“假若安拉意欲，那么，我们和我们的祖先，都不以物配主，我们也不以任何物为禁物。”他们之前的人，曾这样否认（他们族中的使者）直到他们尝试了我的刑罚。你说：“你们有真知灼见，可以拿出来给我们看看吗？你们只凭猜测，尽说谎话。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 938,
+      "verseNumber": 149,
+      "verseKey": "6:149",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 59,
+      "rukuNumber": 119,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ فَلِلَّهِ ٱلْحُجَّةُ ٱلْبَـٰلِغَةُ ۖ فَلَوْ شَآءَ لَهَدَىٰكُمْ أَجْمَعِينَ",
+      "pageNumber": 148,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100909,
+          "resourceId": 20,
+          "text": "Say, \"With Allāh is the far-reaching [i.e., conclusive] argument. If He had willed, He would have guided you all.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747651,
+          "resourceId": 109,
+          "text": "你说：“安拉才有确凿的证据，假若他意欲，那么，他必定将你们全体引导。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 939,
+      "verseNumber": 150,
+      "verseKey": "6:150",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 59,
+      "rukuNumber": 119,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ هَلُمَّ شُهَدَآءَكُمُ ٱلَّذِينَ يَشْهَدُونَ أَنَّ ٱللَّهَ حَرَّمَ هَـٰذَا ۖ فَإِن شَهِدُوا۟ فَلَا تَشْهَدْ مَعَهُمْ ۚ وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ وَهُم بِرَبِّهِمْ يَعْدِلُونَ",
+      "pageNumber": 148,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100912,
+          "resourceId": 20,
+          "text": "Say, [O Muḥammad], \"Bring forward your witnesses who will testify that Allāh has prohibited this.\" And if they testify, do not testify with them. And do not follow the desires of those who deny Our verses and those who do not believe in the Hereafter, while they equate [others] with their Lord.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747652,
+          "resourceId": 109,
+          "text": "你说：“曾见安拉戒食此类禁物的见证，你们把他们召来吧！。”如果他们作证，那么，你不要与他们一同作证。那些既否认我的迹象，又不信后世，而且以物配主的人，你不要顺从他们的私欲。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 940,
+      "verseNumber": 151,
+      "verseKey": "6:151",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 60,
+      "rukuNumber": 120,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "۞ قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا ۖ وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُم مِّنْ إِمْلَـٰقٍ ۖ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ ۖ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ ۖ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+      "pageNumber": 148,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100913,
+          "resourceId": 20,
+          "text": "Say, \"Come, I will recite what your Lord has prohibited to you. [He commands] that you not associate anything with Him, and to parents, good treatment, and do not kill your children out of poverty; We will provide for you and them. And do not approach immoralities - what is apparent of them and what is concealed. And do not kill the soul which Allāh has forbidden [to be killed] except by [legal] right. This has He instructed you that you may use reason.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747653,
+          "resourceId": 109,
+          "text": "你说：“你们来吧，来听我宣读你们的主所禁戒你们的事项：你们不要以物配主，你们应当孝敬父母；你们不要因为贫穷而杀害自己的儿女，我供给你们和他们；你们不要临近明显的和隐微的丑事；你们不要违背安拉的禁令而杀人，除非因为正义。他将这些事嘱咐你们，以便你们了解。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 941,
+      "verseNumber": 152,
+      "verseKey": "6:152",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 60,
+      "rukuNumber": 120,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ ۖ وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ ۖ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَإِذَا قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ ۖ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "pageNumber": 149,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100914,
+          "resourceId": 20,
+          "text": "And do not approach the orphan's property except in a way that is best [i.e., intending improvement] until he reaches maturity. And give full measure and weight in justice. We do not charge any soul except [with that within] its capacity. And when you speak [i.e., testify], be just, even if [it concerns] a near relative. And the covenant of Allāh fulfill. This has He instructed you that you may remember.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747654,
+          "resourceId": 109,
+          "text": "你们不要临近孤儿的财产，除非依照最优良的方式，直到他成年；你们当用充足的斗和公平的秤，我只依各人的能力而加以责成。当你们说话的时候，你们应当公平，即使你们所代证的是你们的亲戚；你们当履行安拉的盟约。他将这些事嘱咐你们，以便你们觉悟。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 942,
+      "verseNumber": 153,
+      "verseKey": "6:153",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 60,
+      "rukuNumber": 120,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَأَنَّ هَـٰذَا صِرَٰطِى مُسْتَقِيمًا فَٱتَّبِعُوهُ ۖ وَلَا تَتَّبِعُوا۟ ٱلسُّبُلَ فَتَفَرَّقَ بِكُمْ عَن سَبِيلِهِۦ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَتَّقُونَ",
+      "pageNumber": 149,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100915,
+          "resourceId": 20,
+          "text": "And, [moreover], this is My path, which is straight, so follow it; and do not follow [other] ways, for you will be separated from His way. This has He instructed you that you may become righteous.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747655,
+          "resourceId": 109,
+          "text": "这确是我的正路，故你们当遵循它；你们不要遵循邪路，以免那些邪路使你们离开安拉的大道。他将这些事嘱咐你们，以便你们敬畏。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 943,
+      "verseNumber": 154,
+      "verseKey": "6:154",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 60,
+      "rukuNumber": 120,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "ثُمَّ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ تَمَامًا عَلَى ٱلَّذِىٓ أَحْسَنَ وَتَفْصِيلًا لِّكُلِّ شَىْءٍ وَهُدًى وَرَحْمَةً لَّعَلَّهُم بِلِقَآءِ رَبِّهِمْ يُؤْمِنُونَ",
+      "pageNumber": 149,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100916,
+          "resourceId": 20,
+          "text": "Then<sup foot_note=227686>1</sup> We gave Moses the Scripture, making complete [Our favor] upon the one who did good [i.e., Moses] and as a detailed explanation of all things and as guidance and mercy that perhaps in the meeting with their Lord they would believe.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747656,
+          "resourceId": 109,
+          "text": "我把经典赏赐了穆萨，以完成我对行善者的恩惠，并解释一切律例，以作向导，并示慈恩，以便他们确信将来要与他们的主会见。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 944,
+      "verseNumber": 155,
+      "verseKey": "6:155",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 60,
+      "rukuNumber": 121,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَهَـٰذَا كِتَـٰبٌ أَنزَلْنَـٰهُ مُبَارَكٌ فَٱتَّبِعُوهُ وَٱتَّقُوا۟ لَعَلَّكُمْ تُرْحَمُونَ",
+      "pageNumber": 149,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100917,
+          "resourceId": 20,
+          "text": "And this [Qur’ān] is a Book We have revealed [which is] blessed, so follow it and fear Allāh that you may receive mercy.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747657,
+          "resourceId": 109,
+          "text": "这是我所降示的、吉祥的经典，故你们当遵守它，并当敬畏主，以便你们蒙主的怜悯。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 945,
+      "verseNumber": 156,
+      "verseKey": "6:156",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 60,
+      "rukuNumber": 121,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "أَن تَقُولُوٓا۟ إِنَّمَآ أُنزِلَ ٱلْكِتَـٰبُ عَلَىٰ طَآئِفَتَيْنِ مِن قَبْلِنَا وَإِن كُنَّا عَن دِرَاسَتِهِمْ لَغَـٰفِلِينَ",
+      "pageNumber": 149,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100918,
+          "resourceId": 20,
+          "text": "[We revealed it] lest you say, \"The Scripture was only sent down to two groups before us, but we were of their study unaware,\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747658,
+          "resourceId": 109,
+          "text": "（我降示天经），以免你们说：“天经只被降示我们以前的两伙人，我们对于他们所诵习的经典，确是疏忽的。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 946,
+      "verseNumber": 157,
+      "verseKey": "6:157",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 60,
+      "rukuNumber": 121,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "أَوْ تَقُولُوا۟ لَوْ أَنَّآ أُنزِلَ عَلَيْنَا ٱلْكِتَـٰبُ لَكُنَّآ أَهْدَىٰ مِنْهُمْ ۚ فَقَدْ جَآءَكُم بَيِّنَةٌ مِّن رَّبِّكُمْ وَهُدًى وَرَحْمَةٌ ۚ فَمَنْ أَظْلَمُ مِمَّن كَذَّبَ بِـَٔايَـٰتِ ٱللَّهِ وَصَدَفَ عَنْهَا ۗ سَنَجْزِى ٱلَّذِينَ يَصْدِفُونَ عَنْ ءَايَـٰتِنَا سُوٓءَ ٱلْعَذَابِ بِمَا كَانُوا۟ يَصْدِفُونَ",
+      "pageNumber": 149,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100919,
+          "resourceId": 20,
+          "text": "Or lest you say, \"If only the Scripture had been revealed to us, we would have been better guided than they.\" So there has [now] come to you a clear evidence from your Lord and a guidance and mercy. Then who is more unjust than one who denies the verses of Allāh and turns away from them? We will recompense those who turn away from Our verses with the worst of punishment for their having turned away.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747659,
+          "resourceId": 109,
+          "text": "或者说：“假若天经被降示于我们，那么，我们必定比他们更能遵循正道。”从你们的主发出的明证、正道和慈恩，确已降临你们了。否认安拉的迹象，而加以背弃的人，有谁比他还不义呢？背弃我的迹象的人，我将因他们的背弃而以最严厉的刑罚报酬他们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 947,
+      "verseNumber": 158,
+      "verseKey": "6:158",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 60,
+      "rukuNumber": 121,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَـٰٓئِكَةُ أَوْ يَأْتِىَ رَبُّكَ أَوْ يَأْتِىَ بَعْضُ ءَايَـٰتِ رَبِّكَ ۗ يَوْمَ يَأْتِى بَعْضُ ءَايَـٰتِ رَبِّكَ لَا يَنفَعُ نَفْسًا إِيمَـٰنُهَا لَمْ تَكُنْ ءَامَنَتْ مِن قَبْلُ أَوْ كَسَبَتْ فِىٓ إِيمَـٰنِهَا خَيْرًا ۗ قُلِ ٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ",
+      "pageNumber": 150,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100920,
+          "resourceId": 20,
+          "text": "Do they [then] wait for anything except that the angels should come to them or your Lord should come or that there come some of the signs<sup foot_note=227689>1</sup> of your Lord? The Day that some of the signs of your Lord will come no soul will benefit from its faith as long as it had not believed before or had earned through its faith some good. Say, \"Wait. Indeed, we [also] are waiting.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747660,
+          "resourceId": 109,
+          "text": "他们只有等待众天使的降临，只有等待你的主来临，或你的主的一部分迹象降临。你的主的一部分迹象降临之日，凡以前未曾信道，或虽信道而未行善的人，在那日，即使信道，也无益了。你说：“你们等待吧！我们确是等待的。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 948,
+      "verseNumber": 159,
+      "verseKey": "6:159",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 60,
+      "rukuNumber": 121,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ ٱلَّذِينَ فَرَّقُوا۟ دِينَهُمْ وَكَانُوا۟ شِيَعًا لَّسْتَ مِنْهُمْ فِى شَىْءٍ ۚ إِنَّمَآ أَمْرُهُمْ إِلَى ٱللَّهِ ثُمَّ يُنَبِّئُهُم بِمَا كَانُوا۟ يَفْعَلُونَ",
+      "pageNumber": 150,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100921,
+          "resourceId": 20,
+          "text": "Indeed, those who have divided their religion and become sects - you, [O Muḥammad], are not [associated] with them in anything. Their affair is only [left] to Allāh; then He will inform them about what they used to do.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747661,
+          "resourceId": 109,
+          "text": "分离自己的宗教而各成宗派的人，你与他们毫无关系；他们的事，只归安拉。然后，他将把他们的行为告诉他们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 949,
+      "verseNumber": 160,
+      "verseKey": "6:160",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 60,
+      "rukuNumber": 121,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ عَشْرُ أَمْثَالِهَا ۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ",
+      "pageNumber": 150,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100924,
+          "resourceId": 20,
+          "text": "Whoever comes [on the Day of Judgement] with a good deed will have ten times the like thereof [to his credit], and whoever comes with an evil deed will not be recompensed except the like thereof; and they will not be wronged.<sup foot_note=227690>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747662,
+          "resourceId": 109,
+          "text": "行一件善事的人，将得十倍的报酬；作一件恶事的人，只受同样的惩罚；他们都不受亏枉。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 950,
+      "verseNumber": 161,
+      "verseKey": "6:161",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 60,
+      "rukuNumber": 121,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ إِنَّنِى هَدَىٰنِى رَبِّىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ دِينًا قِيَمًا مِّلَّةَ إِبْرَٰهِيمَ حَنِيفًا ۚ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ",
+      "pageNumber": 150,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100925,
+          "resourceId": 20,
+          "text": "Say, \"Indeed, my Lord has guided me to a straight path - a correct religion - the way of Abraham, inclining toward truth. And he was not among those who associated others with Allāh.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747663,
+          "resourceId": 109,
+          "text": "你说：“我的主已指引我一条正路，即正教，崇正的易卜拉欣的宗教。他不是以物配主的人。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 951,
+      "verseNumber": 162,
+      "verseKey": "6:162",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 60,
+      "rukuNumber": 121,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "pageNumber": 150,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100926,
+          "resourceId": 20,
+          "text": "Say, \"Indeed, my prayer, my rites of sacrifice, my living and my dying are for Allāh, Lord of the worlds.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747664,
+          "resourceId": 109,
+          "text": "你说：“我的礼拜，我的牺牲，我的生活，我的死亡，的确都是为了安拉——众世界的主。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 952,
+      "verseNumber": 163,
+      "verseKey": "6:163",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 60,
+      "rukuNumber": 121,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "لَا شَرِيكَ لَهُۥ ۖ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا۠ أَوَّلُ ٱلْمُسْلِمِينَ",
+      "pageNumber": 150,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100927,
+          "resourceId": 20,
+          "text": "No partner has He. And this I have been commanded, and I am the first [among you] of the Muslims.\"<sup foot_note=227693>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747665,
+          "resourceId": 109,
+          "text": "他绝无伙伴，我只奉到这个命令，我是首先顺服的人。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 953,
+      "verseNumber": 164,
+      "verseKey": "6:164",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 60,
+      "rukuNumber": 121,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّا وَهُوَ رَبُّ كُلِّ شَىْءٍ ۚ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+      "pageNumber": 150,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100929,
+          "resourceId": 20,
+          "text": "Say, \"Is it other than Allāh I should desire as a lord while He is the Lord of all things? And every soul earns not [blame] except against itself, and no bearer of burdens will bear the burden of another. Then to your Lord is your return, and He will inform you concerning that over which you used to differ.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747666,
+          "resourceId": 109,
+          "text": "你说：“安拉是万物的主，我能舍他而另求一个主吗？”各人犯罪，自己负责。一个负罪的人，不负别人的罪，然后，你们将来要归于你们的主，而他将把你们所争论的是非告诉你们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 954,
+      "verseNumber": 165,
+      "verseKey": "6:165",
+      "hizbNumber": 15,
+      "rubElHizbNumber": 60,
+      "rukuNumber": 121,
+      "manzilNumber": 2,
+      "sajdahNumber": null,
+      "textUthmani": "وَهُوَ ٱلَّذِى جَعَلَكُمْ خَلَـٰٓئِفَ ٱلْأَرْضِ وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ دَرَجَـٰتٍ لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ ۗ إِنَّ رَبَّكَ سَرِيعُ ٱلْعِقَابِ وَإِنَّهُۥ لَغَفُورٌ رَّحِيمٌۢ",
+      "pageNumber": 150,
+      "juzNumber": 8,
+      "translations": [
+        {
+          "id": 100930,
+          "resourceId": 20,
+          "text": "And it is He who has made you successors upon the earth and has raised some of you above others in degrees [of rank] that He may try you through what He has given you. Indeed, your Lord is swift in penalty; but indeed, He is Forgiving and Merciful.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 747667,
+          "resourceId": 109,
+          "text": "他以你们为大地的代治者，并使你们中的一部分人超越另一部分人若干级，以便他考验你们如何享受赏赐你们的恩典。你的主确是刑罚神速的，他确是至赦的，确是至慈的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

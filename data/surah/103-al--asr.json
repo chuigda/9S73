@@ -1,0 +1,96 @@
+{
+  "id": 103,
+  "nameSimple": "Al-'Asr",
+  "nameArabic": "العصر",
+  "versesCount": 3,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6177,
+      "verseNumber": 1,
+      "verseKey": "103:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 547,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " وَٱلْعَصْرِ",
+      "pageNumber": 601,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96230,
+          "resourceId": 20,
+          "text": "By time,<sup foot_note=230490>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752890,
+          "resourceId": 109,
+          "text": "以时光盟誓，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6178,
+      "verseNumber": 2,
+      "verseKey": "103:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 547,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+      "pageNumber": 601,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96232,
+          "resourceId": 20,
+          "text": "Indeed, mankind is in loss,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752891,
+          "resourceId": 109,
+          "text": "人确是在亏折之中，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6179,
+      "verseNumber": 3,
+      "verseKey": "103:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 547,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "pageNumber": 601,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96191,
+          "resourceId": 20,
+          "text": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752892,
+          "resourceId": 109,
+          "text": "惟信道而且行善，并以真理相劝，以坚忍相勉的人则不然。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

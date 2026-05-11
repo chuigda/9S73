@@ -1,0 +1,96 @@
+{
+  "id": 110,
+  "nameSimple": "An-Nasr",
+  "nameArabic": "النصر",
+  "versesCount": 3,
+  "revelationPlace": "madinah",
+  "verses": [
+    {
+      "id": 6214,
+      "verseNumber": 1,
+      "verseKey": "110:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 554,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+      "pageNumber": 603,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96344,
+          "resourceId": 20,
+          "text": "When the victory of Allāh has come and the conquest,<sup foot_note=230509>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752927,
+          "resourceId": 109,
+          "text": "当安拉的援助和胜利降临，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6215,
+      "verseNumber": 2,
+      "verseKey": "110:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 554,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+      "pageNumber": 603,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96345,
+          "resourceId": 20,
+          "text": "And you see the people entering into the religion of Allāh in multitudes,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752928,
+          "resourceId": 109,
+          "text": "当你看见众人成群结队地崇奉安拉的宗教时，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6216,
+      "verseNumber": 3,
+      "verseKey": "110:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 554,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+      "pageNumber": 603,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96346,
+          "resourceId": 20,
+          "text": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of Repentance.<sup foot_note=230510>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752929,
+          "resourceId": 109,
+          "text": "你应当赞颂你的主超绝万物，并且向他求饶，他确是至宥的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

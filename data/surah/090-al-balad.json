@@ -1,0 +1,589 @@
+{
+  "id": 90,
+  "nameSimple": "Al-Balad",
+  "nameArabic": "البلد",
+  "versesCount": 20,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6024,
+      "verseNumber": 1,
+      "verseKey": "90:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102142,
+          "resourceId": 20,
+          "text": "I swear by this city [i.e., Makkah] –",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752737,
+          "resourceId": 109,
+          "text": "我以这个地方盟誓——",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6025,
+      "verseNumber": 2,
+      "verseKey": "90:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102153,
+          "resourceId": 20,
+          "text": "And you, [O Muḥammad], are free of restriction in this city –",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752738,
+          "resourceId": 109,
+          "text": "你将在那里，不受羁束——",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6026,
+      "verseNumber": 3,
+      "verseKey": "90:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَوَالِدٍ وَمَا وَلَدَ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102155,
+          "resourceId": 20,
+          "text": "And [by] the father<sup foot_note=230412>1</sup> and that which was born [of him],",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752739,
+          "resourceId": 109,
+          "text": "我以一个父亲和他所生的子孙盟誓，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6027,
+      "verseNumber": 4,
+      "verseKey": "90:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102156,
+          "resourceId": 20,
+          "text": "We have certainly created man into hardship.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752740,
+          "resourceId": 109,
+          "text": "我确已把人创造在苦难里。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6028,
+      "verseNumber": 5,
+      "verseKey": "90:5",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102157,
+          "resourceId": 20,
+          "text": "Does he think that never will anyone overcome him?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752741,
+          "resourceId": 109,
+          "text": "他以为任何人都不能制服他吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6029,
+      "verseNumber": 6,
+      "verseKey": "90:6",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102158,
+          "resourceId": 20,
+          "text": "He says, \"I have spent wealth in abundance.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752742,
+          "resourceId": 109,
+          "text": "他说：“我花费了许多财产！”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6030,
+      "verseNumber": 7,
+      "verseKey": "90:7",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102159,
+          "resourceId": 20,
+          "text": "Does he think that no one has seen him?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752743,
+          "resourceId": 109,
+          "text": "他以为任何人都没有看见他吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6031,
+      "verseNumber": 8,
+      "verseKey": "90:8",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102160,
+          "resourceId": 20,
+          "text": "Have We not made for him two eyes?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752744,
+          "resourceId": 109,
+          "text": "难道我没有为他创造两只眼睛、",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6032,
+      "verseNumber": 9,
+      "verseKey": "90:9",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَلِسَانًا وَشَفَتَيْنِ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102161,
+          "resourceId": 20,
+          "text": "And a tongue and two lips?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752745,
+          "resourceId": 109,
+          "text": "一条舌头、两片嘴唇，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6033,
+      "verseNumber": 10,
+      "verseKey": "90:10",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102143,
+          "resourceId": 20,
+          "text": "And have shown him the two ways?<sup foot_note=230415>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752746,
+          "resourceId": 109,
+          "text": "并指示他两条明显的道路吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6034,
+      "verseNumber": 11,
+      "verseKey": "90:11",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102144,
+          "resourceId": 20,
+          "text": "But he has not broken through the difficult pass.<sup foot_note=230416>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752747,
+          "resourceId": 109,
+          "text": "他怎么不超越山径呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6035,
+      "verseNumber": 12,
+      "verseKey": "90:12",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102145,
+          "resourceId": 20,
+          "text": "And what can make you know what is [breaking through] the difficult pass?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752748,
+          "resourceId": 109,
+          "text": "你怎能知道超越山径是什么事？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6036,
+      "verseNumber": 13,
+      "verseKey": "90:13",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَكُّ رَقَبَةٍ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102146,
+          "resourceId": 20,
+          "text": "It is the freeing of a slave",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752749,
+          "resourceId": 109,
+          "text": "是释放奴隶，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6037,
+      "verseNumber": 14,
+      "verseKey": "90:14",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَوْ إِطْعَـٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102147,
+          "resourceId": 20,
+          "text": "Or feeding on a day of severe hunger",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752750,
+          "resourceId": 109,
+          "text": "或在饥荒日赈济",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6038,
+      "verseNumber": 15,
+      "verseKey": "90:15",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102148,
+          "resourceId": 20,
+          "text": "An orphan of near relationship",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752751,
+          "resourceId": 109,
+          "text": "亲戚的孤儿，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6039,
+      "verseNumber": 16,
+      "verseKey": "90:16",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102149,
+          "resourceId": 20,
+          "text": "Or a needy person in misery",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752752,
+          "resourceId": 109,
+          "text": "或困穷的贫民；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6040,
+      "verseNumber": 17,
+      "verseKey": "90:17",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102150,
+          "resourceId": 20,
+          "text": "And then being among those who believed and advised one another to patience and advised one another to compassion.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752753,
+          "resourceId": 109,
+          "text": "同时，他是一个信道而且行善，并以坚忍相勉，以慈悯相助者。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6041,
+      "verseNumber": 18,
+      "verseKey": "90:18",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102151,
+          "resourceId": 20,
+          "text": "Those are the companions of the right.<sup foot_note=230417>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752754,
+          "resourceId": 109,
+          "text": "这等人是幸福的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6042,
+      "verseNumber": 19,
+      "verseKey": "90:19",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا هُمْ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102152,
+          "resourceId": 20,
+          "text": "But they who disbelieved in Our signs - those are the companions of the left.<sup foot_note=230418>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752755,
+          "resourceId": 109,
+          "text": "不信我的迹象者，是薄命的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6043,
+      "verseNumber": 20,
+      "verseKey": "90:20",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 534,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+      "pageNumber": 594,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102154,
+          "resourceId": 20,
+          "text": "Over them will be fire closed in.<sup foot_note=230419>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752756,
+          "resourceId": 109,
+          "text": "他们将被关在火狱里。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

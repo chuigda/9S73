@@ -1,0 +1,444 @@
+{
+  "id": 91,
+  "nameSimple": "Ash-Shams",
+  "nameArabic": "الشمس",
+  "versesCount": 15,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6044,
+      "verseNumber": 1,
+      "verseKey": "91:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 535,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " وَٱلشَّمْسِ وَضُحَىٰهَا",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102175,
+          "resourceId": 20,
+          "text": "By the sun and its brightness",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752757,
+          "resourceId": 109,
+          "text": "以太阳及其光辉发誓，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6045,
+      "verseNumber": 2,
+      "verseKey": "91:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 535,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102194,
+          "resourceId": 20,
+          "text": "And [by] the moon when it follows it",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752758,
+          "resourceId": 109,
+          "text": "以追随太阳时的月亮发誓，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6046,
+      "verseNumber": 3,
+      "verseKey": "91:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 535,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102206,
+          "resourceId": 20,
+          "text": "And [by] the day when it displays it<sup foot_note=230420>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752759,
+          "resourceId": 109,
+          "text": "以揭示太阳时的白昼发誓，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6047,
+      "verseNumber": 4,
+      "verseKey": "91:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 535,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102208,
+          "resourceId": 20,
+          "text": "And [by] the night when it covers [i.e., conceals] it",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752760,
+          "resourceId": 109,
+          "text": "以笼罩太阳时的黑夜发誓，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6048,
+      "verseNumber": 5,
+      "verseKey": "91:5",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 535,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102210,
+          "resourceId": 20,
+          "text": "And [by] the sky and He who constructed it",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752761,
+          "resourceId": 109,
+          "text": "以苍穹及其建筑者发誓，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6049,
+      "verseNumber": 6,
+      "verseKey": "91:6",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 535,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102212,
+          "resourceId": 20,
+          "text": "And [by] the earth and He who spread it",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752762,
+          "resourceId": 109,
+          "text": "以大地及其铺展者发誓，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6050,
+      "verseNumber": 7,
+      "verseKey": "91:7",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 535,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102214,
+          "resourceId": 20,
+          "text": "And [by] the soul and He who proportioned it<sup foot_note=230421>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752763,
+          "resourceId": 109,
+          "text": "以灵魂及使它均衡，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6051,
+      "verseNumber": 8,
+      "verseKey": "91:8",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 535,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102216,
+          "resourceId": 20,
+          "text": "And inspired it [with discernment of] its wickedness and its righteousness,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752764,
+          "resourceId": 109,
+          "text": "并启示他善恶者发誓，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6052,
+      "verseNumber": 9,
+      "verseKey": "91:9",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 535,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102218,
+          "resourceId": 20,
+          "text": "He has succeeded who purifies it,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752765,
+          "resourceId": 109,
+          "text": "凡培养自己的性灵者，必定成功；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6053,
+      "verseNumber": 10,
+      "verseKey": "91:10",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 535,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102177,
+          "resourceId": 20,
+          "text": "And he has failed who instills it [with corruption].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752766,
+          "resourceId": 109,
+          "text": "凡戕害自己的性灵者，必定失败。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6054,
+      "verseNumber": 11,
+      "verseKey": "91:11",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 535,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102180,
+          "resourceId": 20,
+          "text": "Thamūd denied [their prophet] by reason of their transgression,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752767,
+          "resourceId": 109,
+          "text": "赛莫德人已因过分而否认真理。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6055,
+      "verseNumber": 12,
+      "verseKey": "91:12",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 535,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102182,
+          "resourceId": 20,
+          "text": "When the most wretched of them was sent forth.<sup foot_note=230426>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752768,
+          "resourceId": 109,
+          "text": "当时，他们中最薄命者忙上前来，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6056,
+      "verseNumber": 13,
+      "verseKey": "91:13",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 535,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102184,
+          "resourceId": 20,
+          "text": "And the messenger of Allāh [i.e., Ṣāliḥ] said to them, \"[Do not harm] the she-camel of Allāh or [prevent her from] her drink.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752769,
+          "resourceId": 109,
+          "text": "使者就对他们说：“你们让安拉的母驼自由饮水吧。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6057,
+      "verseNumber": 14,
+      "verseKey": "91:14",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 535,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102186,
+          "resourceId": 20,
+          "text": "But they denied him and hamstrung<sup foot_note=230427>1</sup> her. So their Lord brought down upon them destruction for their sin and made it equal [upon all of them].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752770,
+          "resourceId": 109,
+          "text": "但他们否认使者而宰杀母驼，故他们的主因他们的罪过而毁灭他们，使他们普遍受难。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6058,
+      "verseNumber": 15,
+      "verseKey": "91:15",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 535,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَا يَخَافُ عُقْبَـٰهَا",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102188,
+          "resourceId": 20,
+          "text": "And He does not fear the consequence thereof.<sup foot_note=230430>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752771,
+          "resourceId": 109,
+          "text": "他是不顾虑那灾难的后果的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1459 @@
+{
+  "id": 77,
+  "nameSimple": "Al-Mursalat",
+  "nameArabic": "المرسلات",
+  "versesCount": 50,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 5623,
+      "verseNumber": 1,
+      "verseKey": "77:1",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " وَٱلْمُرْسَلَـٰتِ عُرْفًا",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101643,
+          "resourceId": 20,
+          "text": "By those [winds] sent forth in gusts",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752336,
+          "resourceId": 109,
+          "text": "誓以奉派传达佳音，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5624,
+      "verseNumber": 2,
+      "verseKey": "77:2",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَٱلْعَـٰصِفَـٰتِ عَصْفًا",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101652,
+          "resourceId": 20,
+          "text": "And the winds that blow violently",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752337,
+          "resourceId": 109,
+          "text": "遂猛烈吹动者，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5625,
+      "verseNumber": 3,
+      "verseKey": "77:3",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلنَّـٰشِرَٰتِ نَشْرًا",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101664,
+          "resourceId": 20,
+          "text": "And [by] the winds that spread [clouds]",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752338,
+          "resourceId": 109,
+          "text": "誓以传播各物，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5626,
+      "verseNumber": 4,
+      "verseKey": "77:4",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَٱلْفَـٰرِقَـٰتِ فَرْقًا",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101676,
+          "resourceId": 20,
+          "text": "And those [angels] who bring criterion<sup foot_note=230261>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752339,
+          "resourceId": 109,
+          "text": "而使之分散，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5627,
+      "verseNumber": 5,
+      "verseKey": "77:5",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَٱلْمُلْقِيَـٰتِ ذِكْرًا",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101688,
+          "resourceId": 20,
+          "text": "And those [angels] who deliver a message",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752340,
+          "resourceId": 109,
+          "text": "乃传授教训者，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5628,
+      "verseNumber": 6,
+      "verseKey": "77:6",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "عُذْرًا أَوْ نُذْرًا",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101691,
+          "resourceId": 20,
+          "text": "As justification or warning,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752341,
+          "resourceId": 109,
+          "text": "誓以示原谅或警告者，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5629,
+      "verseNumber": 7,
+      "verseKey": "77:7",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101693,
+          "resourceId": 20,
+          "text": "Indeed, what you are promised is to occur.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752342,
+          "resourceId": 109,
+          "text": "警告你们的事，是必定发生的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5630,
+      "verseNumber": 8,
+      "verseKey": "77:8",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101695,
+          "resourceId": 20,
+          "text": "So when the stars are obliterated",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752343,
+          "resourceId": 109,
+          "text": "当星宿黯淡的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5631,
+      "verseNumber": 9,
+      "verseKey": "77:9",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101697,
+          "resourceId": 20,
+          "text": "And when the heaven is opened",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752344,
+          "resourceId": 109,
+          "text": "当天体破裂的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5632,
+      "verseNumber": 10,
+      "verseKey": "77:10",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101644,
+          "resourceId": 20,
+          "text": "And when the mountains are blown away",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752345,
+          "resourceId": 109,
+          "text": "当山峦飞扬的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5633,
+      "verseNumber": 11,
+      "verseKey": "77:11",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101645,
+          "resourceId": 20,
+          "text": "And when the messengers' time has come...<sup foot_note=230262>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752346,
+          "resourceId": 109,
+          "text": "当众使者被定期召集的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5634,
+      "verseNumber": 12,
+      "verseKey": "77:12",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101347,
+          "resourceId": 20,
+          "text": "For what Day was it postponed?<sup foot_note=230263>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752347,
+          "resourceId": 109,
+          "text": "期限在哪日呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5635,
+      "verseNumber": 13,
+      "verseKey": "77:13",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "لِيَوْمِ ٱلْفَصْلِ",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101589,
+          "resourceId": 20,
+          "text": "For the Day of Judgement.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752348,
+          "resourceId": 109,
+          "text": "在判决之日。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5636,
+      "verseNumber": 14,
+      "verseKey": "77:14",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101646,
+          "resourceId": 20,
+          "text": "And what can make you know what is the Day of Judgement?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752349,
+          "resourceId": 109,
+          "text": "你怎能知道判决之日，是什么？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5637,
+      "verseNumber": 15,
+      "verseKey": "77:15",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101647,
+          "resourceId": 20,
+          "text": "Woe,<sup foot_note=230264>1</sup> that Day, to the deniers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752350,
+          "resourceId": 109,
+          "text": "在那日，伤哉否认真理的人们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5638,
+      "verseNumber": 16,
+      "verseKey": "77:16",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101648,
+          "resourceId": 20,
+          "text": "Did We not destroy the former peoples?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752351,
+          "resourceId": 109,
+          "text": "难道我没有毁灭先民吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5639,
+      "verseNumber": 17,
+      "verseKey": "77:17",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ثُمَّ نُتْبِعُهُمُ ٱلْـَٔاخِرِينَ",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101649,
+          "resourceId": 20,
+          "text": "Then We will follow them with the later ones.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752352,
+          "resourceId": 109,
+          "text": "然后，我使后民随他们而消灭。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5640,
+      "verseNumber": 18,
+      "verseKey": "77:18",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101650,
+          "resourceId": 20,
+          "text": "Thus do We deal with the criminals.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752353,
+          "resourceId": 109,
+          "text": "我将这样处治犯罪的人。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5641,
+      "verseNumber": 19,
+      "verseKey": "77:19",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "pageNumber": 580,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101592,
+          "resourceId": 20,
+          "text": "Woe, that Day, to the deniers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752354,
+          "resourceId": 109,
+          "text": "在那日，伤哉否认真理的人们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5642,
+      "verseNumber": 20,
+      "verseKey": "77:20",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101653,
+          "resourceId": 20,
+          "text": "Did We not create you from a liquid disdained?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752355,
+          "resourceId": 109,
+          "text": "难道我没有用薄弱的精液创造你们吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5643,
+      "verseNumber": 21,
+      "verseKey": "77:21",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَجَعَلْنَـٰهُ فِى قَرَارٍ مَّكِينٍ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101654,
+          "resourceId": 20,
+          "text": "And We placed it in a firm lodging [i.e., the womb]",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752356,
+          "resourceId": 109,
+          "text": "我把它放在一个坚固的安息之所，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5644,
+      "verseNumber": 22,
+      "verseKey": "77:22",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101655,
+          "resourceId": 20,
+          "text": "For a known extent.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752357,
+          "resourceId": 109,
+          "text": "到一个定期。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5645,
+      "verseNumber": 23,
+      "verseKey": "77:23",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَقَدَرْنَا فَنِعْمَ ٱلْقَـٰدِرُونَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101656,
+          "resourceId": 20,
+          "text": "And We determined [it], and excellent [are We] to determine.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752358,
+          "resourceId": 109,
+          "text": "我曾判定，我是善於判定的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5646,
+      "verseNumber": 24,
+      "verseKey": "77:24",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101657,
+          "resourceId": 20,
+          "text": "Woe, that Day, to the deniers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752359,
+          "resourceId": 109,
+          "text": "在那日，伤哉否认真理的人们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5647,
+      "verseNumber": 25,
+      "verseKey": "77:25",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101658,
+          "resourceId": 20,
+          "text": "Have We not made the earth a container",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752360,
+          "resourceId": 109,
+          "text": "难道我没有使大地成为包罗",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5648,
+      "verseNumber": 26,
+      "verseKey": "77:26",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَحْيَآءً وَأَمْوَٰتًا",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101659,
+          "resourceId": 20,
+          "text": "Of the living and the dead?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752361,
+          "resourceId": 109,
+          "text": "活物和死物的吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5649,
+      "verseNumber": 27,
+      "verseKey": "77:27",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَـٰمِخَـٰتٍ وَأَسْقَيْنَـٰكُم مَّآءً فُرَاتًا",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101660,
+          "resourceId": 20,
+          "text": "And We placed therein lofty, firmly set mountains and have given you to drink sweet water.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752362,
+          "resourceId": 109,
+          "text": "我曾在大地上，安置许多崇高的山峦。我曾赏赐你们甘美的饮料。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5650,
+      "verseNumber": 28,
+      "verseKey": "77:28",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101661,
+          "resourceId": 20,
+          "text": "Woe, that Day, to the deniers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752363,
+          "resourceId": 109,
+          "text": "在那日，伤哉否认真理的人们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5651,
+      "verseNumber": 29,
+      "verseKey": "77:29",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101662,
+          "resourceId": 20,
+          "text": "[They will be told], \"Proceed to that which you used to deny.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752364,
+          "resourceId": 109,
+          "text": "“你们去享受你们否认的刑罚吧！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5652,
+      "verseNumber": 30,
+      "verseKey": "77:30",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَـٰثِ شُعَبٍ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101665,
+          "resourceId": 20,
+          "text": "Proceed to a shadow [of smoke] having three columns",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752365,
+          "resourceId": 109,
+          "text": "你们去享受有三个杈的荫影吧！”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5653,
+      "verseNumber": 31,
+      "verseKey": "77:31",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101666,
+          "resourceId": 20,
+          "text": "[But having] no cool shade and availing not against the flame.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752366,
+          "resourceId": 109,
+          "text": "那荫影不是阴凉的，不能遮挡火焰的热浪。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5654,
+      "verseNumber": 32,
+      "verseKey": "77:32",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101667,
+          "resourceId": 20,
+          "text": "Indeed, it throws sparks [as huge] as a fortress,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752367,
+          "resourceId": 109,
+          "text": "那火焰喷射出宫殿般的火星，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5655,
+      "verseNumber": 33,
+      "verseKey": "77:33",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "كَأَنَّهُۥ جِمَـٰلَتٌ صُفْرٌ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101668,
+          "resourceId": 20,
+          "text": "As if they were yellowish [black] camels.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752368,
+          "resourceId": 109,
+          "text": "好像黧黑的骆驼一样。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5656,
+      "verseNumber": 34,
+      "verseKey": "77:34",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101669,
+          "resourceId": 20,
+          "text": "Woe, that Day, to the deniers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752369,
+          "resourceId": 109,
+          "text": "在那日，伤哉否认真理的人们！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5657,
+      "verseNumber": 35,
+      "verseKey": "77:35",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "هَـٰذَا يَوْمُ لَا يَنطِقُونَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101670,
+          "resourceId": 20,
+          "text": "This is a Day they will not speak,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752370,
+          "resourceId": 109,
+          "text": "这是他们不得发言之日。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5658,
+      "verseNumber": 36,
+      "verseKey": "77:36",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101671,
+          "resourceId": 20,
+          "text": "Nor will it be permitted for them to make an excuse.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752371,
+          "resourceId": 109,
+          "text": "他们不蒙许可，故不能道歉。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5659,
+      "verseNumber": 37,
+      "verseKey": "77:37",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101672,
+          "resourceId": 20,
+          "text": "Woe, that Day, to the deniers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752372,
+          "resourceId": 109,
+          "text": "在那日，伤哉否认真理的人们！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5660,
+      "verseNumber": 38,
+      "verseKey": "77:38",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَـٰكُمْ وَٱلْأَوَّلِينَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101673,
+          "resourceId": 20,
+          "text": "This is the Day of Judgement; We will have assembled you and the former peoples.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752373,
+          "resourceId": 109,
+          "text": "这是判决之日，我把你们和先民集合在一处。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5661,
+      "verseNumber": 39,
+      "verseKey": "77:39",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101674,
+          "resourceId": 20,
+          "text": "So if you have a plan, then plan against Me.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752374,
+          "resourceId": 109,
+          "text": "如果你们有什么计谋，你们可对我用计。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5662,
+      "verseNumber": 40,
+      "verseKey": "77:40",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 518,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101677,
+          "resourceId": 20,
+          "text": "Woe, that Day, to the deniers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752375,
+          "resourceId": 109,
+          "text": "在那日，伤哉否认真理的人们！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5663,
+      "verseNumber": 41,
+      "verseKey": "77:41",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 519,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَـٰلٍ وَعُيُونٍ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101678,
+          "resourceId": 20,
+          "text": "Indeed, the righteous will be among shades and springs",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752376,
+          "resourceId": 109,
+          "text": "敬畏的人们，必定在树荫之下，清泉之滨，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5664,
+      "verseNumber": 42,
+      "verseKey": "77:42",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 519,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101679,
+          "resourceId": 20,
+          "text": "And fruits from whatever they desire,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752377,
+          "resourceId": 109,
+          "text": "享受他们爱吃的水果，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5665,
+      "verseNumber": 43,
+      "verseKey": "77:43",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 519,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101680,
+          "resourceId": 20,
+          "text": "[Being told], \"Eat and drink in satisfaction for what you used to do.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752378,
+          "resourceId": 109,
+          "text": "将对他们说：“你们曾经行善，故你们痛快地饮食吧！”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5666,
+      "verseNumber": 44,
+      "verseKey": "77:44",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 519,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101681,
+          "resourceId": 20,
+          "text": "Indeed, We thus reward the doers of good.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752379,
+          "resourceId": 109,
+          "text": "我必定要这样报酬行善者。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5667,
+      "verseNumber": 45,
+      "verseKey": "77:45",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 519,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101682,
+          "resourceId": 20,
+          "text": "Woe, that Day, to the deniers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752380,
+          "resourceId": 109,
+          "text": "在那日，伤哉否认真理的人们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5668,
+      "verseNumber": 46,
+      "verseKey": "77:46",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 519,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101683,
+          "resourceId": 20,
+          "text": "[O disbelievers], eat and enjoy yourselves a little; indeed, you are criminals.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752381,
+          "resourceId": 109,
+          "text": "你们暂时吃喝享受吧！你们确是犯罪的人。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5669,
+      "verseNumber": 47,
+      "verseKey": "77:47",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 519,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101684,
+          "resourceId": 20,
+          "text": "Woe, that Day, to the deniers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752382,
+          "resourceId": 109,
+          "text": "在那日，伤哉否认真理的人们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5670,
+      "verseNumber": 48,
+      "verseKey": "77:48",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 519,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101685,
+          "resourceId": 20,
+          "text": "And when it is said to them, \"Bow [in prayer],\" they do not bow.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752383,
+          "resourceId": 109,
+          "text": "有人对他们说：你们当鞠躬。他们不肯鞠躬。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5671,
+      "verseNumber": 49,
+      "verseKey": "77:49",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 519,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101686,
+          "resourceId": 20,
+          "text": "Woe, that Day, to the deniers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752384,
+          "resourceId": 109,
+          "text": "在那日，伤哉否认真理的人们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5672,
+      "verseNumber": 50,
+      "verseKey": "77:50",
+      "hizbNumber": 58,
+      "rubElHizbNumber": 232,
+      "rukuNumber": 519,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+      "pageNumber": 581,
+      "juzNumber": 29,
+      "translations": [
+        {
+          "id": 101689,
+          "resourceId": 20,
+          "text": "Then in what statement after it [i.e., the Qur’ān] will they believe?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752385,
+          "resourceId": 109,
+          "text": "除《古兰经》外，他们要信仰什么文辞呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

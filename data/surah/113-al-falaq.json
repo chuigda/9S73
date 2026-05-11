@@ -1,0 +1,154 @@
+{
+  "id": 113,
+  "nameSimple": "Al-Falaq",
+  "nameArabic": "الفلق",
+  "versesCount": 5,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6226,
+      "verseNumber": 1,
+      "verseKey": "113:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 557,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "pageNumber": 604,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96406,
+          "resourceId": 20,
+          "text": "Say, \"I seek refuge in the Lord of daybreak",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752939,
+          "resourceId": 109,
+          "text": "你说：“我求庇于曙光的主，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6227,
+      "verseNumber": 2,
+      "verseKey": "113:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 557,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "مِن شَرِّ مَا خَلَقَ",
+      "pageNumber": 604,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96408,
+          "resourceId": 20,
+          "text": "From the evil of that which He created",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752940,
+          "resourceId": 109,
+          "text": "免遭他所创造者的毒害；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6228,
+      "verseNumber": 3,
+      "verseKey": "113:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 557,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "pageNumber": 604,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96410,
+          "resourceId": 20,
+          "text": "And from the evil of darkness when it settles",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752941,
+          "resourceId": 109,
+          "text": "免遭黑夜笼罩时的毒害；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6229,
+      "verseNumber": 4,
+      "verseKey": "113:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 557,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+      "pageNumber": 604,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96412,
+          "resourceId": 20,
+          "text": "And from the evil of the blowers in knots<sup foot_note=230517>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752942,
+          "resourceId": 109,
+          "text": "免遭吹破坚决的主意者的毒害；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6230,
+      "verseNumber": 5,
+      "verseKey": "113:5",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 557,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "pageNumber": 604,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96414,
+          "resourceId": 20,
+          "text": "And from the evil of an envier when he envies.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752943,
+          "resourceId": 109,
+          "text": "免遭嫉妒者嫉妒时的毒害。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

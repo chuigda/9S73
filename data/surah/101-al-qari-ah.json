@@ -1,0 +1,328 @@
+{
+  "id": 101,
+  "nameSimple": "Al-Qari'ah",
+  "nameArabic": "القارعة",
+  "versesCount": 11,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6158,
+      "verseNumber": 1,
+      "verseKey": "101:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 545,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " ٱلْقَارِعَةُ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96188,
+          "resourceId": 20,
+          "text": "The Striking Calamity -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752871,
+          "resourceId": 109,
+          "text": "大难，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6159,
+      "verseNumber": 2,
+      "verseKey": "101:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 545,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "مَا ٱلْقَارِعَةُ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96193,
+          "resourceId": 20,
+          "text": "What is the Striking Calamity?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752872,
+          "resourceId": 109,
+          "text": "大难是什么，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6160,
+      "verseNumber": 3,
+      "verseKey": "101:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 545,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96195,
+          "resourceId": 20,
+          "text": "And what can make you know what is the Striking Calamity?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752873,
+          "resourceId": 109,
+          "text": "你怎能知道大难是什么？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6161,
+      "verseNumber": 4,
+      "verseKey": "101:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 545,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96197,
+          "resourceId": 20,
+          "text": "It is the Day when people will be like moths, dispersed,<sup foot_note=230478>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752874,
+          "resourceId": 109,
+          "text": "在那日, 众人将似分散的飞蛾，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6162,
+      "verseNumber": 5,
+      "verseKey": "101:5",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 545,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96199,
+          "resourceId": 20,
+          "text": "And the mountains will be like wool, fluffed up.<sup foot_note=230479>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752875,
+          "resourceId": 109,
+          "text": "山岳将似疏松的采绒。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6163,
+      "verseNumber": 6,
+      "verseKey": "101:6",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 545,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96201,
+          "resourceId": 20,
+          "text": "Then as for one whose scales are heavy [with good deeds],",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752876,
+          "resourceId": 109,
+          "text": "至于善功的分量较重者，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6164,
+      "verseNumber": 7,
+      "verseKey": "101:7",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 545,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96203,
+          "resourceId": 20,
+          "text": "He will be in a pleasant life.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752877,
+          "resourceId": 109,
+          "text": "将在满意的生活中；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6165,
+      "verseNumber": 8,
+      "verseKey": "101:8",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 545,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96205,
+          "resourceId": 20,
+          "text": "But as for one whose scales are light,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752878,
+          "resourceId": 109,
+          "text": "至于善功的分量较轻者，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6166,
+      "verseNumber": 9,
+      "verseKey": "101:9",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 545,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَأُمُّهُۥ هَاوِيَةٌ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96207,
+          "resourceId": 20,
+          "text": "His refuge<sup foot_note=230480>1</sup> will be an abyss.<sup foot_note=230481>2</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752879,
+          "resourceId": 109,
+          "text": "他的归宿是深坑。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6167,
+      "verseNumber": 10,
+      "verseKey": "101:10",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 545,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96189,
+          "resourceId": 20,
+          "text": "And what can make you know what that is?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752880,
+          "resourceId": 109,
+          "text": "你怎能知道深坑里有什么？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6168,
+      "verseNumber": 11,
+      "verseKey": "101:11",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 545,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "نَارٌ حَامِيَةٌۢ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96190,
+          "resourceId": 20,
+          "text": "It is a Fire, intensely hot.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752881,
+          "resourceId": 109,
+          "text": "有烈火。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

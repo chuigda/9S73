@@ -1,0 +1,618 @@
+{
+  "id": 92,
+  "nameSimple": "Al-Layl",
+  "nameArabic": "الليل",
+  "versesCount": 21,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6059,
+      "verseNumber": 1,
+      "verseKey": "92:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102222,
+          "resourceId": 20,
+          "text": "By the night when it covers<sup foot_note=230431>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752772,
+          "resourceId": 109,
+          "text": "以笼罩时的黑夜发誓，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6060,
+      "verseNumber": 2,
+      "verseKey": "92:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102234,
+          "resourceId": 20,
+          "text": "And [by] the day when it appears",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752773,
+          "resourceId": 109,
+          "text": "以显著时的白昼发誓，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6061,
+      "verseNumber": 3,
+      "verseKey": "92:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102238,
+          "resourceId": 20,
+          "text": "And [by] He who created the male and female,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752774,
+          "resourceId": 109,
+          "text": "以创造男性和女性的主发誓，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6062,
+      "verseNumber": 4,
+      "verseKey": "92:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102240,
+          "resourceId": 20,
+          "text": "Indeed, your efforts are diverse.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752775,
+          "resourceId": 109,
+          "text": "你们的行为，确是不同的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6063,
+      "verseNumber": 5,
+      "verseKey": "92:5",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102242,
+          "resourceId": 20,
+          "text": "As for he who gives and fears Allāh",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752776,
+          "resourceId": 109,
+          "text": "至于赈济贫民，敬畏安拉，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6064,
+      "verseNumber": 6,
+      "verseKey": "92:6",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَصَدَّقَ بِٱلْحُسْنَىٰ",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102244,
+          "resourceId": 20,
+          "text": "And believes in the best [reward].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752777,
+          "resourceId": 109,
+          "text": "且承认至善者，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6065,
+      "verseNumber": 7,
+      "verseKey": "92:7",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102246,
+          "resourceId": 20,
+          "text": "We will ease him toward ease.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752778,
+          "resourceId": 109,
+          "text": "我将使他易于达到最易的结局。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6066,
+      "verseNumber": 8,
+      "verseKey": "92:8",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102248,
+          "resourceId": 20,
+          "text": "But as for he who withholds and considers himself free of need",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752779,
+          "resourceId": 109,
+          "text": "至于吝惜钱财，自谓无求，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6067,
+      "verseNumber": 9,
+      "verseKey": "92:9",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَكَذَّبَ بِٱلْحُسْنَىٰ",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102250,
+          "resourceId": 20,
+          "text": "And denies the best [reward],",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752780,
+          "resourceId": 109,
+          "text": "且否认至善者，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6068,
+      "verseNumber": 10,
+      "verseKey": "92:10",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102223,
+          "resourceId": 20,
+          "text": "We will ease him toward difficulty.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752781,
+          "resourceId": 109,
+          "text": "我将使他易于达到最难的结局。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6069,
+      "verseNumber": 11,
+      "verseKey": "92:11",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102224,
+          "resourceId": 20,
+          "text": "And what will his wealth avail him when he falls?<sup foot_note=230432>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752782,
+          "resourceId": 109,
+          "text": "当他沦亡的时候，他的财产于他有什么裨益呢！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6070,
+      "verseNumber": 12,
+      "verseKey": "92:12",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102225,
+          "resourceId": 20,
+          "text": "Indeed, [incumbent] upon Us is guidance.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752783,
+          "resourceId": 109,
+          "text": "我确有指导的责任，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6071,
+      "verseNumber": 13,
+      "verseKey": "92:13",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102226,
+          "resourceId": 20,
+          "text": "And indeed, to us belongs the Hereafter and the first [life].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752784,
+          "resourceId": 109,
+          "text": "我确有后世和今世的主权。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6072,
+      "verseNumber": 14,
+      "verseKey": "92:14",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+      "pageNumber": 595,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102227,
+          "resourceId": 20,
+          "text": "So I have warned you of a Fire which is blazing.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752785,
+          "resourceId": 109,
+          "text": "故我警告你们一种发焰的火，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6073,
+      "verseNumber": 15,
+      "verseKey": "92:15",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102228,
+          "resourceId": 20,
+          "text": "None will [enter to] burn therein except the most wretched one",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752786,
+          "resourceId": 109,
+          "text": "唯薄命者坠入其中，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6074,
+      "verseNumber": 16,
+      "verseKey": "92:16",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102229,
+          "resourceId": 20,
+          "text": "Who had denied and turned away.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752787,
+          "resourceId": 109,
+          "text": "他否认真理，而背弃之。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6075,
+      "verseNumber": 17,
+      "verseKey": "92:17",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَسَيُجَنَّبُهَا ٱلْأَتْقَى",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102230,
+          "resourceId": 20,
+          "text": "But the righteous one will avoid it –",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752788,
+          "resourceId": 109,
+          "text": "敬畏者，得免于火刑。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6076,
+      "verseNumber": 18,
+      "verseKey": "92:18",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102231,
+          "resourceId": 20,
+          "text": "[He] who gives [from] his wealth to purify himself",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752789,
+          "resourceId": 109,
+          "text": "他虔诚地施舍他的财产，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6077,
+      "verseNumber": 19,
+      "verseKey": "92:19",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102232,
+          "resourceId": 20,
+          "text": "And not [giving] for anyone who has [done him] a favor to be rewarded<sup foot_note=230433>1</sup> –",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752790,
+          "resourceId": 109,
+          "text": "他没有受过任何人的应报的恩德，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6078,
+      "verseNumber": 20,
+      "verseKey": "92:20",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102235,
+          "resourceId": 20,
+          "text": "But only seeking the face [i.e., acceptance] of his Lord, Most High.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752791,
+          "resourceId": 109,
+          "text": "但他施舍只是为了求他的至高主的尊容，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6079,
+      "verseNumber": 21,
+      "verseKey": "92:21",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 536,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَسَوْفَ يَرْضَىٰ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102236,
+          "resourceId": 20,
+          "text": "And he is going to be satisfied.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752792,
+          "resourceId": 109,
+          "text": "他自己将来必定喜悦。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": 106,
+  "nameSimple": "Quraysh",
+  "nameArabic": "قريش",
+  "versesCount": 4,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6194,
+      "verseNumber": 1,
+      "verseKey": "106:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 550,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " لِإِيلَـٰفِ قُرَيْشٍ",
+      "pageNumber": 602,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96279,
+          "resourceId": 20,
+          "text": "For the accustomed security of the Quraysh<sup foot_note=230502>1</sup> -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752907,
+          "resourceId": 109,
+          "text": "因为保护古来氏，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6195,
+      "verseNumber": 2,
+      "verseKey": "106:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 550,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+      "pageNumber": 602,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96281,
+          "resourceId": 20,
+          "text": "Their accustomed security [in] the caravan of winter and summer<sup foot_note=230503>1</sup> -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752908,
+          "resourceId": 109,
+          "text": "因为在冬季和夏季的旅行中保护他们，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6196,
+      "verseNumber": 3,
+      "verseKey": "106:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 550,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+      "pageNumber": 602,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96283,
+          "resourceId": 20,
+          "text": "Let them worship the Lord of this House,<sup foot_note=230504>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752909,
+          "resourceId": 109,
+          "text": "故教他们崇敬这天房的主，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6197,
+      "verseNumber": 4,
+      "verseKey": "106:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 550,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+      "pageNumber": 602,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96286,
+          "resourceId": 20,
+          "text": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752910,
+          "resourceId": 109,
+          "text": "他曾为饥荒而赈济他们，曾为恐怖而保佑他们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

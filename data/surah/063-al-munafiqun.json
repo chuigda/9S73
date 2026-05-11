@@ -1,0 +1,328 @@
+{
+  "id": 63,
+  "nameSimple": "Al-Munafiqun",
+  "nameArabic": "المنافقون",
+  "versesCount": 11,
+  "revelationPlace": "madinah",
+  "verses": [
+    {
+      "id": 5189,
+      "verseNumber": 1,
+      "verseKey": "63:1",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 221,
+      "rukuNumber": 490,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " إِذَا جَآءَكَ ٱلْمُنَـٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَـٰفِقِينَ لَكَـٰذِبُونَ",
+      "pageNumber": 554,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100962,
+          "resourceId": 20,
+          "text": "When the hypocrites come to you, [O Muḥammad], they say, \"We testify that you are the Messenger of Allāh.\" And Allāh knows that you are His Messenger, and Allāh testifies that the hypocrites are liars.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751902,
+          "resourceId": 109,
+          "text": "当伪信者来见你的时候，他们说：“我们作证，你确是安拉的使者。”安拉知道你确是他的使者，安拉作证，伪信的人们确是说谎的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5190,
+      "verseNumber": 2,
+      "verseKey": "63:2",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 221,
+      "rukuNumber": 490,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱتَّخَذُوٓا۟ أَيْمَـٰنَهُمْ جُنَّةً فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "pageNumber": 554,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100834,
+          "resourceId": 20,
+          "text": "They have taken their oaths as a cover, so they averted [people] from the way of Allāh. Indeed, it was evil that they were doing.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751903,
+          "resourceId": 109,
+          "text": "他们以自己的盟誓为护符，妨碍主道。他们的行为真恶劣！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5191,
+      "verseNumber": 3,
+      "verseKey": "63:3",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 221,
+      "rukuNumber": 490,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ذَٰلِكَ بِأَنَّهُمْ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+      "pageNumber": 554,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100807,
+          "resourceId": 20,
+          "text": "That is because they believed, and then they disbelieved; so their hearts were sealed over, and they do not understand.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751904,
+          "resourceId": 109,
+          "text": "这是因为他们口称信道，心实不信，他们的心就封闭了，故他们不是明理的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5192,
+      "verseNumber": 4,
+      "verseKey": "63:4",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 490,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ ۚ قَـٰتَلَهُمُ ٱللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ",
+      "pageNumber": 554,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100968,
+          "resourceId": 20,
+          "text": "And when you see them, their forms please you, and if they speak, you listen to their speech. [They are] as if they were pieces of wood propped up<sup foot_note=230045>1</sup> - they think that every shout is against them. They are the enemy, so beware of them. May Allāh destroy them; how are they deluded?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751905,
+          "resourceId": 109,
+          "text": "当你看见他们的时候，他们的体格，将使你赞叹。如果他们说话，你就静听他们的言辞，他们好像木偶样，他们以为一切呐喊，都是对他们而发的。他们确是敌人，故你当谨防他们。愿安拉诛灭他们！他们是如何悖谬的呢！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5193,
+      "verseNumber": 5,
+      "verseKey": "63:5",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 490,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ",
+      "pageNumber": 555,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100970,
+          "resourceId": 20,
+          "text": "And when it is said to them, \"Come, the Messenger of Allāh will ask forgiveness for you,\" they turn their heads aside and you see them evading while they are arrogant.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751906,
+          "resourceId": 109,
+          "text": "有人对他们说：“你们来道歉吧，使者将为你们求饶。”他们却掉头不顾，你看他们妄自尊大，不肯道歉。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5194,
+      "verseNumber": 6,
+      "verseKey": "63:6",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 490,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ",
+      "pageNumber": 555,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100972,
+          "resourceId": 20,
+          "text": "It is all the same for them whether you ask forgiveness for them or do not ask forgiveness for them; never will Allāh forgive them. Indeed, Allāh does not guide the defiantly disobedient people.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751907,
+          "resourceId": 109,
+          "text": "你为他们求饶与否，这在他们是一样的。安拉绝不赦宥他们，安拉必定不引导悖逆的民众。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5195,
+      "verseNumber": 7,
+      "verseKey": "63:7",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 490,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟ ۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَفْقَهُونَ",
+      "pageNumber": 555,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100974,
+          "resourceId": 20,
+          "text": "They are the ones who say, \"Do not spend on those who are with the Messenger of Allāh until they disband.\" And to Allāh belong the depositories of the heavens and the earth, but the hypocrites do not understand.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751908,
+          "resourceId": 109,
+          "text": "他们说：“你们不要供给使者左右的人，以便他们离散。”天地的库藏，只是安拉，伪信的人们却不明理。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5196,
+      "verseNumber": 8,
+      "verseKey": "63:8",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 490,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَعْلَمُونَ",
+      "pageNumber": 555,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100976,
+          "resourceId": 20,
+          "text": "They say, \"If we return to al-Madīnah, the more honored [for power] will surely expel therefrom the more humble.\" And to Allāh belongs [all] honor, and to His Messenger, and to the believers, but the hypocrites do not know.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751909,
+          "resourceId": 109,
+          "text": "他们说：“如果我们返回麦地那，尊荣者必将卑贱者驱逐出城。”尊荣只是安拉和使者以及信士们的，而伪信的人们却不知道！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5197,
+      "verseNumber": 9,
+      "verseKey": "63:9",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 491,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَـٰدُكُمْ عَن ذِكْرِ ٱللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+      "pageNumber": 555,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100978,
+          "resourceId": 20,
+          "text": "O you who have believed, let not your wealth and your children divert you from the remembrance of Allāh. And whoever does that - then those are the losers.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751910,
+          "resourceId": 109,
+          "text": "信道的人们啊！你们的财产和子女，不要使你们忽略了记念安拉。谁那样做，谁是亏折的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5198,
+      "verseNumber": 10,
+      "verseKey": "63:10",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 491,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَأَنفِقُوا۟ مِن مَّا رَزَقْنَـٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّـٰلِحِينَ",
+      "pageNumber": 555,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100963,
+          "resourceId": 20,
+          "text": "And spend [in the way of Allāh] from what We have provided you before death approaches one of you and he says, \"My Lord, if only You would delay me for a brief term so I would give charity and be of the righteous.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751911,
+          "resourceId": 109,
+          "text": "在死亡降临之前，你们当分舍我赐予你们的，否则，将来人们说：“我的主啊！你为何不让我延迟到一个临近的定期，以便我有所施舍，而成为善人呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5199,
+      "verseNumber": 11,
+      "verseKey": "63:11",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 491,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَن يُؤَخِّرَ ٱللَّهُ نَفْسًا إِذَا جَآءَ أَجَلُهَا ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "pageNumber": 555,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100964,
+          "resourceId": 20,
+          "text": "But never will Allāh delay a soul when its time has come. And Allāh is Aware of what you do.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751912,
+          "resourceId": 109,
+          "text": "但寿限一到，安拉绝不让任何人延迟，安拉是彻知你们的行为的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

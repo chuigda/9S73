@@ -1,0 +1,850 @@
+{
+  "id": 81,
+  "nameSimple": "At-Takwir",
+  "nameArabic": "التكوير",
+  "versesCount": 29,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 5801,
+      "verseNumber": 1,
+      "verseKey": "81:1",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " إِذَا ٱلشَّمْسُ كُوِّرَتْ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101848,
+          "resourceId": 20,
+          "text": "When the sun is wrapped up [in darkness]",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752514,
+          "resourceId": 109,
+          "text": "当太阳暗淡的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5802,
+      "verseNumber": 2,
+      "verseKey": "81:2",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101860,
+          "resourceId": 20,
+          "text": "And when the stars fall, dispersing,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752515,
+          "resourceId": 109,
+          "text": "当星宿零落的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5803,
+      "verseNumber": 3,
+      "verseKey": "81:3",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا ٱلْجِبَالُ سُيِّرَتْ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101872,
+          "resourceId": 20,
+          "text": "And when the mountains are removed",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752516,
+          "resourceId": 109,
+          "text": "当山峦崩溃的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5804,
+      "verseNumber": 4,
+      "verseKey": "81:4",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا ٱلْعِشَارُ عُطِّلَتْ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101873,
+          "resourceId": 20,
+          "text": "And when full-term she-camels<sup foot_note=230340>1</sup> are neglected",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752517,
+          "resourceId": 109,
+          "text": "当孕驼被抛弃的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5805,
+      "verseNumber": 5,
+      "verseKey": "81:5",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا ٱلْوُحُوشُ حُشِرَتْ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101875,
+          "resourceId": 20,
+          "text": "And when the wild beasts are gathered",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752518,
+          "resourceId": 109,
+          "text": "当野兽被集合的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5806,
+      "verseNumber": 6,
+      "verseKey": "81:6",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا ٱلْبِحَارُ سُجِّرَتْ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101877,
+          "resourceId": 20,
+          "text": "And when the seas are filled with flame<sup foot_note=230341>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752519,
+          "resourceId": 109,
+          "text": "当海洋澎湃的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5807,
+      "verseNumber": 7,
+      "verseKey": "81:7",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101879,
+          "resourceId": 20,
+          "text": "And when the souls are paired<sup foot_note=230342>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752520,
+          "resourceId": 109,
+          "text": "当灵魂被配合的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5808,
+      "verseNumber": 8,
+      "verseKey": "81:8",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101881,
+          "resourceId": 20,
+          "text": "And when the girl [who was] buried alive is asked",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752521,
+          "resourceId": 109,
+          "text": "当被活埋的女孩被询问的时候：",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5809,
+      "verseNumber": 9,
+      "verseKey": "81:9",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "بِأَىِّ ذَنۢبٍ قُتِلَتْ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101883,
+          "resourceId": 20,
+          "text": "For what sin she was killed",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752522,
+          "resourceId": 109,
+          "text": "她为什么罪过而遭杀害呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5810,
+      "verseNumber": 10,
+      "verseKey": "81:10",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا ٱلصُّحُفُ نُشِرَتْ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101849,
+          "resourceId": 20,
+          "text": "And when the pages<sup foot_note=230343>1</sup> are spread [i.e., made public]",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752523,
+          "resourceId": 109,
+          "text": "当功过薄被展开的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5811,
+      "verseNumber": 11,
+      "verseKey": "81:11",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101850,
+          "resourceId": 20,
+          "text": "And when the sky is stripped away",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752524,
+          "resourceId": 109,
+          "text": "当天皮被揭去的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5812,
+      "verseNumber": 12,
+      "verseKey": "81:12",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101851,
+          "resourceId": 20,
+          "text": "And when Hellfire is set ablaze",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752525,
+          "resourceId": 109,
+          "text": "当火狱被燃着的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5813,
+      "verseNumber": 13,
+      "verseKey": "81:13",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101852,
+          "resourceId": 20,
+          "text": "And when Paradise is brought near,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752526,
+          "resourceId": 109,
+          "text": "当乐园被送近的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5814,
+      "verseNumber": 14,
+      "verseKey": "81:14",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "عَلِمَتْ نَفْسٌ مَّآ أَحْضَرَتْ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101853,
+          "resourceId": 20,
+          "text": "A soul will [then] know what it has brought [with it].<sup foot_note=230344>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752527,
+          "resourceId": 109,
+          "text": "每个人都知道他所作过的善恶。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5815,
+      "verseNumber": 15,
+      "verseKey": "81:15",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَلَآ أُقْسِمُ بِٱلْخُنَّسِ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101854,
+          "resourceId": 20,
+          "text": "So I swear by the retreating stars -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752528,
+          "resourceId": 109,
+          "text": "我誓以运行的众星--",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5816,
+      "verseNumber": 16,
+      "verseKey": "81:16",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱلْجَوَارِ ٱلْكُنَّسِ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101855,
+          "resourceId": 20,
+          "text": "Those that run [their courses] and disappear [i.e., set]",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752529,
+          "resourceId": 109,
+          "text": "没落的行星，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5817,
+      "verseNumber": 17,
+      "verseKey": "81:17",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلَّيْلِ إِذَا عَسْعَسَ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101856,
+          "resourceId": 20,
+          "text": "And by the night as it closes in<sup foot_note=230345>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752530,
+          "resourceId": 109,
+          "text": "和逝去时的黑夜，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5818,
+      "verseNumber": 18,
+      "verseKey": "81:18",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلصُّبْحِ إِذَا تَنَفَّسَ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101857,
+          "resourceId": 20,
+          "text": "And by the dawn when it breathes [i.e., stirs]",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752531,
+          "resourceId": 109,
+          "text": "照耀时的早晨，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5819,
+      "verseNumber": 19,
+      "verseKey": "81:19",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101858,
+          "resourceId": 20,
+          "text": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel]",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752532,
+          "resourceId": 109,
+          "text": "这确是一个尊贵的使者的言辞，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5820,
+      "verseNumber": 20,
+      "verseKey": "81:20",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101861,
+          "resourceId": 20,
+          "text": "[Who is] possessed of power and with the Owner of the Throne, secure [in position],",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752533,
+          "resourceId": 109,
+          "text": "他在宝座的主那里，是有权力的，是有地位的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5821,
+      "verseNumber": 21,
+      "verseKey": "81:21",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "مُّطَاعٍ ثَمَّ أَمِينٍ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101862,
+          "resourceId": 20,
+          "text": "Obeyed there [in the heavens] and trustworthy.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752534,
+          "resourceId": 109,
+          "text": "是众望所归，而且忠於职守的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5822,
+      "verseNumber": 22,
+      "verseKey": "81:22",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101863,
+          "resourceId": 20,
+          "text": "And your companion [i.e., Prophet Muḥammad (ﷺ) ] is not [at all] mad.<sup foot_note=230346>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752535,
+          "resourceId": 109,
+          "text": "你们的朋友，不是一个疯人，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5823,
+      "verseNumber": 23,
+      "verseKey": "81:23",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَقَدْ رَءَاهُ بِٱلْأُفُقِ ٱلْمُبِينِ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101864,
+          "resourceId": 20,
+          "text": "And he has already seen him [i.e., Gabriel] in the clear horizon.<sup foot_note=230347>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752536,
+          "resourceId": 109,
+          "text": "他确已看见那个天使在明显的天边，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5824,
+      "verseNumber": 24,
+      "verseKey": "81:24",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَا هُوَ عَلَى ٱلْغَيْبِ بِضَنِينٍ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101865,
+          "resourceId": 20,
+          "text": "And he [i.e., Muḥammad (ﷺ)] is not a withholder of [knowledge of] the unseen.<sup foot_note=230348>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752537,
+          "resourceId": 109,
+          "text": "他对幽玄不是吝教的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5825,
+      "verseNumber": 25,
+      "verseKey": "81:25",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَا هُوَ بِقَوْلِ شَيْطَـٰنٍ رَّجِيمٍ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101866,
+          "resourceId": 20,
+          "text": "And it [i.e., the Qur’ān] is not the word of a devil, expelled [from the heavens].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752538,
+          "resourceId": 109,
+          "text": "这不是被放逐的恶魔的言辞，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5826,
+      "verseNumber": 26,
+      "verseKey": "81:26",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَأَيْنَ تَذْهَبُونَ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101867,
+          "resourceId": 20,
+          "text": "So where are you going?<sup foot_note=230349>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752539,
+          "resourceId": 109,
+          "text": "你们将往哪里去呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5827,
+      "verseNumber": 27,
+      "verseKey": "81:27",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101868,
+          "resourceId": 20,
+          "text": "It is not except a reminder to the worlds",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752540,
+          "resourceId": 109,
+          "text": "这只是对于众世界的教诲——",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5828,
+      "verseNumber": 28,
+      "verseKey": "81:28",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "لِمَن شَآءَ مِنكُمْ أَن يَسْتَقِيمَ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101869,
+          "resourceId": 20,
+          "text": "For whoever wills among you to take a right course.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752541,
+          "resourceId": 109,
+          "text": "对於你们中欲循规蹈矩者的教诲，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5829,
+      "verseNumber": 29,
+      "verseKey": "81:29",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 234,
+      "rukuNumber": 525,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ",
+      "pageNumber": 586,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101870,
+          "resourceId": 20,
+          "text": "And you do not will except that Allāh wills - Lord of the worlds.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752542,
+          "resourceId": 109,
+          "text": "你们不欲循规蹈矩，除非安拉——众世界的主——意欲的时候。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

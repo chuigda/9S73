@@ -1,0 +1,763 @@
+{
+  "id": 88,
+  "nameSimple": "Al-Ghashiyah",
+  "nameArabic": "الغاشية",
+  "versesCount": 26,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 5968,
+      "verseNumber": 1,
+      "verseKey": "88:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102091,
+          "resourceId": 20,
+          "text": "Has there reached you the report of the Overwhelming [event]?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752681,
+          "resourceId": 109,
+          "text": "大灾的消息，确已降临你了，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5969,
+      "verseNumber": 2,
+      "verseKey": "88:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وُجُوهٌ يَوْمَئِذٍ خَـٰشِعَةٌ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102102,
+          "resourceId": 20,
+          "text": "[Some] faces, that Day, will be humbled,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752682,
+          "resourceId": 109,
+          "text": "在那日，将有许多人是恭敬的、",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5970,
+      "verseNumber": 3,
+      "verseKey": "88:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "عَامِلَةٌ نَّاصِبَةٌ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102110,
+          "resourceId": 20,
+          "text": "Working [hard] and exhausted.<sup foot_note=230392>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752683,
+          "resourceId": 109,
+          "text": "劳动的、辛苦的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5971,
+      "verseNumber": 4,
+      "verseKey": "88:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "تَصْلَىٰ نَارًا حَامِيَةً",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102111,
+          "resourceId": 20,
+          "text": "They will [enter to] burn in an intensely hot Fire.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752684,
+          "resourceId": 109,
+          "text": "他们将入烈火，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5972,
+      "verseNumber": 5,
+      "verseKey": "88:5",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102112,
+          "resourceId": 20,
+          "text": "They will be given drink from a boiling spring.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752685,
+          "resourceId": 109,
+          "text": "将饮沸泉，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5973,
+      "verseNumber": 6,
+      "verseKey": "88:6",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102113,
+          "resourceId": 20,
+          "text": "For them there will be no food except from a poisonous, thorny plant",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752686,
+          "resourceId": 109,
+          "text": "他们没有食物，但有荆棘，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5974,
+      "verseNumber": 7,
+      "verseKey": "88:7",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102114,
+          "resourceId": 20,
+          "text": "Which neither nourishes nor avails against hunger.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752687,
+          "resourceId": 109,
+          "text": "既不肥人，又不能充饥；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5975,
+      "verseNumber": 8,
+      "verseKey": "88:8",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102115,
+          "resourceId": 20,
+          "text": "[Other] faces, that Day, will show pleasure.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752688,
+          "resourceId": 109,
+          "text": "在那日，将有许多人，是享福的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5976,
+      "verseNumber": 9,
+      "verseKey": "88:9",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "لِّسَعْيِهَا رَاضِيَةٌ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102116,
+          "resourceId": 20,
+          "text": "With their effort [they are] satisfied",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752689,
+          "resourceId": 109,
+          "text": "是为其劳绩而愉快的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5977,
+      "verseNumber": 10,
+      "verseKey": "88:10",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فِى جَنَّةٍ عَالِيَةٍ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102092,
+          "resourceId": 20,
+          "text": "In an elevated garden,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752690,
+          "resourceId": 109,
+          "text": "他们将在崇高的乐园中，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5978,
+      "verseNumber": 11,
+      "verseKey": "88:11",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "لَّا تَسْمَعُ فِيهَا لَـٰغِيَةً",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102093,
+          "resourceId": 20,
+          "text": "Wherein they will hear no unsuitable speech.<sup foot_note=230393>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752691,
+          "resourceId": 109,
+          "text": "听不到恶言，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5979,
+      "verseNumber": 12,
+      "verseKey": "88:12",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فِيهَا عَيْنٌ جَارِيَةٌ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102094,
+          "resourceId": 20,
+          "text": "Within it is a flowing spring.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752692,
+          "resourceId": 109,
+          "text": "里面有流泉，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5980,
+      "verseNumber": 13,
+      "verseKey": "88:13",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102095,
+          "resourceId": 20,
+          "text": "Within it are couches raised high",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752693,
+          "resourceId": 109,
+          "text": "里面有高榻，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5981,
+      "verseNumber": 14,
+      "verseKey": "88:14",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102096,
+          "resourceId": 20,
+          "text": "And cups put in place",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752694,
+          "resourceId": 109,
+          "text": "有陈设着的杯盏，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5982,
+      "verseNumber": 15,
+      "verseKey": "88:15",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَنَمَارِقُ مَصْفُوفَةٌ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102097,
+          "resourceId": 20,
+          "text": "And cushions lined up",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752695,
+          "resourceId": 109,
+          "text": "有排列着的靠枕，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5983,
+      "verseNumber": 16,
+      "verseKey": "88:16",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102098,
+          "resourceId": 20,
+          "text": "And carpets spread around.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752696,
+          "resourceId": 109,
+          "text": "有铺展开的绒毯。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5984,
+      "verseNumber": 17,
+      "verseKey": "88:17",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102099,
+          "resourceId": 20,
+          "text": "Then do they not look at the camels - how they are created?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752697,
+          "resourceId": 109,
+          "text": "难道他们不观察吗？骆驼是怎样造成的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5985,
+      "verseNumber": 18,
+      "verseKey": "88:18",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102100,
+          "resourceId": 20,
+          "text": "And at the sky - how it is raised?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752698,
+          "resourceId": 109,
+          "text": "天是怎样被升高的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5986,
+      "verseNumber": 19,
+      "verseKey": "88:19",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102101,
+          "resourceId": 20,
+          "text": "And at the mountains - how they are erected?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752699,
+          "resourceId": 109,
+          "text": "山峦是怎样被竖立起的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5987,
+      "verseNumber": 20,
+      "verseKey": "88:20",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102103,
+          "resourceId": 20,
+          "text": "And at the earth - how it is spread out?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752700,
+          "resourceId": 109,
+          "text": "大地是怎样被展开的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5988,
+      "verseNumber": 21,
+      "verseKey": "88:21",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102104,
+          "resourceId": 20,
+          "text": "So remind, [O Muḥammad]; you are only a reminder.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752701,
+          "resourceId": 109,
+          "text": "你当教诲，你只是教诲（他们的），",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5989,
+      "verseNumber": 22,
+      "verseKey": "88:22",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102105,
+          "resourceId": 20,
+          "text": "You are not over them a controller.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752702,
+          "resourceId": 109,
+          "text": "你绝不是监察他们的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5990,
+      "verseNumber": 23,
+      "verseKey": "88:23",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102106,
+          "resourceId": 20,
+          "text": "However, he who turns away and disbelieves –",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752703,
+          "resourceId": 109,
+          "text": "但谁转身离去而且不信教，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5991,
+      "verseNumber": 24,
+      "verseKey": "88:24",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102107,
+          "resourceId": 20,
+          "text": "Then Allāh will punish him with the greatest punishment.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752704,
+          "resourceId": 109,
+          "text": "安拉将以最大的刑罚惩治谁。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5992,
+      "verseNumber": 25,
+      "verseKey": "88:25",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102108,
+          "resourceId": 20,
+          "text": "Indeed, to Us is their return.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752705,
+          "resourceId": 109,
+          "text": "他们必定只归于我，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5993,
+      "verseNumber": 26,
+      "verseKey": "88:26",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 237,
+      "rukuNumber": 532,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+      "pageNumber": 592,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102109,
+          "resourceId": 20,
+          "text": "Then indeed, upon Us is their account.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752706,
+          "resourceId": 109,
+          "text": "他们的稽核，必定由我负责。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

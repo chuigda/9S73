@@ -1,14 +1,20 @@
 import { QuranClient, Language } from '@quranjs/api'
 import { readFile, writeFile, mkdir } from 'fs/promises'
 import { existsSync } from 'fs'
-import { join } from 'path'
+import { join, dirname } from 'path'
+import { fileURLToPath } from 'url'
 
-const CLIENT_ID = process.env.QURAN_API_ID
-const CLIENT_SECRET = process.env.QURAN_API_SECRET
+const __dirname = dirname(fileURLToPath(import.meta.url))
+const ROOT = join(__dirname, '..')
+
+const config = JSON.parse(await readFile(join(ROOT, 'config.json'), 'utf-8'))
+console.info(config)
+
+const { clientId, clientSecret } = config.quranDotCom
 
 const PER_PAGE = 50
-const OUTPUT_DIR = "output"
-const TRANSLATIONS = [20, 56] // Sahih International, Chinese (Ma Jian)
+const OUTPUT_DIR = "data/surah"
+const TRANSLATIONS = [20, 109] // Sahih International, Chinese (Muhammad Makin)
 
 const VERSE_FIELDS = {
     chapterId: false,
@@ -90,44 +96,39 @@ if (resumeFrom !== null) {
     startChapter = resumeFrom
 }
 
-// Read chapters.json
-// this is fetched ahead of time, using `client.client.chapters.findAll()`
-const chapters = JSON.parse(await readFile('chapters.json', 'utf-8'))
+// Read chapters metadata
+const chapters = JSON.parse(await readFile(join(ROOT, 'data', 'metadata', 'chapters.json'), 'utf-8'))
 
 // Ensure output dir
 if (!existsSync(OUTPUT_DIR)) {
     await mkdir(OUTPUT_DIR, { recursive: true })
 }
 
-const client = new QuranClient({
-    clientId: CLIENT_ID,
-    clientSecret: CLIENT_SECRET,
-    defaults: { language: Language.CHINESE },
-})
+const client = new QuranClient({ clientId, clientSecret })
 
 const selected = chapters.filter(c => c.id >= startChapter && c.id <= endChapter)
 console.log(`准备爬取第 ${startChapter}–${endChapter} 章，共 ${selected.length} 章\n`)
 
 for (const chapter of selected) {
-    const outFile = join(OUTPUT_DIR, `${String(chapter.id).padStart(3, '0')}-${chapter.nameSimple.toLowerCase().replace(/[^a-z0-9]/g, '-')}.json`)
+    const outFile = join(OUTPUT_DIR, `${String(chapter.id).padStart(3, '0')}-${chapter.name_simple.toLowerCase().replace(/[^a-z0-9]/g, '-')}.json`)
 
     // Skip if resume mode and file exists
     if (resumeFrom !== null && existsSync(outFile)) {
-        console.log(`[${chapter.id}/114] ${chapter.nameSimple} — 已存在，跳过`)
+        console.log(`[${chapter.id}/114] ${chapter.name_simple} — 已存在，跳过`)
         continue
     }
 
-    process.stdout.write(`[${chapter.id}/114] ${chapter.nameSimple} (${chapter.versesCount} 节)`)
+    process.stdout.write(`[${chapter.id}/114] ${chapter.name_simple} (${chapter.verses_count} 节)`)
 
     try {
-        const verses = await fetchChapterVerses(client, chapter.id, chapter.versesCount)
+        const verses = await fetchChapterVerses(client, chapter.id, chapter.verses_count)
 
         const result = {
             id: chapter.id,
-            nameSimple: chapter.nameSimple,
-            nameArabic: chapter.nameArabic,
-            versesCount: chapter.versesCount,
-            revelationPlace: chapter.revelationPlace,
+            nameSimple: chapter.name_simple,
+            nameArabic: chapter.name_arabic,
+            versesCount: chapter.verses_count,
+            revelationPlace: chapter.revelation_place,
             verses,
         }
 

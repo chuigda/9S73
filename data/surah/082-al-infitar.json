@@ -1,0 +1,560 @@
+{
+  "id": 82,
+  "nameSimple": "Al-Infitar",
+  "nameArabic": "الإنفطار",
+  "versesCount": 19,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 5830,
+      "verseNumber": 1,
+      "verseKey": "82:1",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101887,
+          "resourceId": 20,
+          "text": "When the sky breaks apart",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752543,
+          "resourceId": 109,
+          "text": "当苍穹破裂的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5831,
+      "verseNumber": 2,
+      "verseKey": "82:2",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا ٱلْكَوَاكِبُ ٱنتَثَرَتْ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101899,
+          "resourceId": 20,
+          "text": "And when the stars fall, scattering,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752544,
+          "resourceId": 109,
+          "text": "当众星飘堕的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5832,
+      "verseNumber": 3,
+      "verseKey": "82:3",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا ٱلْبِحَارُ فُجِّرَتْ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101901,
+          "resourceId": 20,
+          "text": "And when the seas are erupted",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752545,
+          "resourceId": 109,
+          "text": "当海洋混合的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5833,
+      "verseNumber": 4,
+      "verseKey": "82:4",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101903,
+          "resourceId": 20,
+          "text": "And when the [contents of] graves are scattered [i.e., exposed],",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752546,
+          "resourceId": 109,
+          "text": "当坟墓被揭开的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5834,
+      "verseNumber": 5,
+      "verseKey": "82:5",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101905,
+          "resourceId": 20,
+          "text": "A soul will [then] know what it has put forth and kept back.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752547,
+          "resourceId": 109,
+          "text": "每个人都知道自己前前后后所做的一切事情。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5835,
+      "verseNumber": 6,
+      "verseKey": "82:6",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101907,
+          "resourceId": 20,
+          "text": "O mankind, what has deceived you concerning your Lord, the Generous,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752548,
+          "resourceId": 109,
+          "text": "人啊！什么东西引诱你背离了你的仁慈的主呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5836,
+      "verseNumber": 7,
+      "verseKey": "82:7",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101909,
+          "resourceId": 20,
+          "text": "Who created you, proportioned you, and balanced you?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752549,
+          "resourceId": 109,
+          "text": "他曾创造了你，然后，使你健全，然后，使你匀称。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5837,
+      "verseNumber": 8,
+      "verseKey": "82:8",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101911,
+          "resourceId": 20,
+          "text": "In whatever form He willed has He assembled you.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752550,
+          "resourceId": 109,
+          "text": "他意欲什么型式，就依什么型式而构造你。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5838,
+      "verseNumber": 9,
+      "verseKey": "82:9",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101913,
+          "resourceId": 20,
+          "text": "No! But you deny the Recompense.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752551,
+          "resourceId": 109,
+          "text": "绝不然，但你们否认报应！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5839,
+      "verseNumber": 10,
+      "verseKey": "82:10",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101888,
+          "resourceId": 20,
+          "text": "And indeed, [appointed] over you are keepers,<sup foot_note=230350>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752552,
+          "resourceId": 109,
+          "text": "你们的上面，确有许多监视者，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5840,
+      "verseNumber": 11,
+      "verseKey": "82:11",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "كِرَامًا كَـٰتِبِينَ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101889,
+          "resourceId": 20,
+          "text": "Noble and recording;",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752553,
+          "resourceId": 109,
+          "text": "他们是尊贵的，是记录的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5841,
+      "verseNumber": 12,
+      "verseKey": "82:12",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101890,
+          "resourceId": 20,
+          "text": "They know whatever you do.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752554,
+          "resourceId": 109,
+          "text": "他们知道你们的一切行为。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5842,
+      "verseNumber": 13,
+      "verseKey": "82:13",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101891,
+          "resourceId": 20,
+          "text": "Indeed, the righteous will be in pleasure,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752555,
+          "resourceId": 109,
+          "text": "善人们，必在恩泽中；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5843,
+      "verseNumber": 14,
+      "verseKey": "82:14",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101892,
+          "resourceId": 20,
+          "text": "And indeed, the wicked will be in Hellfire.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752556,
+          "resourceId": 109,
+          "text": "恶人们，必在烈火中。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5844,
+      "verseNumber": 15,
+      "verseKey": "82:15",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَصْلَوْنَهَا يَوْمَ ٱلدِّينِ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101893,
+          "resourceId": 20,
+          "text": "They will [enter to] burn therein on the Day of Recompense,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752557,
+          "resourceId": 109,
+          "text": "他们将在报应日堕入烈火，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5845,
+      "verseNumber": 16,
+      "verseKey": "82:16",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَا هُمْ عَنْهَا بِغَآئِبِينَ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101894,
+          "resourceId": 20,
+          "text": "And never therefrom will they be absent.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752558,
+          "resourceId": 109,
+          "text": "他们绝不得离开它。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5846,
+      "verseNumber": 17,
+      "verseKey": "82:17",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101895,
+          "resourceId": 20,
+          "text": "And what can make you know what is the Day of Recompense?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752559,
+          "resourceId": 109,
+          "text": "你怎能知道报应日是什么？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5847,
+      "verseNumber": 18,
+      "verseKey": "82:18",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ثُمَّ مَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101896,
+          "resourceId": 20,
+          "text": "Then, what can make you know what is the Day of Recompense?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752560,
+          "resourceId": 109,
+          "text": "你怎能知道报应日是什么？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5848,
+      "verseNumber": 19,
+      "verseKey": "82:19",
+      "hizbNumber": 59,
+      "rubElHizbNumber": 235,
+      "rukuNumber": 526,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+      "pageNumber": 587,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 101897,
+          "resourceId": 20,
+          "text": "It is the Day when a soul will not possess for another soul [power to do] a thing; and the command, that Day, is [entirely] with Allāh.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752561,
+          "resourceId": 109,
+          "text": "在那日，任何人对任何人不能有什么裨益；在那日，命令全归安拉。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

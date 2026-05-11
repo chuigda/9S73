@@ -1,0 +1,531 @@
+{
+  "id": 64,
+  "nameSimple": "At-Taghabun",
+  "nameArabic": "التغابن",
+  "versesCount": 18,
+  "revelationPlace": "madinah",
+  "verses": [
+    {
+      "id": 5200,
+      "verseNumber": 1,
+      "verseKey": "64:1",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 492,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ لَهُ ٱلْمُلْكُ وَلَهُ ٱلْحَمْدُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "pageNumber": 556,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100982,
+          "resourceId": 20,
+          "text": "Whatever is in the heavens and whatever is on the earth is exalting Allāh.<sup foot_note=230046>1</sup> To Him belongs dominion, and to Him belongs [all] praise, and He is over all things competent.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751913,
+          "resourceId": 109,
+          "text": "凡在天地间的，都赞颂安拉超绝万物。国权只归他所有，赞颂只归他享受，他对于万事是全能的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5201,
+      "verseNumber": 2,
+      "verseKey": "64:2",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 492,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "هُوَ ٱلَّذِى خَلَقَكُمْ فَمِنكُمْ كَافِرٌ وَمِنكُم مُّؤْمِنٌ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "pageNumber": 556,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100993,
+          "resourceId": 20,
+          "text": "It is He who created you, and among you is the disbeliever, and among you is the believer. And Allāh, of what you do, is Seeing.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751914,
+          "resourceId": 109,
+          "text": "他曾创造你们，但你们中有不信道者和信道者；安拉是鉴察你们的行为的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5202,
+      "verseNumber": 3,
+      "verseKey": "64:3",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 492,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ ۖ وَإِلَيْهِ ٱلْمَصِيرُ",
+      "pageNumber": 556,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100995,
+          "resourceId": 20,
+          "text": "He created the heavens and earth in truth and formed you and perfected your forms; and to Him is the [final] destination.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751915,
+          "resourceId": 109,
+          "text": "他曾本着真理创造天地，他曾以形像赋予你们，而使你们的 形像优美，他是唯一的归宿。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5203,
+      "verseNumber": 4,
+      "verseKey": "64:4",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 492,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ ۚ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "pageNumber": 556,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100997,
+          "resourceId": 20,
+          "text": "He knows what is within the heavens and earth and knows what you conceal and what you declare. And Allāh is Knowing of that within the breasts.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751916,
+          "resourceId": 109,
+          "text": "他知道天地万物，他知道你们所隐匿的和你们所表现的，安拉是全知心事的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5204,
+      "verseNumber": 5,
+      "verseKey": "64:5",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 492,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَلَمْ يَأْتِكُمْ نَبَؤُا۟ ٱلَّذِينَ كَفَرُوا۟ مِن قَبْلُ فَذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "pageNumber": 556,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100999,
+          "resourceId": 20,
+          "text": "Has there not come to you the news of those who disbelieved before? So they tasted the bad consequence of their affair, and they will have a painful punishment.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751917,
+          "resourceId": 109,
+          "text": "以前不信道的人们的消息，难道没有达到你们吗？那等人，曾尝试他们的事情的恶果，他们将受痛苦的刑罚。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5205,
+      "verseNumber": 6,
+      "verseKey": "64:6",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 492,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ذَٰلِكَ بِأَنَّهُۥ كَانَت تَّأْتِيهِمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ فَقَالُوٓا۟ أَبَشَرٌ يَهْدُونَنَا فَكَفَرُوا۟ وَتَوَلَّوا۟ ۚ وَّٱسْتَغْنَى ٱللَّهُ ۚ وَٱللَّهُ غَنِىٌّ حَمِيدٌ",
+      "pageNumber": 556,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 101001,
+          "resourceId": 20,
+          "text": "That is because their messengers used to come to them with clear evidences, but they said, \"Shall human beings guide us?\" and disbelieved and turned away. And Allāh dispensed [with them]; and Allāh is Free of need and Praiseworthy.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751918,
+          "resourceId": 109,
+          "text": "这是因为他们族中的使者显示他们许多明证，他们却说：“难道凡人也能引道我们？”故他们不信道而违背之。安拉曾表示无求於他们的信仰，安拉是无求的，是可颂的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5206,
+      "verseNumber": 7,
+      "verseKey": "64:7",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 492,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "زَعَمَ ٱلَّذِينَ كَفَرُوٓا۟ أَن لَّن يُبْعَثُوا۟ ۚ قُلْ بَلَىٰ وَرَبِّى لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ",
+      "pageNumber": 556,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 101004,
+          "resourceId": 20,
+          "text": "Those who disbelieve have claimed that they will never be resurrected. Say, \"Yes, by my Lord, you will surely be resurrected; then you will surely be informed of what you did. And that, for Allāh, is easy.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751919,
+          "resourceId": 109,
+          "text": "不信道的人们，妄言他们绝不复活，你说：“不然！以我的主盟誓，你们必定复活，然後你们必定获得关於你们的行为的报告，这对于安拉是容易的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5207,
+      "verseNumber": 8,
+      "verseKey": "64:8",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 492,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلنُّورِ ٱلَّذِىٓ أَنزَلْنَا ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "pageNumber": 556,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 101007,
+          "resourceId": 20,
+          "text": "So believe in Allāh and His Messenger and the light [i.e., the Qur’ān] which We have sent down. And Allāh is Aware of what you do.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751920,
+          "resourceId": 109,
+          "text": "故你们当信仰安拉和使者，和他所降示的光明。安拉是彻知你们的行为的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5208,
+      "verseNumber": 9,
+      "verseKey": "64:9",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 492,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَوْمَ يَجْمَعُكُمْ لِيَوْمِ ٱلْجَمْعِ ۖ ذَٰلِكَ يَوْمُ ٱلتَّغَابُنِ ۗ وَمَن يُؤْمِنۢ بِٱللَّهِ وَيَعْمَلْ صَـٰلِحًا يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُدْخِلْهُ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "pageNumber": 556,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 101009,
+          "resourceId": 20,
+          "text": "The Day He will assemble you for the Day of Assembly - that is the Day of Deprivation.<sup foot_note=230049>1</sup> And whoever believes in Allāh and does righteousness - He will remove from him his misdeeds and admit him to gardens beneath which rivers flow, wherein they will abide forever. That is the great attainment.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751921,
+          "resourceId": 109,
+          "text": "在那日，他将在聚会日集合你们；那是相欺之日。信仰安拉，而且行善的人，他将解除他的罪恶，而且使他入下临诸河的乐园，而永居其中，那确是伟大的成功。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5209,
+      "verseNumber": 10,
+      "verseKey": "64:10",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 492,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ خَـٰلِدِينَ فِيهَا ۖ وَبِئْسَ ٱلْمَصِيرُ",
+      "pageNumber": 557,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100983,
+          "resourceId": 20,
+          "text": "But the ones who disbelieved and denied Our verses - those are the companions of the Fire, abiding eternally therein; and wretched is the destination.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751922,
+          "resourceId": 109,
+          "text": "不信道而且否认我的迹象的人们，是火狱的居民，他们将永居其中。那归宿真恶劣！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5210,
+      "verseNumber": 11,
+      "verseKey": "64:11",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 493,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "مَآ أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ ٱللَّهِ ۗ وَمَن يُؤْمِنۢ بِٱللَّهِ يَهْدِ قَلْبَهُۥ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "pageNumber": 557,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100984,
+          "resourceId": 20,
+          "text": "No disaster strikes except by permission of Allāh. And whoever believes in Allāh - He will guide his heart. And Allāh is Knowing of all things.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751923,
+          "resourceId": 109,
+          "text": "凡灾难的发生，无一不是依安拉的判决的。谁信安拉，他将引导谁的心，安拉是全知万物的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5211,
+      "verseNumber": 12,
+      "verseKey": "64:12",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 493,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَأَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ ۚ فَإِن تَوَلَّيْتُمْ فَإِنَّمَا عَلَىٰ رَسُولِنَا ٱلْبَلَـٰغُ ٱلْمُبِينُ",
+      "pageNumber": 557,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100985,
+          "resourceId": 20,
+          "text": "And obey Allāh and obey the Messenger; but if you turn away - then upon Our Messenger is only [the duty of] clear notification.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751924,
+          "resourceId": 109,
+          "text": "你们当服从安拉，当服从使者。如果你们违背命令，那么，我的使者，只负明白的通知的责任。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5212,
+      "verseNumber": 13,
+      "verseKey": "64:13",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 493,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+      "pageNumber": 557,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100986,
+          "resourceId": 20,
+          "text": "Allāh - there is no deity except Him. And upon Allāh let the believers rely.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751925,
+          "resourceId": 109,
+          "text": "安拉，除他外，绝无应受崇拜的，教信士们只托靠安拉。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5213,
+      "verseNumber": 14,
+      "verseKey": "64:14",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 493,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ مِنْ أَزْوَٰجِكُمْ وَأَوْلَـٰدِكُمْ عَدُوًّا لَّكُمْ فَٱحْذَرُوهُمْ ۚ وَإِن تَعْفُوا۟ وَتَصْفَحُوا۟ وَتَغْفِرُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "pageNumber": 557,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100987,
+          "resourceId": 20,
+          "text": "O you who have believed, indeed, among your spouses and your children are enemies to you, so beware of them. But if you pardon and overlook and forgive - then indeed, Allāh is Forgiving and Merciful.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751926,
+          "resourceId": 109,
+          "text": "信道的人们啊！你们的妻子儿女，有一部分确是你们的敌人，故你们当谨防他们。如果你们恕饶他们，原谅他们，赦宥他们，（安拉就赦宥你们），因为安拉确是至赦的，确是至慈的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5214,
+      "verseNumber": 15,
+      "verseKey": "64:15",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 493,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَـٰدُكُمْ فِتْنَةٌ ۚ وَٱللَّهُ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+      "pageNumber": 557,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100988,
+          "resourceId": 20,
+          "text": "Your wealth and your children are but a trial, and Allāh has with Him a great reward.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751927,
+          "resourceId": 109,
+          "text": "你们的财产和子嗣，只是一种考验，安拉那里有重大的报酬。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5215,
+      "verseNumber": 16,
+      "verseKey": "64:16",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 493,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَٱتَّقُوا۟ ٱللَّهَ مَا ٱسْتَطَعْتُمْ وَٱسْمَعُوا۟ وَأَطِيعُوا۟ وَأَنفِقُوا۟ خَيْرًا لِّأَنفُسِكُمْ ۗ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "pageNumber": 557,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100989,
+          "resourceId": 20,
+          "text": "So fear Allāh as much as you are able and listen and obey and spend [in the way of Allāh]; it is better for your selves. And whoever is protected from the stinginess of his soul - it is those who will be the successful.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751928,
+          "resourceId": 109,
+          "text": "你们当量力地敬畏安拉，你们当听从他的教训和命令，你们当施舍，那是有益于你们自己的。能戒除自身的贪吝者，确是成功的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5216,
+      "verseNumber": 17,
+      "verseKey": "64:17",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 493,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِن تُقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا يُضَـٰعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْ ۚ وَٱللَّهُ شَكُورٌ حَلِيمٌ",
+      "pageNumber": 557,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100990,
+          "resourceId": 20,
+          "text": "If you loan Allāh a goodly loan, He will multiply it for you and forgive you. And Allāh is [most] Appreciative<sup foot_note=230052>1</sup> and Forbearing,<sup foot_note=230053>2</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751929,
+          "resourceId": 109,
+          "text": "如果你们以善债借给安拉，他将加倍偿还你们，而且赦宥你们。安拉是善报的，是至容的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5217,
+      "verseNumber": 18,
+      "verseKey": "64:18",
+      "hizbNumber": 56,
+      "rubElHizbNumber": 222,
+      "rukuNumber": 493,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "pageNumber": 557,
+      "juzNumber": 28,
+      "translations": [
+        {
+          "id": 100991,
+          "resourceId": 20,
+          "text": "Knower of the unseen and the witnessed, the Exalted in Might, the Wise.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751930,
+          "resourceId": 109,
+          "text": "他是全知幽明的，是万能的，是至睿的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

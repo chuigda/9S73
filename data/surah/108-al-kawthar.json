@@ -1,0 +1,96 @@
+{
+  "id": 108,
+  "nameSimple": "Al-Kawthar",
+  "nameArabic": "الكوثر",
+  "versesCount": 3,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6205,
+      "verseNumber": 1,
+      "verseKey": "108:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 552,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+      "pageNumber": 602,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96313,
+          "resourceId": 20,
+          "text": "Indeed, We have granted you, [O Muḥammad], al-Kawthar.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752918,
+          "resourceId": 109,
+          "text": "我确赐你多福，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6206,
+      "verseNumber": 2,
+      "verseKey": "108:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 552,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "pageNumber": 602,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96315,
+          "resourceId": 20,
+          "text": "So pray to your Lord and offer sacrifice [to Him alone].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752919,
+          "resourceId": 109,
+          "text": "故你应当为你的主而礼拜，并宰牺牲。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6207,
+      "verseNumber": 3,
+      "verseKey": "108:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 552,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "pageNumber": 602,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96317,
+          "resourceId": 20,
+          "text": "Indeed, your enemy is the one cut off.<sup foot_note=230508>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752920,
+          "resourceId": 109,
+          "text": "怨恨你者, 确是绝后的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

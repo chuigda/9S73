@@ -1,0 +1,328 @@
+{
+  "id": 93,
+  "nameSimple": "Ad-Duhaa",
+  "nameArabic": "الضحى",
+  "versesCount": 11,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6080,
+      "verseNumber": 1,
+      "verseKey": "93:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 537,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " وَٱلضُّحَىٰ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102254,
+          "resourceId": 20,
+          "text": "By the morning brightness",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752793,
+          "resourceId": 109,
+          "text": "誓以上午，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6081,
+      "verseNumber": 2,
+      "verseKey": "93:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 537,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102258,
+          "resourceId": 20,
+          "text": "And [by] the night when it covers with darkness,<sup foot_note=230436>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752794,
+          "resourceId": 109,
+          "text": "誓以黑夜，当其寂静的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6082,
+      "verseNumber": 3,
+      "verseKey": "93:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 537,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102260,
+          "resourceId": 20,
+          "text": "Your Lord has not taken leave of you, [O Muḥammad], nor has He detested [you].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752795,
+          "resourceId": 109,
+          "text": "你的主没有弃绝你，也没有怨恨你；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6083,
+      "verseNumber": 4,
+      "verseKey": "93:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 537,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102262,
+          "resourceId": 20,
+          "text": "And the Hereafter is better for you than the first [life].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752796,
+          "resourceId": 109,
+          "text": "后世于你，确比今世更好；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6084,
+      "verseNumber": 5,
+      "verseKey": "93:5",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 537,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102264,
+          "resourceId": 20,
+          "text": "And your Lord is going to give you, and you will be satisfied.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752797,
+          "resourceId": 109,
+          "text": "你的主将来必赏赐你，以至你喜悦。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6085,
+      "verseNumber": 6,
+      "verseKey": "93:6",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 537,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102266,
+          "resourceId": 20,
+          "text": "Did He not find you an orphan and give [you] refuge?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752798,
+          "resourceId": 109,
+          "text": "难道他没有发现你孤苦伶仃，而使你有所归宿？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6086,
+      "verseNumber": 7,
+      "verseKey": "93:7",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 537,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102268,
+          "resourceId": 20,
+          "text": "And He found you lost and guided [you],",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752799,
+          "resourceId": 109,
+          "text": "他曾发现你徘徊歧途，而把你引入正路；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6087,
+      "verseNumber": 8,
+      "verseKey": "93:8",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 537,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102270,
+          "resourceId": 20,
+          "text": "And He found you poor and made [you] self-sufficient.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752800,
+          "resourceId": 109,
+          "text": "他发现你家境寒苦，而使你衣食丰足。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6088,
+      "verseNumber": 9,
+      "verseKey": "93:9",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 537,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102272,
+          "resourceId": 20,
+          "text": "So as for the orphan, do not oppress [him].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752801,
+          "resourceId": 109,
+          "text": "至于孤儿，你不要压迫他；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6089,
+      "verseNumber": 10,
+      "verseKey": "93:10",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 537,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102255,
+          "resourceId": 20,
+          "text": "And as for the petitioner,<sup foot_note=230437>1</sup> do not repel [him].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752802,
+          "resourceId": 109,
+          "text": "至于求助者，你不要呵斥他，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6090,
+      "verseNumber": 11,
+      "verseKey": "93:11",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 238,
+      "rukuNumber": 537,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102256,
+          "resourceId": 20,
+          "text": "But as for the favor of your Lord, report [it].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752803,
+          "resourceId": 109,
+          "text": "至于你的主所赐你的恩典呢，你应当宣示它。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "id": 94,
+  "nameSimple": "Ash-Sharh",
+  "nameArabic": "الشرح",
+  "versesCount": 8,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6091,
+      "verseNumber": 1,
+      "verseKey": "94:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 538,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102276,
+          "resourceId": 20,
+          "text": "Did We not expand for you, [O Muḥammad], your breast?<sup foot_note=230438>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752804,
+          "resourceId": 109,
+          "text": "难道我没有为你而开拓你的胸襟吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6092,
+      "verseNumber": 2,
+      "verseKey": "94:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 538,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102278,
+          "resourceId": 20,
+          "text": "And We removed from you your burden<sup foot_note=230439>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752805,
+          "resourceId": 109,
+          "text": "我卸下了你的重任，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6093,
+      "verseNumber": 3,
+      "verseKey": "94:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 538,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102280,
+          "resourceId": 20,
+          "text": "Which had weighed upon your back",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752806,
+          "resourceId": 109,
+          "text": "即使你的背担负过重的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6094,
+      "verseNumber": 4,
+      "verseKey": "94:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 538,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102282,
+          "resourceId": 20,
+          "text": "And raised high for you your repute.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752807,
+          "resourceId": 109,
+          "text": "而提高了你的声望，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6095,
+      "verseNumber": 5,
+      "verseKey": "94:5",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 538,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102284,
+          "resourceId": 20,
+          "text": "For indeed, with hardship [will be] ease [i.e., relief].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752808,
+          "resourceId": 109,
+          "text": "与艰难相伴的，确是容易，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6096,
+      "verseNumber": 6,
+      "verseKey": "94:6",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 538,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102286,
+          "resourceId": 20,
+          "text": "Indeed, with hardship [will be] ease.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752809,
+          "resourceId": 109,
+          "text": "与艰难相伴的，确是容易，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6097,
+      "verseNumber": 7,
+      "verseKey": "94:7",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 538,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102288,
+          "resourceId": 20,
+          "text": "So when you have finished [your duties], then stand up [for worship].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752810,
+          "resourceId": 109,
+          "text": "当你的事务完毕时，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6098,
+      "verseNumber": 8,
+      "verseKey": "94:8",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 538,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "pageNumber": 596,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102290,
+          "resourceId": 20,
+          "text": "And to your Lord direct [your] longing.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752811,
+          "resourceId": 109,
+          "text": "你应当勤劳，你应当向你的主恳求。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

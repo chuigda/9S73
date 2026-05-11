@@ -1,0 +1,154 @@
+{
+  "id": 97,
+  "nameSimple": "Al-Qadr",
+  "nameArabic": "القدر",
+  "versesCount": 5,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6126,
+      "verseNumber": 1,
+      "verseKey": "97:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 541,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "pageNumber": 598,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102345,
+          "resourceId": 20,
+          "text": "Indeed, We sent it [i.e., the Qur’ān] down during the Night of Decree.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752839,
+          "resourceId": 109,
+          "text": "我在那高贵的夜间确已降示它，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6127,
+      "verseNumber": 2,
+      "verseKey": "97:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 541,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "pageNumber": 598,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102347,
+          "resourceId": 20,
+          "text": "And what can make you know what is the Night of Decree?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752840,
+          "resourceId": 109,
+          "text": "你怎能知道那高贵的夜间是什么？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6128,
+      "verseNumber": 3,
+      "verseKey": "97:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 541,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+      "pageNumber": 598,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102349,
+          "resourceId": 20,
+          "text": "The Night of Decree is better than a thousand months.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752841,
+          "resourceId": 109,
+          "text": "那高贵的夜间，胜过一千个月，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6129,
+      "verseNumber": 4,
+      "verseKey": "97:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 541,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+      "pageNumber": 598,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102351,
+          "resourceId": 20,
+          "text": "The angels and the Spirit [i.e., Gabriel] descend therein by permission of their Lord for every matter.<sup foot_note=230454>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752842,
+          "resourceId": 109,
+          "text": "众天使和精神，奉他们的主的命令，为一切事务而在那夜间降临",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6130,
+      "verseNumber": 5,
+      "verseKey": "97:5",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 541,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+      "pageNumber": 598,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102353,
+          "resourceId": 20,
+          "text": "Peace it is<sup foot_note=230455>1</sup> until the emergence of dawn.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752843,
+          "resourceId": 109,
+          "text": "那夜间全是平安的，直到黎明显著的时候。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

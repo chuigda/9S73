@@ -1,0 +1,212 @@
+{
+  "id": 1,
+  "nameSimple": "Al-Fatihah",
+  "nameArabic": "الفاتحة",
+  "versesCount": 7,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 1,
+      "verseNumber": 1,
+      "verseKey": "1:1",
+      "hizbNumber": 1,
+      "rubElHizbNumber": 1,
+      "rukuNumber": 1,
+      "manzilNumber": 1,
+      "sajdahNumber": null,
+      "textUthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "pageNumber": 1,
+      "juzNumber": 1,
+      "translations": [
+        {
+          "id": 96343,
+          "resourceId": 20,
+          "text": "In the name of Allāh,<sup foot_note=227140>1</sup> the Entirely Merciful, the Especially Merciful.<sup foot_note=227141>2</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 746714,
+          "resourceId": 109,
+          "text": "奉至仁至慈的安拉之名",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "verseNumber": 2,
+      "verseKey": "1:2",
+      "hizbNumber": 1,
+      "rubElHizbNumber": 1,
+      "rukuNumber": 1,
+      "manzilNumber": 1,
+      "sajdahNumber": null,
+      "textUthmani": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "pageNumber": 1,
+      "juzNumber": 1,
+      "translations": [
+        {
+          "id": 96493,
+          "resourceId": 20,
+          "text": "[All] praise is [due] to Allāh, Lord<sup foot_note=227142>1</sup> of the worlds -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 746715,
+          "resourceId": 109,
+          "text": "一切赞颂，全归安拉，养育众世界的主，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "verseNumber": 3,
+      "verseKey": "1:3",
+      "hizbNumber": 1,
+      "rubElHizbNumber": 1,
+      "rukuNumber": 1,
+      "manzilNumber": 1,
+      "sajdahNumber": null,
+      "textUthmani": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "pageNumber": 1,
+      "juzNumber": 1,
+      "translations": [
+        {
+          "id": 96606,
+          "resourceId": 20,
+          "text": "The Entirely Merciful, the Especially Merciful,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 746716,
+          "resourceId": 109,
+          "text": "至仁至慈的主，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "verseNumber": 4,
+      "verseKey": "1:4",
+      "hizbNumber": 1,
+      "rubElHizbNumber": 1,
+      "rukuNumber": 1,
+      "manzilNumber": 1,
+      "sajdahNumber": null,
+      "textUthmani": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+      "pageNumber": 1,
+      "juzNumber": 1,
+      "translations": [
+        {
+          "id": 96653,
+          "resourceId": 20,
+          "text": "Sovereign of the Day of Recompense.<sup foot_note=227143>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 746717,
+          "resourceId": 109,
+          "text": "报应日的主。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "verseNumber": 5,
+      "verseKey": "1:5",
+      "hizbNumber": 1,
+      "rubElHizbNumber": 1,
+      "rukuNumber": 1,
+      "manzilNumber": 1,
+      "sajdahNumber": null,
+      "textUthmani": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "pageNumber": 1,
+      "juzNumber": 1,
+      "translations": [
+        {
+          "id": 96707,
+          "resourceId": 20,
+          "text": "It is You we worship and You we ask for help.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 746718,
+          "resourceId": 109,
+          "text": "我们只崇拜你，我们只求你祐助。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "verseNumber": 6,
+      "verseKey": "1:6",
+      "hizbNumber": 1,
+      "rubElHizbNumber": 1,
+      "rukuNumber": 1,
+      "manzilNumber": 1,
+      "sajdahNumber": null,
+      "textUthmani": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+      "pageNumber": 1,
+      "juzNumber": 1,
+      "translations": [
+        {
+          "id": 96503,
+          "resourceId": 20,
+          "text": "Guide us to the straight path -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 746719,
+          "resourceId": 109,
+          "text": "求你引领我们上正路，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "verseNumber": 7,
+      "verseKey": "1:7",
+      "hizbNumber": 1,
+      "rubElHizbNumber": 1,
+      "rukuNumber": 1,
+      "manzilNumber": 1,
+      "sajdahNumber": null,
+      "textUthmani": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+      "pageNumber": 1,
+      "juzNumber": 1,
+      "translations": [
+        {
+          "id": 96932,
+          "resourceId": 20,
+          "text": "The path of those upon whom You have bestowed favor, not of those who have earned [Your] anger or of those who are astray.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 746720,
+          "resourceId": 109,
+          "text": "你所祐助者的路，不是受谴怒者的路，也不是迷误者的路。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

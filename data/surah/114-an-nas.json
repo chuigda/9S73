@@ -1,0 +1,183 @@
+{
+  "id": 114,
+  "nameSimple": "An-Nas",
+  "nameArabic": "الناس",
+  "versesCount": 6,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6231,
+      "verseNumber": 1,
+      "verseKey": "114:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 558,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "pageNumber": 604,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96330,
+          "resourceId": 20,
+          "text": "Say, \"I seek refuge in the Lord of mankind,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752944,
+          "resourceId": 109,
+          "text": "你说：“我求庇于世人的养主，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6232,
+      "verseNumber": 2,
+      "verseKey": "114:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 558,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "مَلِكِ ٱلنَّاسِ",
+      "pageNumber": 604,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96423,
+          "resourceId": 20,
+          "text": "The Sovereign of mankind,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752945,
+          "resourceId": 109,
+          "text": "世人的君主，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6233,
+      "verseNumber": 3,
+      "verseKey": "114:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 558,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِلَـٰهِ ٱلنَّاسِ",
+      "pageNumber": 604,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96426,
+          "resourceId": 20,
+          "text": "The God of mankind,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752946,
+          "resourceId": 109,
+          "text": "世人的主宰，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6234,
+      "verseNumber": 4,
+      "verseKey": "114:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 558,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "pageNumber": 604,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96428,
+          "resourceId": 20,
+          "text": "From the evil of the retreating whisperer<sup foot_note=230518>1</sup> -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752947,
+          "resourceId": 109,
+          "text": "免遭潜伏的教唆者的毒害，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6235,
+      "verseNumber": 5,
+      "verseKey": "114:5",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 558,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "pageNumber": 604,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96430,
+          "resourceId": 20,
+          "text": "Who whispers [evil] into the breasts of mankind -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752948,
+          "resourceId": 109,
+          "text": "他在世人的胸中教唆，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6236,
+      "verseNumber": 6,
+      "verseKey": "114:6",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 558,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "pageNumber": 604,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96432,
+          "resourceId": 20,
+          "text": "From among the jinn and mankind.\"<sup foot_note=230519>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752949,
+          "resourceId": 109,
+          "text": "他是属于精灵和人类的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

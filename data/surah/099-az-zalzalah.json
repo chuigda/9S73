@@ -1,0 +1,241 @@
+{
+  "id": 99,
+  "nameSimple": "Az-Zalzalah",
+  "nameArabic": "الزلزلة",
+  "versesCount": 8,
+  "revelationPlace": "madinah",
+  "verses": [
+    {
+      "id": 6139,
+      "verseNumber": 1,
+      "verseKey": "99:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 543,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102380,
+          "resourceId": 20,
+          "text": "When the earth is shaken with its [final] earthquake",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752852,
+          "resourceId": 109,
+          "text": "当大地猛烈地震动，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6140,
+      "verseNumber": 2,
+      "verseKey": "99:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 543,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102382,
+          "resourceId": 20,
+          "text": "And the earth discharges its burdens<sup foot_note=230463>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752853,
+          "resourceId": 109,
+          "text": "抛其重担，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6141,
+      "verseNumber": 3,
+      "verseKey": "99:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 543,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102384,
+          "resourceId": 20,
+          "text": "And man says,<sup foot_note=230464>1</sup> \"What is [wrong] with it?\" -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752854,
+          "resourceId": 109,
+          "text": "人们说：“大地怎么啦？”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6142,
+      "verseNumber": 4,
+      "verseKey": "99:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 543,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102386,
+          "resourceId": 20,
+          "text": "That Day, it will report its news",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752855,
+          "resourceId": 109,
+          "text": "在那日，大地将报告它的消息。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6143,
+      "verseNumber": 5,
+      "verseKey": "99:5",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 543,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102388,
+          "resourceId": 20,
+          "text": "Because your Lord has inspired [i.e., commanded] it.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752856,
+          "resourceId": 109,
+          "text": "因为你的主已启示了它；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6144,
+      "verseNumber": 6,
+      "verseKey": "99:6",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 543,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102390,
+          "resourceId": 20,
+          "text": "That Day, the people will depart<sup foot_note=230467>1</sup> separated [into categories] to be shown [the result of] their deeds.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752857,
+          "resourceId": 109,
+          "text": "在那日，人们将纷纷地离散，以便他们得见自己行为的报应。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6145,
+      "verseNumber": 7,
+      "verseKey": "99:7",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 543,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102392,
+          "resourceId": 20,
+          "text": "So whoever does an atom's weight<sup foot_note=230468>1</sup> of good will see it,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752858,
+          "resourceId": 109,
+          "text": "行一个小蚂蚁重的善事者，将见其报酬；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6146,
+      "verseNumber": 8,
+      "verseKey": "99:8",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 543,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102394,
+          "resourceId": 20,
+          "text": "And whoever does an atom's weight of evil will see it.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752859,
+          "resourceId": 109,
+          "text": "作一个小蚂蚁重的恶事者，也将见其恶报。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

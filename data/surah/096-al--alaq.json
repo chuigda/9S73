@@ -1,0 +1,560 @@
+{
+  "id": 96,
+  "nameSimple": "Al-'Alaq",
+  "nameArabic": "العلق",
+  "versesCount": 19,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6107,
+      "verseNumber": 1,
+      "verseKey": "96:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102315,
+          "resourceId": 20,
+          "text": "Recite in the name of your Lord who created –",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752820,
+          "resourceId": 109,
+          "text": "你应当奉你的创造主的名义而宣读，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6108,
+      "verseNumber": 2,
+      "verseKey": "96:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102327,
+          "resourceId": 20,
+          "text": "Created man from a clinging substance.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752821,
+          "resourceId": 109,
+          "text": "他曾用血块创造人。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6109,
+      "verseNumber": 3,
+      "verseKey": "96:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102329,
+          "resourceId": 20,
+          "text": "Recite, and your Lord is the most Generous -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752822,
+          "resourceId": 109,
+          "text": "你应当宣读，你的主是最尊严的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6110,
+      "verseNumber": 4,
+      "verseKey": "96:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102331,
+          "resourceId": 20,
+          "text": "Who taught by the pen –",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752823,
+          "resourceId": 109,
+          "text": "他曾教人用笔写字，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6111,
+      "verseNumber": 5,
+      "verseKey": "96:5",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102333,
+          "resourceId": 20,
+          "text": "Taught man that which he knew not.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752824,
+          "resourceId": 109,
+          "text": "他曾教人知道自己所不知道的东西。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6112,
+      "verseNumber": 6,
+      "verseKey": "96:6",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "كَلَّآ إِنَّ ٱلْإِنسَـٰنَ لَيَطْغَىٰٓ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102335,
+          "resourceId": 20,
+          "text": "No! [But] indeed, man transgresses",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752825,
+          "resourceId": 109,
+          "text": "绝不然，人确是悖逆的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6113,
+      "verseNumber": 7,
+      "verseKey": "96:7",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102337,
+          "resourceId": 20,
+          "text": "Because he sees himself self-sufficient.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752826,
+          "resourceId": 109,
+          "text": "因为他认为自己是无求的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6114,
+      "verseNumber": 8,
+      "verseKey": "96:8",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102339,
+          "resourceId": 20,
+          "text": "Indeed, to your Lord is the return.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752827,
+          "resourceId": 109,
+          "text": "万物必定只归于你的主。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6115,
+      "verseNumber": 9,
+      "verseKey": "96:9",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102341,
+          "resourceId": 20,
+          "text": "Have you seen the one who forbids",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752828,
+          "resourceId": 109,
+          "text": "你告诉我吧！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6116,
+      "verseNumber": 10,
+      "verseKey": "96:10",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "عَبْدًا إِذَا صَلَّىٰٓ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102316,
+          "resourceId": 20,
+          "text": "A servant when he prays?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752829,
+          "resourceId": 109,
+          "text": "那个禁止我的仆人礼拜的人；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6117,
+      "verseNumber": 11,
+      "verseKey": "96:11",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102317,
+          "resourceId": 20,
+          "text": "Have you seen if he is upon guidance",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752830,
+          "resourceId": 109,
+          "text": "你告诉我吧！如果他是遵循正道的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6118,
+      "verseNumber": 12,
+      "verseKey": "96:12",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102318,
+          "resourceId": 20,
+          "text": "Or enjoins righteousness?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752831,
+          "resourceId": 109,
+          "text": "或是命人敬畏的；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6119,
+      "verseNumber": 13,
+      "verseKey": "96:13",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102319,
+          "resourceId": 20,
+          "text": "Have you seen if he denies and turns away -",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752832,
+          "resourceId": 109,
+          "text": "你告诉我吧！如果他是否认真理的，背弃真理的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6120,
+      "verseNumber": 14,
+      "verseKey": "96:14",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102320,
+          "resourceId": 20,
+          "text": "Does he not know that Allāh sees?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752833,
+          "resourceId": 109,
+          "text": "难道他还不知道安拉是监察的吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6121,
+      "verseNumber": 15,
+      "verseKey": "96:15",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102321,
+          "resourceId": 20,
+          "text": "No! If he does not desist, We will surely drag him by the forelock<sup foot_note=230450>1</sup> –",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752834,
+          "resourceId": 109,
+          "text": "绝不然，如果他不停止，我一定要抓住他的额发——",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6122,
+      "verseNumber": 16,
+      "verseKey": "96:16",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "نَاصِيَةٍ كَـٰذِبَةٍ خَاطِئَةٍ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102322,
+          "resourceId": 20,
+          "text": "A lying, sinning forelock.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752835,
+          "resourceId": 109,
+          "text": "说谎者，犯罪者的额发。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6123,
+      "verseNumber": 17,
+      "verseKey": "96:17",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَلْيَدْعُ نَادِيَهُۥ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102323,
+          "resourceId": 20,
+          "text": "Then let him call his associates;",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752836,
+          "resourceId": 109,
+          "text": "让他去召集他的会众吧！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6124,
+      "verseNumber": 18,
+      "verseKey": "96:18",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102324,
+          "resourceId": 20,
+          "text": "We will call the angels of Hell.<sup foot_note=230451>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752837,
+          "resourceId": 109,
+          "text": "我将召集宰巴尼天使",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6125,
+      "verseNumber": 19,
+      "verseKey": "96:19",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 540,
+      "manzilNumber": 7,
+      "sajdahNumber": 14,
+      "textUthmani": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+      "pageNumber": 597,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 102325,
+          "resourceId": 20,
+          "text": "No! Do not obey him. But prostrate and draw near [to Allāh].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752838,
+          "resourceId": 109,
+          "text": "绝不然，你不要顺从他，你应当为安拉而叩头，你应当亲近安拉。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

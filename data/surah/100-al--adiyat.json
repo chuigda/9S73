@@ -1,0 +1,328 @@
+{
+  "id": 100,
+  "nameSimple": "Al-'Adiyat",
+  "nameArabic": "العاديات",
+  "versesCount": 11,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6147,
+      "verseNumber": 1,
+      "verseKey": "100:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 544,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96164,
+          "resourceId": 20,
+          "text": "By the racers, panting,<sup foot_note=230469>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752860,
+          "resourceId": 109,
+          "text": "以喘息而奔驰的马队盟誓，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6148,
+      "verseNumber": 2,
+      "verseKey": "100:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 544,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَٱلْمُورِيَـٰتِ قَدْحًا",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96167,
+          "resourceId": 20,
+          "text": "And the producers of sparks [when] striking<sup foot_note=230470>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752861,
+          "resourceId": 109,
+          "text": "以蹄发火花的马队盟誓，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6149,
+      "verseNumber": 3,
+      "verseKey": "100:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 544,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96168,
+          "resourceId": 20,
+          "text": "And the chargers at dawn,<sup foot_note=230471>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752862,
+          "resourceId": 109,
+          "text": "以早晨出击，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6150,
+      "verseNumber": 4,
+      "verseKey": "100:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 544,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96169,
+          "resourceId": 20,
+          "text": "Stirring up thereby [clouds of] dust,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752863,
+          "resourceId": 109,
+          "text": "卷起尘埃，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6151,
+      "verseNumber": 5,
+      "verseKey": "100:5",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 544,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96170,
+          "resourceId": 20,
+          "text": "Arriving thereby in the center<sup foot_note=230472>1</sup> collectively,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752864,
+          "resourceId": 109,
+          "text": "攻入敌围的马队盟誓，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6152,
+      "verseNumber": 6,
+      "verseKey": "100:6",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 544,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96171,
+          "resourceId": 20,
+          "text": "Indeed mankind, to his Lord, is ungrateful.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752865,
+          "resourceId": 109,
+          "text": "人对于主, 确是孤负的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6153,
+      "verseNumber": 7,
+      "verseKey": "100:7",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 544,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96172,
+          "resourceId": 20,
+          "text": "And indeed, he is to that a witness.<sup foot_note=230473>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752866,
+          "resourceId": 109,
+          "text": "他自己对那孤负确是见证的，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6154,
+      "verseNumber": 8,
+      "verseKey": "100:8",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 239,
+      "rukuNumber": 544,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96173,
+          "resourceId": 20,
+          "text": "And indeed he is, in love of wealth, intense.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752867,
+          "resourceId": 109,
+          "text": "他对于财产确是酷好的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6155,
+      "verseNumber": 9,
+      "verseKey": "100:9",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 544,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "pageNumber": 599,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96174,
+          "resourceId": 20,
+          "text": "But does he not know that when the contents of the graves are scattered",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752868,
+          "resourceId": 109,
+          "text": "难道他不知道吗？当坟中的朽骨被揭发，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6156,
+      "verseNumber": 10,
+      "verseKey": "100:10",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 544,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96165,
+          "resourceId": 20,
+          "text": "And that within the breasts is obtained,<sup foot_note=230474>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752869,
+          "resourceId": 109,
+          "text": "胸中的秘密被显示的时候，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6157,
+      "verseNumber": 11,
+      "verseKey": "100:11",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 544,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+      "pageNumber": 600,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96166,
+          "resourceId": 20,
+          "text": "Indeed, their Lord with them, that Day, is [fully] Aware.<sup foot_note=230475>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752870,
+          "resourceId": 109,
+          "text": "在那日，他们的主，确是彻知他们的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

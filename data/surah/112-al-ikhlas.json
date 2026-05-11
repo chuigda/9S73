@@ -1,0 +1,125 @@
+{
+  "id": 112,
+  "nameSimple": "Al-Ikhlas",
+  "nameArabic": "الإخلاص",
+  "versesCount": 4,
+  "revelationPlace": "makkah",
+  "verses": [
+    {
+      "id": 6222,
+      "verseNumber": 1,
+      "verseKey": "112:1",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 556,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": " قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+      "pageNumber": 604,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96391,
+          "resourceId": 20,
+          "text": "Say, \"He is Allāh, [who is] One,<sup foot_note=230513>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752935,
+          "resourceId": 109,
+          "text": "你说：“他是安拉，是独一的主；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6223,
+      "verseNumber": 2,
+      "verseKey": "112:2",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 556,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "ٱللَّهُ ٱلصَّمَدُ",
+      "pageNumber": 604,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96393,
+          "resourceId": 20,
+          "text": "Allāh, the Eternal Refuge.<sup foot_note=230515>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752936,
+          "resourceId": 109,
+          "text": "安拉是万物所仰赖的；",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6224,
+      "verseNumber": 3,
+      "verseKey": "112:3",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 556,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "pageNumber": 604,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96395,
+          "resourceId": 20,
+          "text": "He neither begets nor is born,",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752937,
+          "resourceId": 109,
+          "text": "他未生育， 也未被生育。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 6225,
+      "verseNumber": 4,
+      "verseKey": "112:4",
+      "hizbNumber": 60,
+      "rubElHizbNumber": 240,
+      "rukuNumber": 556,
+      "manzilNumber": 7,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "pageNumber": 604,
+      "juzNumber": 30,
+      "translations": [
+        {
+          "id": 96397,
+          "resourceId": 20,
+          "text": "Nor is there to Him any equivalent.\"",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 752938,
+          "resourceId": 109,
+          "text": "没有任何物可以做他的匹敌。”",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}

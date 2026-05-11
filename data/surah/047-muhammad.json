@@ -1,0 +1,1111 @@
+{
+  "id": 47,
+  "nameSimple": "Muhammad",
+  "nameArabic": "محمد",
+  "versesCount": 38,
+  "revelationPlace": "madinah",
+  "verses": [
+    {
+      "id": 4546,
+      "verseNumber": 1,
+      "verseKey": "47:1",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 202,
+      "rukuNumber": 444,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": " ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَـٰلَهُمْ",
+      "pageNumber": 507,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100085,
+          "resourceId": 20,
+          "text": "Those who disbelieve and avert [people] from the way of Allāh - He will waste their deeds.<sup foot_note=229693>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751259,
+          "resourceId": 109,
+          "text": "不信道而且妨碍主道的人们，安拉将使他们的善功无效。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4547,
+      "verseNumber": 2,
+      "verseKey": "47:2",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 202,
+      "rukuNumber": 444,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ",
+      "pageNumber": 507,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100097,
+          "resourceId": 20,
+          "text": "And those who believe and do righteous deeds and believe in what has been sent down upon Muḥammad - and it is the truth from their Lord - He will remove from them their misdeeds and amend their condition.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751260,
+          "resourceId": 109,
+          "text": "信道而行善，且信仰降示给穆罕默德的天经者——那部天经是从他们的主降示的真理——安拉将赦宥他们的罪恶，改善他们的状况。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4548,
+      "verseNumber": 3,
+      "verseKey": "47:3",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 202,
+      "rukuNumber": 444,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "ذَٰلِكَ بِأَنَّ ٱلَّذِينَ كَفَرُوا۟ ٱتَّبَعُوا۟ ٱلْبَـٰطِلَ وَأَنَّ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّبَعُوا۟ ٱلْحَقَّ مِن رَّبِّهِمْ ۚ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ لِلنَّاسِ أَمْثَـٰلَهُمْ",
+      "pageNumber": 507,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100109,
+          "resourceId": 20,
+          "text": "That is because those who disbelieve follow falsehood, and those who believe follow the truth from their Lord. Thus does Allāh present to the people their comparisons.<sup foot_note=229696>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751261,
+          "resourceId": 109,
+          "text": "那是由于不信道的人们遵守虚伪，而信道的人们遵守从他们的主降示的真理。安拉如此为众人设许多譬喻。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4549,
+      "verseNumber": 4,
+      "verseKey": "47:4",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 202,
+      "rukuNumber": 444,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "فَإِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُوا۟ فَضَرْبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ أَثْخَنتُمُوهُمْ فَشُدُّوا۟ ٱلْوَثَاقَ فَإِمَّا مَنًّۢا بَعْدُ وَإِمَّا فِدَآءً حَتَّىٰ تَضَعَ ٱلْحَرْبُ أَوْزَارَهَا ۚ ذَٰلِكَ وَلَوْ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ مِنْهُمْ وَلَـٰكِن لِّيَبْلُوَا۟ بَعْضَكُم بِبَعْضٍ ۗ وَٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ فَلَن يُضِلَّ أَعْمَـٰلَهُمْ",
+      "pageNumber": 507,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100120,
+          "resourceId": 20,
+          "text": "So when you meet those who disbelieve [in battle], strike [their] necks until, when you have inflicted slaughter upon them, then secure [their] bonds,<sup foot_note=229698>1</sup> and either [confer] favor<sup foot_note=229700>2</sup> afterwards or ransom [them] until the war lays down its burdens.<sup foot_note=229701>3</sup> That [is the command]. And if Allāh had willed, He could have taken vengeance upon them [Himself], but [He ordered armed struggle] to test some of you by means of others. And those who are killed in the cause of Allāh - never will He waste their deeds.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751262,
+          "resourceId": 109,
+          "text": "你们在战场上遇到不信道者的时候，应当斩杀他们，你们既战胜他们，就应当俘虏他们；以后或释放他们，或准许他们赎身，直到战争放下它的重担。事情就是这样的，假若安拉意欲，他必惩治他们；但他命你们抗战，以便他以你们互相考验。为主道而阵亡者，安拉绝不枉费他们的善功，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4550,
+      "verseNumber": 5,
+      "verseKey": "47:5",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 202,
+      "rukuNumber": 444,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "سَيَهْدِيهِمْ وَيُصْلِحُ بَالَهُمْ",
+      "pageNumber": 507,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100122,
+          "resourceId": 20,
+          "text": "He will guide them and amend their condition",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751263,
+          "resourceId": 109,
+          "text": "他要引导他们，并改善他们的状况，",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4551,
+      "verseNumber": 6,
+      "verseKey": "47:6",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 202,
+      "rukuNumber": 444,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "وَيُدْخِلُهُمُ ٱلْجَنَّةَ عَرَّفَهَا لَهُمْ",
+      "pageNumber": 507,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100124,
+          "resourceId": 20,
+          "text": "And admit them to Paradise, which He has made known to them.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751264,
+          "resourceId": 109,
+          "text": "且使他们入乐园--他已为他们说明那乐园了。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4552,
+      "verseNumber": 7,
+      "verseKey": "47:7",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 202,
+      "rukuNumber": 444,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَنصُرُوا۟ ٱللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+      "pageNumber": 507,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100126,
+          "resourceId": 20,
+          "text": "O you who have believed, if you support Allāh, He will support you and plant firmly your feet.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751265,
+          "resourceId": 109,
+          "text": "信道的人们啊！如果你们相助安拉，他就相助你们，并使你们脚步稳固。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4553,
+      "verseNumber": 8,
+      "verseKey": "47:8",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 202,
+      "rukuNumber": 444,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلَّذِينَ كَفَرُوا۟ فَتَعْسًا لَّهُمْ وَأَضَلَّ أَعْمَـٰلَهُمْ",
+      "pageNumber": 507,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100128,
+          "resourceId": 20,
+          "text": "But those who disbelieve - for them is misery, and He will waste their deeds.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751266,
+          "resourceId": 109,
+          "text": "不信道的人们，将一蹶不振，安拉使他们的善功无效。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4554,
+      "verseNumber": 9,
+      "verseKey": "47:9",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 202,
+      "rukuNumber": 444,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "ذَٰلِكَ بِأَنَّهُمْ كَرِهُوا۟ مَآ أَنزَلَ ٱللَّهُ فَأَحْبَطَ أَعْمَـٰلَهُمْ",
+      "pageNumber": 507,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100130,
+          "resourceId": 20,
+          "text": "That is because they disliked what Allāh revealed, so He rendered worthless their deeds.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751267,
+          "resourceId": 109,
+          "text": "那是因为他们厌恶安拉所降示的经典，故他将使他们的善功无效。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4555,
+      "verseNumber": 10,
+      "verseKey": "47:10",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 444,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "۞ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ دَمَّرَ ٱللَّهُ عَلَيْهِمْ ۖ وَلِلْكَـٰفِرِينَ أَمْثَـٰلُهَا",
+      "pageNumber": 507,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100086,
+          "resourceId": 20,
+          "text": "Have they not traveled through the land and seen how was the end of those before them? Allāh destroyed [everything] over them,<sup foot_note=229708>1</sup> and for the disbelievers is something comparable.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751268,
+          "resourceId": 109,
+          "text": "难道他们没有在大地上旅行，以观察前人的结局是怎样的吗？安拉已毁灭了他们。不信道的人们，将有同样的结局。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4556,
+      "verseNumber": 11,
+      "verseKey": "47:11",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 444,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوْلَى ٱلَّذِينَ ءَامَنُوا۟ وَأَنَّ ٱلْكَـٰفِرِينَ لَا مَوْلَىٰ لَهُمْ",
+      "pageNumber": 507,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100087,
+          "resourceId": 20,
+          "text": "That is because Allāh is the protector of those who have believed and because the disbelievers have no protector.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751269,
+          "resourceId": 109,
+          "text": "那是因为安拉是信道的人们的保护者；不信道的人们，绝无保护者。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4557,
+      "verseNumber": 12,
+      "verseKey": "47:12",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 445,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَٱلَّذِينَ كَفَرُوا۟ يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ ٱلْأَنْعَـٰمُ وَٱلنَّارُ مَثْوًى لَّهُمْ",
+      "pageNumber": 508,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100088,
+          "resourceId": 20,
+          "text": "Indeed, Allāh will admit those who have believed and done righteous deeds to gardens beneath which rivers flow, but those who disbelieve enjoy themselves and eat as grazing livestock eat, and the Fire will be a residence for them.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751270,
+          "resourceId": 109,
+          "text": "安拉必定要使信道而且行善的人们入下临诸河的乐园。不信道的人们，在今世的享受，就像牲畜样饮食，火狱是他们的归宿。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4558,
+      "verseNumber": 13,
+      "verseKey": "47:13",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 445,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "وَكَأَيِّن مِّن قَرْيَةٍ هِىَ أَشَدُّ قُوَّةً مِّن قَرْيَتِكَ ٱلَّتِىٓ أَخْرَجَتْكَ أَهْلَكْنَـٰهُمْ فَلَا نَاصِرَ لَهُمْ",
+      "pageNumber": 508,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100089,
+          "resourceId": 20,
+          "text": "And how many a city was stronger than your city [i.e., Makkah] which drove you out? We destroyed them; and there was no helper for them.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751271,
+          "resourceId": 109,
+          "text": "有许多城市，其居民的势力，胜过那驱逐你的城市的居民；我曾毁灭了他们，他们没有任何援助者。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4559,
+      "verseNumber": 14,
+      "verseKey": "47:14",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 445,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّهِۦ كَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُم",
+      "pageNumber": 508,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100090,
+          "resourceId": 20,
+          "text": "So is he who is on clear evidence from his Lord like him to whom the evil of his work has been made attractive and they follow their [own] desires?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751272,
+          "resourceId": 109,
+          "text": "依据从主降示的明证者，与那为自己的恶行所迷惑，而且顺从私欲者是一样的吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4560,
+      "verseNumber": 15,
+      "verseKey": "47:15",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 445,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۖ فِيهَآ أَنْهَـٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ وَأَنْهَـٰرٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَـٰرٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّـٰرِبِينَ وَأَنْهَـٰرٌ مِّنْ عَسَلٍ مُّصَفًّى ۖ وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ ۖ كَمَنْ هُوَ خَـٰلِدٌ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ",
+      "pageNumber": 508,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100091,
+          "resourceId": 20,
+          "text": "Is the description of Paradise, which the righteous are promised, wherein are rivers of water unaltered,<sup foot_note=229709>1</sup> rivers of milk the taste of which never changes, rivers of wine delicious to those who drink, and rivers of purified honey, in which they will have from all [kinds of] fruits and forgiveness from their Lord... [Are its inhabitants] like those who abide eternally in the Fire and are given to drink scalding water that will sever their intestines?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751273,
+          "resourceId": 109,
+          "text": "敬畏的人们所蒙应许的乐园，其情状是这样的：其中有水河，水质不腐；有乳河，乳味不变；有酒河，饮者称快；有蜜河，蜜质纯洁；他们在乐园中，有各种水果，可以享受；还有从他们的主发出的赦宥。永居乐园者，难道与那永居火狱，常饮沸水，肠寸寸断的人是一样的吗？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4561,
+      "verseNumber": 16,
+      "verseKey": "47:16",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 445,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ حَتَّىٰٓ إِذَا خَرَجُوا۟ مِنْ عِندِكَ قَالُوا۟ لِلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مَاذَا قَالَ ءَانِفًا ۚ أُو۟لَـٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ",
+      "pageNumber": 508,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100092,
+          "resourceId": 20,
+          "text": "And among them, [O Muḥammad], are those who listen to you, until when they depart from you, they say to those who were given knowledge,<sup foot_note=229710>1</sup> \"What has he said just now?\" Those are the ones of whom Allāh has sealed over their hearts and who have followed their [own] desires.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751274,
+          "resourceId": 109,
+          "text": "他们中有些人静听你的演说，等到他们从你的面前出去的时候，他们对有学识者说：“刚才他说些什么？”这等人，安拉已封闭他们的心，他们顺从私欲。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4562,
+      "verseNumber": 17,
+      "verseKey": "47:17",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 445,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "وَٱلَّذِينَ ٱهْتَدَوْا۟ زَادَهُمْ هُدًى وَءَاتَىٰهُمْ تَقْوَىٰهُمْ",
+      "pageNumber": 508,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100093,
+          "resourceId": 20,
+          "text": "And those who are guided - He increases them in guidance and gives them their righteousness.<sup foot_note=229712>1</sup>",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751275,
+          "resourceId": 109,
+          "text": "遵循正道者，安拉要更加引导他们，并将敬畏的报酬赏赐他们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4563,
+      "verseNumber": 18,
+      "verseKey": "47:18",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 445,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "فَهَلْ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأْتِيَهُم بَغْتَةً ۖ فَقَدْ جَآءَ أَشْرَاطُهَا ۚ فَأَنَّىٰ لَهُمْ إِذَا جَآءَتْهُمْ ذِكْرَىٰهُمْ",
+      "pageNumber": 508,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100094,
+          "resourceId": 20,
+          "text": "Then do they await except that the Hour should come upon them unexpectedly? But already there have come [some of] its indications. Then how [i.e., what good] to them, when it has come, will be their remembrance?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751276,
+          "resourceId": 109,
+          "text": "他们只等待复活时忽然来临他们，复活时的征候确已来临了。当复活时来临的时候，他们的觉悟，对于他们那里还会有效呢！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4564,
+      "verseNumber": 19,
+      "verseKey": "47:19",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 445,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "فَٱعْلَمْ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا ٱللَّهُ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ۗ وَٱللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَىٰكُمْ",
+      "pageNumber": 508,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100095,
+          "resourceId": 20,
+          "text": "So know, [O Muḥammad], that there is no deity except Allāh and ask forgiveness for your sin<sup foot_note=229714>1</sup> and for the believing men and believing women. And Allāh knows of your movement and your resting place.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751277,
+          "resourceId": 109,
+          "text": "你应当知道，除安拉外，绝无应受崇拜的，你应当为你的过失而求饶，并应当为众信士和众信女而求饶。安拉是全知你们的活动和归宿的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4565,
+      "verseNumber": 20,
+      "verseKey": "47:20",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 446,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟ لَوْلَا نُزِّلَتْ سُورَةٌ ۖ فَإِذَآ أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ وَذُكِرَ فِيهَا ٱلْقِتَالُ ۙ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَأَوْلَىٰ لَهُمْ",
+      "pageNumber": 509,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100098,
+          "resourceId": 20,
+          "text": "Those who believe say, \"Why has a sūrah<sup foot_note=229716>1</sup> not been sent down?\" But when a precise sūrah is revealed and battle is mentioned therein, you see those in whose hearts is disease [i.e., hypocrisy] looking at you with a look of one overcome by death. And more appropriate for them<sup foot_note=229715>2</sup> [would have been]",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751278,
+          "resourceId": 109,
+          "text": "信道的人们说：“怎么不降示一章经呢？”当明确的一章经文降下，而其中提及战争的时候，你会看到心中有病的人们将像临死时昏晕的人那样瞪着眼看你。伤哉他们！",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4566,
+      "verseNumber": 21,
+      "verseKey": "47:21",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 446,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "طَاعَةٌ وَقَوْلٌ مَّعْرُوفٌ ۚ فَإِذَا عَزَمَ ٱلْأَمْرُ فَلَوْ صَدَقُوا۟ ٱللَّهَ لَكَانَ خَيْرًا لَّهُمْ",
+      "pageNumber": 509,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100099,
+          "resourceId": 20,
+          "text": "Obedience and good words. And when the matter [of fighting] was determined, if they had been true to Allāh, it would have been better for them.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751279,
+          "resourceId": 109,
+          "text": "服从和婉辞，于他们是更相宜的。当战争被决定的时候，假若他们忠于安拉，那对于他们是更好的。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4567,
+      "verseNumber": 22,
+      "verseKey": "47:22",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 446,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "فَهَلْ عَسَيْتُمْ إِن تَوَلَّيْتُمْ أَن تُفْسِدُوا۟ فِى ٱلْأَرْضِ وَتُقَطِّعُوٓا۟ أَرْحَامَكُمْ",
+      "pageNumber": 509,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100100,
+          "resourceId": 20,
+          "text": "So would you perhaps, if you turned away,<sup foot_note=229719>1</sup> cause corruption on earth and sever your [ties of] relationship?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751280,
+          "resourceId": 109,
+          "text": "假若你们执政，你们会不会在地方上作恶，并断绝亲戚的关系呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4568,
+      "verseNumber": 23,
+      "verseKey": "47:23",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 446,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ فَأَصَمَّهُمْ وَأَعْمَىٰٓ أَبْصَـٰرَهُمْ",
+      "pageNumber": 509,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100101,
+          "resourceId": 20,
+          "text": "Those [who do so] are the ones that Allāh has cursed, so He deafened them and blinded their vision.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751281,
+          "resourceId": 109,
+          "text": "这等人，是安拉所弃绝的，故他使他们变聋，使他们变瞎。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4569,
+      "verseNumber": 24,
+      "verseKey": "47:24",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 446,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَآ",
+      "pageNumber": 509,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 99991,
+          "resourceId": 20,
+          "text": "Then do they not reflect upon the Qur’ān, or are there locks upon [their] hearts?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751282,
+          "resourceId": 109,
+          "text": "他们怎么不沉思《古兰经》呢？难道他们的心上有锁？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4570,
+      "verseNumber": 25,
+      "verseKey": "47:25",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 446,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ ٱلَّذِينَ ٱرْتَدُّوا۟ عَلَىٰٓ أَدْبَـٰرِهِم مِّنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَى ۙ ٱلشَّيْطَـٰنُ سَوَّلَ لَهُمْ وَأَمْلَىٰ لَهُمْ",
+      "pageNumber": 509,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100102,
+          "resourceId": 20,
+          "text": "Indeed, those who reverted back [to disbelief] after guidance had become clear to them - Satan enticed them and prolonged hope for them.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751283,
+          "resourceId": 109,
+          "text": "认清正道，然后叛教者，恶魔怂恿他们，并宽慰他们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4571,
+      "verseNumber": 26,
+      "verseKey": "47:26",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 446,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لِلَّذِينَ كَرِهُوا۟ مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمْ فِى بَعْضِ ٱلْأَمْرِ ۖ وَٱللَّهُ يَعْلَمُ إِسْرَارَهُمْ",
+      "pageNumber": 509,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100104,
+          "resourceId": 20,
+          "text": "That is because they said to those who disliked what Allāh sent down,<sup foot_note=229723>1</sup> \"We will obey you in part of the matter.\" And Allāh knows what they conceal.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751284,
+          "resourceId": 109,
+          "text": "那是因为他们曾对那些厌恶安拉所降示的迹象者说：“对于一部分事情，我们将顺从你们。”安拉知道他们的隐情。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4572,
+      "verseNumber": 27,
+      "verseKey": "47:27",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 446,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "فَكَيْفَ إِذَا تَوَفَّتْهُمُ ٱلْمَلَـٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَـٰرَهُمْ",
+      "pageNumber": 509,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100105,
+          "resourceId": 20,
+          "text": "Then how [will it be] when the angels take them in death, striking their faces and their backs?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751285,
+          "resourceId": 109,
+          "text": "当众天使打着他们的脸和背，而使他们死亡的时候，他们将怎么办呢？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4573,
+      "verseNumber": 28,
+      "verseKey": "47:28",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 446,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "ذَٰلِكَ بِأَنَّهُمُ ٱتَّبَعُوا۟ مَآ أَسْخَطَ ٱللَّهَ وَكَرِهُوا۟ رِضْوَٰنَهُۥ فَأَحْبَطَ أَعْمَـٰلَهُمْ",
+      "pageNumber": 509,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100106,
+          "resourceId": 20,
+          "text": "That is because they followed what angered Allāh and disliked [what earns] His pleasure, so He rendered worthless their deeds.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751286,
+          "resourceId": 109,
+          "text": "那是因为他们顺从那触犯安拉的事物，并厌恶他所喜悦的事物，故他使他们的善功无效。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4574,
+      "verseNumber": 29,
+      "verseKey": "47:29",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 447,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "أَمْ حَسِبَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ أَن لَّن يُخْرِجَ ٱللَّهُ أَضْغَـٰنَهُمْ",
+      "pageNumber": 509,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100107,
+          "resourceId": 20,
+          "text": "Or do those in whose hearts is disease think that Allāh would never expose their [feelings of] hatred?",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751287,
+          "resourceId": 109,
+          "text": "难道心中有病的人们以为安拉不揭穿他们的怨恨么？",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4575,
+      "verseNumber": 30,
+      "verseKey": "47:30",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 447,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَوْ نَشَآءُ لَأَرَيْنَـٰكَهُمْ فَلَعَرَفْتَهُم بِسِيمَـٰهُمْ ۚ وَلَتَعْرِفَنَّهُمْ فِى لَحْنِ ٱلْقَوْلِ ۚ وَٱللَّهُ يَعْلَمُ أَعْمَـٰلَكُمْ",
+      "pageNumber": 510,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100110,
+          "resourceId": 20,
+          "text": "And if We willed, We could show them to you, and you would know them by their mark; but you will surely know them by the tone of [their] speech. And Allāh knows your deeds.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751288,
+          "resourceId": 109,
+          "text": "假若我意欲，我必定使你知道他们，你必定借他们的仪表而认识他们，你必定从他们的口气而认识他们。安拉知道你们的善功。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4576,
+      "verseNumber": 31,
+      "verseKey": "47:31",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 447,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ ٱلْمُجَـٰهِدِينَ مِنكُمْ وَٱلصَّـٰبِرِينَ وَنَبْلُوَا۟ أَخْبَارَكُمْ",
+      "pageNumber": 510,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100111,
+          "resourceId": 20,
+          "text": "And We will surely test you until We make evident those who strive among you [for the cause of Allāh] and the patient, and We will test your affairs.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751289,
+          "resourceId": 109,
+          "text": "我必定要试验你们，直到我认识你们中的奋斗者和坚忍者，我将考核关于你们的工作的报告。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4577,
+      "verseNumber": 32,
+      "verseKey": "47:32",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 203,
+      "rukuNumber": 447,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ وَشَآقُّوا۟ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَىٰ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًٔا وَسَيُحْبِطُ أَعْمَـٰلَهُمْ",
+      "pageNumber": 510,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100112,
+          "resourceId": 20,
+          "text": "Indeed, those who disbelieved and averted [people] from the path of Allāh and opposed the Messenger after guidance had become clear to them - never will they harm Allāh at all, and He will render worthless their deeds.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751290,
+          "resourceId": 109,
+          "text": "不信道，并妨碍主道，且在认识正道后反对使者的人们，绝不能损伤安拉一丝毫，他要使他们的善功无效。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4578,
+      "verseNumber": 33,
+      "verseKey": "47:33",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 204,
+      "rukuNumber": 447,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَلَا تُبْطِلُوٓا۟ أَعْمَـٰلَكُمْ",
+      "pageNumber": 510,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100113,
+          "resourceId": 20,
+          "text": "O you who have believed, obey Allāh and obey the Messenger and do not invalidate your deeds.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751291,
+          "resourceId": 109,
+          "text": "信道的人们啊！你们应当服从安拉，应当服从使者，你们不要使你们的善功无效。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4579,
+      "verseNumber": 34,
+      "verseKey": "47:34",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 204,
+      "rukuNumber": 447,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ثُمَّ مَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ",
+      "pageNumber": 510,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100114,
+          "resourceId": 20,
+          "text": "Indeed, those who disbelieved and averted [people] from the path of Allāh and then died while they were disbelievers - never will Allāh forgive them.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751292,
+          "resourceId": 109,
+          "text": "不信道、妨碍主道、死时还不信道的人们，安拉绝不赦宥他们。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4580,
+      "verseNumber": 35,
+      "verseKey": "47:35",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 204,
+      "rukuNumber": 447,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "فَلَا تَهِنُوا۟ وَتَدْعُوٓا۟ إِلَى ٱلسَّلْمِ وَأَنتُمُ ٱلْأَعْلَوْنَ وَٱللَّهُ مَعَكُمْ وَلَن يَتِرَكُمْ أَعْمَـٰلَكُمْ",
+      "pageNumber": 510,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100115,
+          "resourceId": 20,
+          "text": "So do not weaken and call for peace while you are superior; and Allāh is with you and will never deprive you of [the reward of] your deeds.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751293,
+          "resourceId": 109,
+          "text": "你们不要气馁，不要求和，你们是占优势的，安拉是与你们同在的，他绝不使你们的善功无效。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4581,
+      "verseNumber": 36,
+      "verseKey": "47:36",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 204,
+      "rukuNumber": 447,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "إِنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ ۚ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ يُؤْتِكُمْ أُجُورَكُمْ وَلَا يَسْـَٔلْكُمْ أَمْوَٰلَكُمْ",
+      "pageNumber": 510,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100116,
+          "resourceId": 20,
+          "text": "[This] worldly life is only amusement and diversion. And if you believe and fear Allāh, He will give you your rewards and not ask you for your properties.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751294,
+          "resourceId": 109,
+          "text": "今世的生活，只是游戏和娱乐。如果你们信道，并且敬畏他，他要将你们的报酬赏赐你们。他不索取你们的财产。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4582,
+      "verseNumber": 37,
+      "verseKey": "47:37",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 204,
+      "rukuNumber": 447,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "إِن يَسْـَٔلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا۟ وَيُخْرِجْ أَضْغَـٰنَكُمْ",
+      "pageNumber": 510,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100117,
+          "resourceId": 20,
+          "text": "If He should ask you for them and press you, you would withhold, and He would expose your hatred [i.e., unwillingness].",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751295,
+          "resourceId": 109,
+          "text": "如果他勒索你们的财产，你们就要吝啬，那吝啬要揭穿你们的怨恨。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    },
+    {
+      "id": 4583,
+      "verseNumber": 38,
+      "verseKey": "47:38",
+      "hizbNumber": 51,
+      "rubElHizbNumber": 204,
+      "rukuNumber": 447,
+      "manzilNumber": 6,
+      "sajdahNumber": null,
+      "textUthmani": "هَـٰٓأَنتُمْ هَـٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ فَمِنكُم مَّن يَبْخَلُ ۖ وَمَن يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَن نَّفْسِهِۦ ۚ وَٱللَّهُ ٱلْغَنِىُّ وَأَنتُمُ ٱلْفُقَرَآءُ ۚ وَإِن تَتَوَلَّوْا۟ يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓا۟ أَمْثَـٰلَكُم",
+      "pageNumber": 510,
+      "juzNumber": 26,
+      "translations": [
+        {
+          "id": 100118,
+          "resourceId": 20,
+          "text": "Here you are - those invited to spend in the cause of Allāh - but among you are those who withhold [out of greed]. And whoever withholds only withholds [benefit] from himself; and Allāh is the Free of need, while you are the needy. And if you turn away [i.e., refuse], He will replace you with another people; then they will not be the likes of you.",
+          "languageId": 38,
+          "languageName": "english"
+        },
+        {
+          "id": 751296,
+          "resourceId": 109,
+          "text": "你们这等人啊！有人劝你们为主道而费用，你们中却有吝啬的。吝啬的人自受吝啬之害。安拉确是无求的，你们确是有求的。如果你们违背命令，他就要以别的民众代替你们，然后，他们不像你们样。",
+          "languageId": 185,
+          "languageName": "chinese"
+        }
+      ]
+    }
+  ]
+}
