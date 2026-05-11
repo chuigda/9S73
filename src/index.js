@@ -1,16 +1,17 @@
-import { readFile, readdir } from 'node:fs/promises'
+import { readdir } from 'node:fs/promises'
 import path from 'node:path'
 import { fileURLToPath, pathToFileURL } from 'node:url'
 
 import { Client, Collection, Events, GatewayIntentBits, MessageFlags } from 'discord.js'
+
+import config from './util/config.js'
 
 const indexDirectory = path.dirname(fileURLToPath(import.meta.url))
 const foldersPath = path.join(indexDirectory, 'commands')
 
 console.info('Starting application')
 
-const configPath = path.resolve(indexDirectory, '..', 'config.json')
-const { token } = JSON.parse(await readFile(configPath))
+const { token } = config
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds] })
 client.commands = new Collection()

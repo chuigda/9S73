@@ -10,7 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "discord.js": "^14.26.4"
+    "discord.js": "^14.26.4",
+    "openai": "^6.37.0"
   },
   "devDependencies": {
     "@quranjs/api": "^2.2.0"
