@@ -32,7 +32,7 @@ const rest = new REST().setToken(token)
 
 try {
     console.info(`Started refreshing ${commands.length} application (/) commands`)
-    const data = await rest.put(Routes.applicationGuildCommands(clientId), { body: commands })
+    const data = await rest.put(Routes.applicationGuildCommands(clientId, guildId), { body: commands })
     console.info(`Successfully reloaded ${data.length} application (/) commands`)
 } catch (error) {
     console.error(error)
