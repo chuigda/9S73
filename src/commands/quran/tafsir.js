@@ -12,10 +12,10 @@ export const data = new SlashCommandBuilder()
         .setName('src')
         .setDescription('经注来源')
         .addChoices(
-            { name: 'Tafsir Ibn Kathir', value: 'tafsir_ibn_kathir' },
+            { name: 'Tafsir Ibn Kathir (Abridged) - Hafiz ibn Kathir', value: 'tafsir_ibn_kathir' },
             { name: 'Tazkirul Quran - Maulana Wakhiddudin Khan', value: 'tazkirul_quran' },
             { name: 'Maarif al-Quran - Mufti Shafi Muhammad Usami', value: 'maarif_al_quran' },
-            { name: 'LLM-Hybrid', value: 'LLM' }
+            { name: 'LLM-Hybrid - Let LLM synthese them', value: 'llm' }
         )
     )
     .addBooleanOption(option => option
