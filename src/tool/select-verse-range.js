@@ -28,9 +28,7 @@ export const getVerses = {
  * 执行 get_verses 工具调用：从章节数据中提取指定范围的经文
  */
 export const executeGetVerses = (surahVerses, { start, end }) => {
-    const selected = surahVerses.filter(
-        v => v.verseNumber >= start && v.verseNumber <= end
-    )
+    const selected = surahVerses.slice(Math.max(0, start - 1), end)
     return selected.map(v => {
         const cn = v.translations.find(t => t.languageName === 'chinese')?.text || v.translations[0]?.text || ''
         return `[${v.verseNumber}] ${v.textUthmani}\n    ${cn}`
