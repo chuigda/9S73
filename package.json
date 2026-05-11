@@ -11,5 +11,8 @@
   },
   "dependencies": {
     "discord.js": "^14.26.4"
+  },
+  "devDependencies": {
+    "@quranjs/api": "^3.2.0"
   }
 }
