@@ -25,8 +25,11 @@ const pickRandomSurah = async () => {
     return content
 }
 
-const queryLLM = async (prompt, surahVerses) => {
-    const messages = [{ role: 'user', content: prompt }]
+const queryLLM = async ({ system, user }, surahVerses) => {
+    const messages = [
+        { role: 'system', content: system },
+        { role: 'user', content: user },
+    ]
     const tools = [getVerses]
 
     // tool call 循环：LLM 可多次请求额外经文
@@ -99,7 +102,7 @@ const randomVerse = async interaction => {
         const surroundingVerses = verses.slice(startIdx, endIdx)
 
         // 4. 构建提示词并调用 LLM
-        const prompt = await buildRangeSelectPrompt(surah, targetVerse, surroundingVerses)
+        const prompt = buildRangeSelectPrompt(surah, targetVerse, surroundingVerses)
         const llmResult = await queryLLM(prompt, verses)
 
         let selectedVerses

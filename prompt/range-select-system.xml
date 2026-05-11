@@ -13,17 +13,3 @@ Rules:
 Example output:
 {"start": 3, "end": 7}
 </instruction>
-
-<context>
-Chapter: {{chapterName}} ({{chapterNameArabic}})
-Chapter Number: {{chapterNumber}}
-Target Verse Number: {{targetVerseNumber}}
-
-Surrounding Verses:
-{{verses}}
-</context>
-
-<output_format>
-Respond with ONLY a valid JSON object. No explanation, no markdown, no extra text.
-{"start": <number>, "end": <number>}
-</output_format>
