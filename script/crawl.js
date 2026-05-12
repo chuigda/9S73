@@ -43,6 +43,39 @@ function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms))
 }
 
+/**
+ * 滑动窗口提取 tafsir：将连续相同内容的经注合并为一个条目
+ * @param {Array} verses - 经文数组
+ * @param {number} resourceId - tafsir 的 resourceId
+ * @returns {Array} 合并后的 tafsir 数组，每个元素含 startVerse, endVerse, id, text
+ */
+function extractTafsir(verses, resourceId) {
+    const result = []
+    let current = null
+
+    for (const verse of verses) {
+        const tafsir = verse.tafsirs?.find(t => t.resourceId === resourceId)
+        if (!tafsir) continue
+
+        if (current && current.text === tafsir.text) {
+            // 内容相同，扩展范围
+            current.endVerse = verse.verseNumber
+        } else {
+            // 新的一段 tafsir
+            if (current) result.push(current)
+            current = {
+                startVerse: verse.verseNumber,
+                endVerse: verse.verseNumber,
+                id: tafsir.id,
+                text: tafsir.text,
+            }
+        }
+    }
+    if (current) result.push(current)
+
+    return result
+}
+
 async function fetchChapterVerses(client, chapterId, versesCount) {
     const totalPages = Math.ceil(versesCount / PER_PAGE)
     const allVerses = []
@@ -125,6 +158,16 @@ for (const chapter of selected) {
     try {
         const verses = await fetchChapterVerses(client, chapter.id, chapter.verses_count)
 
+        // 滑动窗口：按 resourceId 分别提取 tafsir，合并连续相同内容
+        const tafsirIbnKathir = extractTafsir(verses, 169)
+        const maarifAlQuran = extractTafsir(verses, 168)
+        const tazkirulQuran = extractTafsir(verses, 817)
+
+        // 从 verses 中删除 tafsirs 字段
+        for (const verse of verses) {
+            delete verse.tafsirs
+        }
+
         const result = {
             id: chapter.id,
             nameSimple: chapter.name_simple,
@@ -132,6 +175,9 @@ for (const chapter of selected) {
             versesCount: chapter.verses_count,
             revelationPlace: chapter.revelation_place,
             verses,
+            tafsirIbnKathir,
+            maarifAlQuran,
+            tazkirulQuran,
         }
 
         await writeFile(outFile, JSON.stringify(result, null, 2))

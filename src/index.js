@@ -52,16 +52,20 @@ client.on(
             await command.execute(interaction)
         } catch (error) {
             console.error(`error when executing command ${interaction.commandName}: ${error}`)
-            if (interaction.replied || interaction.deferred) {
-                await interaction.followUp({
-                    content: `There was an error while executing command ${interaction.commandName}`,
-                    flags: MessageFlags.Ephemeral
-                })
-            } else {
-                await interaction.reply({
-                    content: `There was an error while executing command ${interaction.commandName}`,
-                    flags: MessageFlags.Ephemeral
-                })
+            try {
+                if (interaction.replied || interaction.deferred) {
+                    await interaction.followUp({
+                        content: `There was an error while executing command ${interaction.commandName}`,
+                        flags: MessageFlags.Ephemeral
+                    })
+                } else {
+                    await interaction.reply({
+                        content: `There was an error while executing command ${interaction.commandName}`,
+                        flags: MessageFlags.Ephemeral
+                    })
+                }
+            } catch (error2) {
+                console.error(`error when sending interaction failure: ${error2}`)
             }
         }
     }
