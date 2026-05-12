@@ -1,33 +1,119 @@
+import { readFile, readdir } from 'node:fs/promises'
+import path from 'node:path'
+import { fileURLToPath } from 'node:url'
+
 import { SlashCommandBuilder } from 'discord.js'
 
+import { executeGetTafsirRange } from '../../tool/get-tafsir-range.js'
+import { parseVerseNumber } from '../../util/verse-num.js'
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url))
+const dataDir = path.resolve(__dirname, '..', '..', '..', 'data')
 
 export const data = new SlashCommandBuilder()
     .setName('tafsir')
-    .setDescription('查询随机或指定的古兰经经文的经注')
+    .setDescription('查询指定经文范围的经注')
     .addStringOption(option => option
         .setName('verse')
         .setDescription('经文编号，如 2:32，13:11，96:6-7 等')
         .setRequired(true))
     .addStringOption(option => option
         .setName('src')
-        .setDescription('经注来源')
-        .setRequired(true)
+        .setDescription('经注来源（留空默认 LLM 合成）')
         .addChoices(
+            { name: 'LLM-Hybrid - Let LLM synthesize them', value: 'llm' },
             { name: 'Tafsir Ibn Kathir (Abridged) - Hafiz ibn Kathir', value: 'tafsir_ibn_kathir' },
             { name: 'Tazkirul Quran - Maulana Wakhiddudin Khan', value: 'tazkirul_quran' },
-            { name: 'Maarif al-Quran - Mufti Shafi Muhammad Usami', value: 'maarif_al_quran' },
-            { name: 'LLM-Hybrid - Let LLM synthese them', value: 'llm' }
+            { name: "Ma'ariful Quran - Mufti Shafi Muhammad Usmani", value: 'maarif_al_quran' }
         )
     )
-    .addBooleanOption(option => option
-        .setName('translate')
-        .setDescription('将经注翻译成中文'))
+
+const loadSurah = async chapter => {
+    const surahDir = path.join(dataDir, 'surah')
+    const files = (await readdir(surahDir)).filter(f => f.endsWith('.json'))
+    const targetFile = files.find(f => parseInt(f.split('-')[0], 10) === chapter)
+    if (!targetFile) return null
+    return JSON.parse(await readFile(path.join(surahDir, targetFile), 'utf-8'))
+}
+
+/**
+ * 按行拆分文本为不超过 maxLen 的消息块
+ * 尽量在换行处断开，不会把一行拆到两条消息里
+ */
+const splitMessages = (text, maxLen = 1900) => {
+    const lines = text.split('\n')
+    const chunks = []
+    let current = ''
+
+    for (const line of lines) {
+        // 单行超长时强制截断
+        if (line.length > maxLen) {
+            if (current) {
+                chunks.push(current)
+                current = ''
+            }
+            for (let i = 0; i < line.length; i += maxLen) {
+                chunks.push(line.slice(i, i + maxLen))
+            }
+            continue
+        }
+
+        if (current.length + line.length + 1 > maxLen) {
+            chunks.push(current)
+            current = line
+        } else {
+            current = current ? current + '\n' + line : line
+        }
+    }
+
+    if (current) chunks.push(current)
+    return chunks
+}
 
 export const execute = async interaction => {
-    const verse = interaction.options.getString('verse')
-    if (!verse) {
-        interaction.reply('将输出随机经文')
-    } else {
-        interaction.reply(`将输出指定经文: ${verse}`)
+    const verseInput = interaction.options.getString('verse')
+    const source = interaction.options.getString('src')
+
+    await interaction.deferReply()
+
+    // 解析经文编号
+    const parsed = parseVerseNumber(verseInput)
+    if (typeof parsed === 'string') {
+        await interaction.editReply(`输入格式错误: ${parsed}`)
+        return
+    }
+
+    const [chapter, start, end] = parsed
+
+    // 加载章节数据
+    const surah = await loadSurah(chapter)
+    if (!surah) {
+        await interaction.editReply(`未找到第 ${chapter} 章`)
+        return
+    }
+
+    // 默认采用 LLM 合成模式
+    const effectiveSource = source ?? 'llm'
+
+    if (effectiveSource === 'llm') {
+        await interaction.editReply('LLM 合成模式尚未实现，请选择具体经注来源。')
+        return
+    }
+
+    // 执行经注查询
+    const result = executeGetTafsirRange(surah, { start, end, sources: [effectiveSource] })
+
+    // 格式化输出
+    const header = start === end
+        ? `📖 **Tafsir ${chapter}:${start}**`
+        : `📖 **Tafsir ${chapter}:${start}-${end}**`
+
+    const fullText = `${header}\n\n${result}`
+    const chunks = splitMessages(fullText)
+
+    // 第一条用 editReply，后续用 followUp
+    await interaction.editReply(chunks[0])
+    for (let i = 1; i < chunks.length; i++) {
+        await interaction.followUp(chunks[i])
     }
 }

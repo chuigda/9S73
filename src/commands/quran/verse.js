@@ -3,9 +3,8 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 import { SlashCommandBuilder } from 'discord.js'
-import OpenAI from 'openai'
 
-import config from '../../util/config.js'
+import { queryLLM } from '../../util/llm.js'
 import { buildRangeSelectPrompt } from '../../util/prompt.js'
 import { getVerses, executeGetVerses } from '../../tool/select-verse-range.js'
 import { parseVerseNumber } from '../../util/verse-num.js'
@@ -13,65 +12,12 @@ import { parseVerseNumber } from '../../util/verse-num.js'
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const dataDir = path.resolve(__dirname, '..', '..', '..', 'data')
 
-const openai = new OpenAI({
-    baseURL: config.openai.baseURL,
-    apiKey: config.openai.apiKey,
-})
-
 const pickRandomSurah = async () => {
     const surahDir = path.join(dataDir, 'surah')
     const files = (await readdir(surahDir)).filter(f => f.endsWith('.json'))
     const file = files[Math.floor(Math.random() * files.length)]
     const content = JSON.parse(await readFile(path.join(surahDir, file), 'utf-8'))
     return content
-}
-
-const queryLLM = async ({ system, user }, surahVerses) => {
-    const messages = [
-        { role: 'system', content: system },
-        { role: 'user', content: user },
-    ]
-    const tools = [getVerses]
-
-    // tool call 循环：LLM 可多次请求额外经文
-    for (let i = 0; i < 5; i++) {
-        const response = await openai.chat.completions.create({
-            model: config.openai.model,
-            messages,
-            tools,
-            temperature: 0.3,
-        })
-
-        const choice = response.choices[0]
-
-        // LLM 决定调用工具
-        if (choice.finish_reason === 'tool_calls' || choice.message.tool_calls?.length) {
-            messages.push(choice.message)
-
-            for (const toolCall of choice.message.tool_calls) {
-                const args = JSON.parse(toolCall.function.arguments)
-                const result = executeGetVerses(surahVerses, args)
-                messages.push({
-                    role: 'tool',
-                    tool_call_id: toolCall.id,
-                    content: result,
-                })
-            }
-            continue
-        }
-
-        // LLM 返回最终文本结果
-        const text = choice.message.content.trim()
-        const jsonMatch = text.match(/\{[\s\S]*?\}/)
-        if (!jsonMatch) return null
-        try {
-            return JSON.parse(jsonMatch[0])
-        } catch {
-            return null
-        }
-    }
-
-    return null
 }
 
 const formatVerseOutput = (surah, verses) => {
@@ -104,7 +50,7 @@ const randomVerse = async interaction => {
 
         // 4. 构建提示词并调用 LLM
         const prompt = buildRangeSelectPrompt(surah, targetVerse, surroundingVerses)
-        const llmResult = await queryLLM(prompt, verses)
+        const llmResult = await queryLLM(prompt, [getVerses], (name, args) => executeGetVerses(verses, args))
 
         let selectedVerses
         if (llmResult && llmResult.start && llmResult.end) {
