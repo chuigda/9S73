@@ -11,6 +11,7 @@ export const data = new SlashCommandBuilder()
     .addStringOption(option => option
         .setName('src')
         .setDescription('经注来源')
+        .setRequired(true)
         .addChoices(
             { name: 'Tafsir Ibn Kathir (Abridged) - Hafiz ibn Kathir', value: 'tafsir_ibn_kathir' },
             { name: 'Tazkirul Quran - Maulana Wakhiddudin Khan', value: 'tazkirul_quran' },

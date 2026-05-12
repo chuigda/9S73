@@ -15,6 +15,7 @@ const { clientId, clientSecret } = config.quranDotCom
 const PER_PAGE = 50
 const OUTPUT_DIR = "data/surah"
 const TRANSLATIONS = [20, 109] // Sahih International, Chinese (Muhammad Makin)
+const TAFSIRS = [169, 168, 817] // Ibn Kathir (Abridged), Ma'arif al-Qur'an, Tazkirul Quran (Maulana Wahiduddin Khan)
 
 const VERSE_FIELDS = {
     chapterId: false,
@@ -48,6 +49,7 @@ async function fetchChapterVerses(client, chapterId, versesCount) {
 
     for (let page = 1; page <= totalPages; page++) {
         const verses = await client.verses.findByChapter(String(chapterId), {
+            tafsirs: TAFSIRS,
             translations: TRANSLATIONS,
             words: false,
             perPage: PER_PAGE,
