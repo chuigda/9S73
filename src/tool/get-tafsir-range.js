@@ -72,7 +72,7 @@ export const executeGetTafsirRange = (surahData, { start, end, sources }) => {
         ? sources
         : Object.keys(SOURCE_FIELD_MAP)
 
-    const results = []
+    const tafsirElements = []
 
     for (const source of activeSources) {
         const fieldName = SOURCE_FIELD_MAP[source]
@@ -87,21 +87,25 @@ export const executeGetTafsirRange = (surahData, { start, end, sources }) => {
 
         if (matched.length === 0) continue
 
-        const displayName = SOURCE_DISPLAY_NAME[source]
-        const formattedEntries = matched.map(entry => {
-            const rangeLabel = entry.startVerse === entry.endVerse
-                ? `${surahData.id}:${entry.startVerse}`
-                : `${surahData.id}:${entry.startVerse}-${entry.endVerse}`
+        const sourceId = source.replace(/_/g, '-')
+        const verseElements = matched.map(entry => {
             const text = stripHtml(entry.text)
-            return `[${rangeLabel}]\n${text}`
+            if (entry.startVerse === entry.endVerse) {
+                return `    <verse verse="${entry.startVerse}">\n      ${text}\n    </verse>`
+            }
+            return `    <verse start="${entry.startVerse}" end="${entry.endVerse}">\n      ${text}\n    </verse>`
         })
 
-        results.push(`=== ${displayName} ===\n\n${formattedEntries.join('\n\n')}`)
+        tafsirElements.push(`  <tafsir id="${sourceId}">\n${verseElements.join('\n')}\n  </tafsir>`)
     }
 
-    if (results.length === 0) {
-        return `No tafsir found for ${surahData.id}:${start}-${end}`
+    const verseAttr = start === end
+        ? `${surahData.id}:${start}`
+        : `${surahData.id}:${start}-${end}`
+
+    if (tafsirElements.length === 0) {
+        return `<tafsirs range="${verseAttr}" />`
     }
 
-    return results.join('\n\n---\n\n')
+    return `<tafsirs range="${verseAttr}">\n${tafsirElements.join('\n')}\n</tafsirs>`
 }

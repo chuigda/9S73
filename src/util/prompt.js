@@ -11,6 +11,7 @@ export const loadPrompt = async (name) => {
 
 const rangeSelectSystem = await loadPrompt('range-select-system.xml')
 const rangeSelectUser = await loadPrompt('range-select-user.xml')
+export const tafsirTranslateSystem = await loadPrompt('tafsir-translate-system.xml')
 
 export const buildRangeSelectPrompt = (surah, targetVerse, surroundingVerses) => {
     const versesText = surroundingVerses

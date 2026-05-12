@@ -8,6 +8,27 @@ const openai = new OpenAI({
 })
 
 /**
+ * 简单 LLM 调用（无 tool calling），用于翻译等纯文本任务
+ *
+ * @param {{ system: string, user: string }} prompt - 系统和用户提示词
+ * @param {object} [options] - 可选参数
+ * @param {number} [options.temperature] - 温度，默认 0.3
+ * @returns {string|null} LLM 返回的文本，或 null
+ */
+export const chatLLM = async ({ system, user }, { temperature = 0.3 } = {}) => {
+    const model = config.openai.translationModel || config.openai.model
+    const response = await openai.chat.completions.create({
+        model,
+        messages: [
+            { role: 'system', content: system },
+            { role: 'user', content: user },
+        ],
+        temperature,
+    })
+    return response.choices[0]?.message?.content?.trim() || null
+}
+
+/**
  * 通用 LLM 查询，支持 tool call 循环
  *
  * @param {{ system: string, user: string }} prompt - 系统和用户提示词

@@ -5,6 +5,8 @@ import { fileURLToPath } from 'node:url'
 import { SlashCommandBuilder } from 'discord.js'
 
 import { executeGetTafsirRange } from '../../tool/get-tafsir-range.js'
+import { chatLLM } from '../../util/llm.js'
+import { tafsirTranslateSystem } from '../../util/prompt.js'
 import { parseVerseNumber } from '../../util/verse-num.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
@@ -101,14 +103,46 @@ export const execute = async interaction => {
     }
 
     // 执行经注查询
+    const verseRange = start === end ? `${chapter}:${start}` : `${chapter}:${start}-${end}`
     const result = executeGetTafsirRange(surah, { start, end, sources: [effectiveSource] })
 
-    // 格式化输出
-    const header = start === end
-        ? `📖 **Tafsir ${chapter}:${start}**`
-        : `📖 **Tafsir ${chapter}:${start}-${end}**`
+    // 构建经文参考文本
+    const selectedVerses = surah.verses.filter(
+        v => v.verseNumber >= start && v.verseNumber <= end
+    )
+    const verseLines = selectedVerses.map(v => {
+        const cn = v.translations.find(t => t.languageName === 'chinese')?.text || ''
+        return `[${v.verseNumber}] ${v.textUthmani}\n${cn}`
+    }).join('\n\n')
 
-    const fullText = `${header}\n\n${result}`
+    const userPrompt = `<verse range="${verseRange}">\n${verseLines}\n</verse>\n${result}`
+
+    // LLM 翻译
+    const translated = await chatLLM({
+        system: tafsirTranslateSystem,
+        user: userPrompt,
+    })
+
+    if (!translated) {
+        await interaction.editReply(`翻译失败，请稍后再试。`)
+        return
+    }
+
+    // 格式化输出
+    const SOURCE_TITLE = {
+        tafsir_ibn_kathir: 'Tafsir Ibn Kathir',
+        maarif_al_quran: "Ma'ariful Quran",
+        tazkirul_quran: 'Tazkirul Quran',
+    }
+    const sourceTitle = SOURCE_TITLE[effectiveSource] || effectiveSource
+    const header = `**${sourceTitle} · ${verseRange}**`
+
+    const verseBlock = selectedVerses.map(v => {
+        const cn = v.translations.find(t => t.languageName === 'chinese')?.text || ''
+        return `> ${v.textUthmani}\n> ${cn}`
+    }).join('\n\n')
+
+    const fullText = `${header}\n\n${verseBlock}\n\n${translated}`
     const chunks = splitMessages(fullText)
 
     // 第一条用 editReply，后续用 followUp
