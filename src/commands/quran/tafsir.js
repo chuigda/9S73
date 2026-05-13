@@ -131,7 +131,7 @@ export const execute = async interaction => {
     // 格式化输出
     const SOURCE_TITLE = {
         tafsir_ibn_kathir: 'Tafsir Ibn Kathir',
-        maarif_al_quran: "Ma'ariful Quran",
+        maarif_al_quran: "Ma'arif al-Qur'an",
         tazkirul_quran: 'Tazkirul Quran',
     }
     const sourceTitle = SOURCE_TITLE[effectiveSource] || effectiveSource
