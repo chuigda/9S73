@@ -1,0 +1,17 @@
+{
+    "token": "YOUR_DISCORD_BOT_TOKEN",
+    "clientId": "YOUR_DISCORD_CLIENT_ID",
+    "guildId": "YOUR_DISCORD_GUILD_ID",
+
+    "quranDotCom": {
+        "clientId": "YOUR_QURAN_DOT_COM_CLIENT_ID",
+        "clientSecret": "YOUR_QURAN_DOT_COM_CLIENT_SECRET"
+    },
+
+    "openai": {
+        "baseURL": "https://api.deepseek.com/v1",
+        "apiKey": "YOUR_API_KEY",
+        "model": "deepseek-v4-flash",
+        "translationModel": "deepseek-v4-pro"
+    }
+}
